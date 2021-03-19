@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>于泽芳 | 智能计算机体系结构实验室</title>
+    <link>https://sjtu-icat.github.io/author/%E4%BA%8E%E6%B3%BD%E8%8A%B3/</link>
+      <atom:link href="https://sjtu-icat.github.io/author/%E4%BA%8E%E6%B3%BD%E8%8A%B3/index.xml" rel="self" type="application/rss+xml" />
+    <description>于泽芳</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2021 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Thu, 18 Mar 2021 22:34:00 +0800</lastBuildDate>
+    <image>
+      <url>https://sjtu-icat.github.io/author/%E4%BA%8E%E6%B3%BD%E8%8A%B3/avatar_huc55c2c653f2499117ca31ed2759473ad_76450_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>于泽芳</title>
+      <link>https://sjtu-icat.github.io/author/%E4%BA%8E%E6%B3%BD%E8%8A%B3/</link>
+    </image>
+    
+    <item>
+      <title>GTAV虚拟数据集采集</title>
+      <link>https://sjtu-icat.github.io/project/gtav-dataset/</link>
+      <pubDate>Thu, 18 Mar 2021 22:34:00 +0800</pubDate>
+      <guid>https://sjtu-icat.github.io/project/gtav-dataset/</guid>
+      <description>&lt;p&gt;GTA5（侠盗飞车手5，Grand Theft Auto V）是一款开放式游戏。游戏背景的洛圣都市是基于现实中的美国洛杉矶市和加州南部制作的。游戏地图面积252平方公里（不含水域），360平方公里（含水域）。地图里自然景观丰富，包括城市、乡村、高山、森林、沙滩等等。其环境场景的逼真度使得可以利用该游戏生成虚拟数据集。&lt;/p&gt;
+&lt;p&gt;由于GTA5出色的游戏性，自游戏发售以来，玩家们利用游戏内的功能函数开发了许多脚本，例如自定义车辆的皮肤、人物的衣服，或者生成NPC角色，消除地图上的车辆等。有玩家把这些函数封装成库文件native_db，并开发相关的插件ScriptHookV用于把脚本加载到游戏里执行。因此玩家利用该库即可编写脚本，实现自己想要实现的功能。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>课堂行为识别</title>
+      <link>https://sjtu-icat.github.io/project/classroom/</link>
+      <pubDate>Thu, 18 Mar 2021 22:34:00 +0800</pubDate>
+      <guid>https://sjtu-icat.github.io/project/classroom/</guid>
+      <description>&lt;p&gt;OpenPose has represented the first real-time multi-person system to jointly detect human body, hand, facial, and foot keypoints (in total 135 keypoints) on single images.&lt;/p&gt;
+&lt;p&gt;It is authored by Ginés Hidalgo, Zhe Cao, Tomas Simon, Shih-En Wei, Yaadhav Raaj, Hanbyul Joo, and Yaser Sheikh. It is maintained by Ginés Hidalgo and Yaadhav Raaj. OpenPose would not be possible without the CMU Panoptic Studio dataset. We would also like to thank all the people who has helped OpenPose in any way.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

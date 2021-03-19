@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>付宇卓 | 智能计算机体系结构实验室</title>
+    <link>https://sjtu-icat.github.io/author/%E4%BB%98%E5%AE%87%E5%8D%93/</link>
+      <atom:link href="https://sjtu-icat.github.io/author/%E4%BB%98%E5%AE%87%E5%8D%93/index.xml" rel="self" type="application/rss+xml" />
+    <description>付宇卓</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2021 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Mon, 06 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sjtu-icat.github.io/author/%E4%BB%98%E5%AE%87%E5%8D%93/avatar_hub8c3b6468bb1632319f6dc2185e485e5_11100_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>付宇卓</title>
+      <link>https://sjtu-icat.github.io/author/%E4%BB%98%E5%AE%87%E5%8D%93/</link>
+    </image>
+    
+    <item>
+      <title>Unsupervised domain adaptation through synthesis for person re-identification</title>
+      <link>https://sjtu-icat.github.io/publication/xiang-2020-unsupervised/</link>
+      <pubDate>Mon, 06 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://sjtu-icat.github.io/publication/xiang-2020-unsupervised/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Attribute analysis with synthetic dataset for person re-identification</title>
+      <link>https://sjtu-icat.github.io/publication/xiang-2020-attribute/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://sjtu-icat.github.io/publication/xiang-2020-attribute/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep unsupervised progressive learning for distant domain adaptation</title>
+      <link>https://sjtu-icat.github.io/publication/xiang-2019-deep/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://sjtu-icat.github.io/publication/xiang-2019-deep/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

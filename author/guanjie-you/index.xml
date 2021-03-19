@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guanjie You | 智能计算机体系结构实验室</title>
+    <link>https://sjtu-icat.github.io/author/guanjie-you/</link>
+      <atom:link href="https://sjtu-icat.github.io/author/guanjie-you/index.xml" rel="self" type="application/rss+xml" />
+    <description>Guanjie You</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2021 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Mon, 06 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sjtu-icat.github.io/media/logo.png</url>
+      <title>Guanjie You</title>
+      <link>https://sjtu-icat.github.io/author/guanjie-you/</link>
+    </image>
+    
+    <item>
+      <title>Unsupervised domain adaptation through synthesis for person re-identification</title>
+      <link>https://sjtu-icat.github.io/publication/xiang-2020-unsupervised/</link>
+      <pubDate>Mon, 06 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://sjtu-icat.github.io/publication/xiang-2020-unsupervised/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Attribute analysis with synthetic dataset for person re-identification</title>
+      <link>https://sjtu-icat.github.io/publication/xiang-2020-attribute/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://sjtu-icat.github.io/publication/xiang-2020-attribute/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

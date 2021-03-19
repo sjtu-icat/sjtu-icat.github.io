@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>谢铭烨 | 智能计算机体系结构实验室</title>
+    <link>https://sjtu-icat.github.io/author/%E8%B0%A2%E9%93%AD%E7%83%A8/</link>
+      <atom:link href="https://sjtu-icat.github.io/author/%E8%B0%A2%E9%93%AD%E7%83%A8/index.xml" rel="self" type="application/rss+xml" />
+    <description>谢铭烨</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2021 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Thu, 18 Mar 2021 22:34:00 +0800</lastBuildDate>
+    <image>
+      <url>https://sjtu-icat.github.io/author/%E8%B0%A2%E9%93%AD%E7%83%A8/avatar_hubbf6fce6610ffdf76bcdadc352c0b198_48582_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>谢铭烨</title>
+      <link>https://sjtu-icat.github.io/author/%E8%B0%A2%E9%93%AD%E7%83%A8/</link>
+    </image>
+    
+    <item>
+      <title>GTAV虚拟数据集采集</title>
+      <link>https://sjtu-icat.github.io/project/gtav-dataset/</link>
+      <pubDate>Thu, 18 Mar 2021 22:34:00 +0800</pubDate>
+      <guid>https://sjtu-icat.github.io/project/gtav-dataset/</guid>
+      <description>&lt;p&gt;GTA5（侠盗飞车手5，Grand Theft Auto V）是一款开放式游戏。游戏背景的洛圣都市是基于现实中的美国洛杉矶市和加州南部制作的。游戏地图面积252平方公里（不含水域），360平方公里（含水域）。地图里自然景观丰富，包括城市、乡村、高山、森林、沙滩等等。其环境场景的逼真度使得可以利用该游戏生成虚拟数据集。&lt;/p&gt;
+&lt;p&gt;由于GTA5出色的游戏性，自游戏发售以来，玩家们利用游戏内的功能函数开发了许多脚本，例如自定义车辆的皮肤、人物的衣服，或者生成NPC角色，消除地图上的车辆等。有玩家把这些函数封装成库文件native_db，并开发相关的插件ScriptHookV用于把脚本加载到游戏里执行。因此玩家利用该库即可编写脚本，实现自己想要实现的功能。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>华域视觉项目</title>
+      <link>https://sjtu-icat.github.io/project/huayu/</link>
+      <pubDate>Thu, 18 Mar 2021 22:34:00 +0800</pubDate>
+      <guid>https://sjtu-icat.github.io/project/huayu/</guid>
+      <description>&lt;p&gt;AI 优化器
+有了世界领先的模型压缩技术，我们可以在对精度影响极小的情况下，将模型的复杂性降低 5 至 50 倍。深度压缩可将您的 AI 推断性能提升到一个新的层次。&lt;/p&gt;
+&lt;p&gt;AI 量化器
+通过将 32 位浮点权值和激活量转换为 INT8 这样的定点，AI 量化器可在不影响预测精度的情况下，降低计算复杂度。定点网络模型需要的内存带宽更少，因此比浮点网络模型速度更快，电源效率更高。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>iCAT主页启动</title>
+      <link>https://sjtu-icat.github.io/post/21-03-18-homepage-start/</link>
+      <pubDate>Thu, 18 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://sjtu-icat.github.io/post/21-03-18-homepage-start/</guid>
+      <description>&lt;p&gt;庆祝iCAT主页建立！&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

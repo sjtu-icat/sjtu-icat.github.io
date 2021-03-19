@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>刘婷 | 智能计算机体系结构实验室</title>
+    <link>https://sjtu-icat.github.io/author/%E5%88%98%E5%A9%B7/</link>
+      <atom:link href="https://sjtu-icat.github.io/author/%E5%88%98%E5%A9%B7/index.xml" rel="self" type="application/rss+xml" />
+    <description>刘婷</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2021 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Thu, 18 Mar 2021 22:34:00 +0800</lastBuildDate>
+    <image>
+      <url>https://sjtu-icat.github.io/author/%E5%88%98%E5%A9%B7/avatar_hu11c1a5a4fed20763a051886236c2762c_63816_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>刘婷</title>
+      <link>https://sjtu-icat.github.io/author/%E5%88%98%E5%A9%B7/</link>
+    </image>
+    
+    <item>
+      <title>Simics仿真平台</title>
+      <link>https://sjtu-icat.github.io/project/simics/</link>
+      <pubDate>Thu, 18 Mar 2021 22:34:00 +0800</pubDate>
+      <guid>https://sjtu-icat.github.io/project/simics/</guid>
+      <description>&lt;p&gt;数据收集完成后，会在对应的 logs/ 文件夹下生成log.txt文件，将其全部转移至 PATH/2_clean_data/architecture_layer/ 文件夹下，按照寄存器名称命名文件夹，分别存放各寄存器的log信息。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Unsupervised domain adaptation through synthesis for person re-identification</title>
+      <link>https://sjtu-icat.github.io/publication/xiang-2020-unsupervised/</link>
+      <pubDate>Mon, 06 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://sjtu-icat.github.io/publication/xiang-2020-unsupervised/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Attribute analysis with synthetic dataset for person re-identification</title>
+      <link>https://sjtu-icat.github.io/publication/xiang-2020-attribute/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://sjtu-icat.github.io/publication/xiang-2020-attribute/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep unsupervised progressive learning for distant domain adaptation</title>
+      <link>https://sjtu-icat.github.io/publication/xiang-2019-deep/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://sjtu-icat.github.io/publication/xiang-2019-deep/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

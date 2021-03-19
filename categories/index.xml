@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories | 智能计算机体系结构实验室</title>
+    <link>https://sjtu-icat.github.io/categories/</link>
+      <atom:link href="https://sjtu-icat.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <description>Categories</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2021 智能计算机体系结构实验室 · 上海交通大学</copyright>
+    <image>
+      <url>https://sjtu-icat.github.io/media/logo.png</url>
+      <title>Categories</title>
+      <link>https://sjtu-icat.github.io/categories/</link>
+    </image>
+    
+  </channel>
+</rss>

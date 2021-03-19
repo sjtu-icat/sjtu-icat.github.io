@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>近期动态 | 智能计算机体系结构实验室</title>
+    <link>https://sjtu-icat.github.io/post/</link>
+      <atom:link href="https://sjtu-icat.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>近期动态</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2021 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Thu, 18 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sjtu-icat.github.io/media/logo.png</url>
+      <title>近期动态</title>
+      <link>https://sjtu-icat.github.io/post/</link>
+    </image>
+    
+    <item>
+      <title>iCAT主页启动</title>
+      <link>https://sjtu-icat.github.io/post/21-03-18-homepage-start/</link>
+      <pubDate>Thu, 18 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://sjtu-icat.github.io/post/21-03-18-homepage-start/</guid>
+      <description>&lt;p&gt;庆祝iCAT主页建立！&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>2021年上半年论文列表</title>
+      <link>https://sjtu-icat.github.io/post/21-03-01-confence-list/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://sjtu-icat.github.io/post/21-03-01-confence-list/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;International Conference on Multimodla Interaction (ICMI)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;May 2021&lt;/li&gt;
+&lt;li&gt;CCF-C&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;International Conference on Neural Information Processing (ICONIP)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;June 2021&lt;/li&gt;
+&lt;li&gt;CCF-C&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;International Conference on Tools with Artifical Intelligence (ICTAI)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;July 2021&lt;/li&gt;
+&lt;li&gt;CCF-C&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>祝贺向孙程同学的论文被ICASSP&#39;21录用</title>
+      <link>https://sjtu-icat.github.io/post/20-12-02-paper-accepted/</link>
+      <pubDate>Thu, 28 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://sjtu-icat.github.io/post/20-12-02-paper-accepted/</guid>
+      <description>&lt;p&gt;祝贺向孙程同学的论文&amp;quot;Taking a Closer Look at Synthesis: Fine-grained Attribute Analysis for Person Re-Identification&amp;quot;被ICASSP&#39;21所录用！&lt;/p&gt;
+&lt;p&gt;该会议属于CCF B类会议。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
