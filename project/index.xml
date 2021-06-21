@@ -5,7 +5,7 @@
     <link>https://sjtu-icat.github.io/project/</link>
       <atom:link href="https://sjtu-icat.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>项目</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2021 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Thu, 18 Mar 2021 22:34:00 +0800</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2021 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Mon, 21 Jun 2021 11:00:00 +0800</lastBuildDate>
     <image>
       <url>https://sjtu-icat.github.io/media/logo.png</url>
       <title>项目</title>
@@ -13,43 +13,338 @@
     </image>
     
     <item>
-      <title>GTAV虚拟数据集采集</title>
-      <link>https://sjtu-icat.github.io/project/gtav-dataset/</link>
-      <pubDate>Thu, 18 Mar 2021 22:34:00 +0800</pubDate>
-      <guid>https://sjtu-icat.github.io/project/gtav-dataset/</guid>
-      <description>&lt;p&gt;GTA5（侠盗飞车手5，Grand Theft Auto V）是一款开放式游戏。游戏背景的洛圣都市是基于现实中的美国洛杉矶市和加州南部制作的。游戏地图面积252平方公里（不含水域），360平方公里（含水域）。地图里自然景观丰富，包括城市、乡村、高山、森林、沙滩等等。其环境场景的逼真度使得可以利用该游戏生成虚拟数据集。&lt;/p&gt;
-&lt;p&gt;由于GTA5出色的游戏性，自游戏发售以来，玩家们利用游戏内的功能函数开发了许多脚本，例如自定义车辆的皮肤、人物的衣服，或者生成NPC角色，消除地图上的车辆等。有玩家把这些函数封装成库文件native_db，并开发相关的插件ScriptHookV用于把脚本加载到游戏里执行。因此玩家利用该库即可编写脚本，实现自己想要实现的功能。&lt;/p&gt;
+      <title>模型压缩</title>
+      <link>https://sjtu-icat.github.io/project/compress/</link>
+      <pubDate>Mon, 21 Jun 2021 11:00:00 +0800</pubDate>
+      <guid>https://sjtu-icat.github.io/project/compress/</guid>
+      <description>&lt;h3 id=&#34;背景介绍&#34;&gt;背景介绍&lt;/h3&gt;
+&lt;p&gt;待补充&lt;/p&gt;
+&lt;h3 id=&#34;应用场景&#34;&gt;应用场景&lt;/h3&gt;
+&lt;p&gt;待补充&lt;/p&gt;
+&lt;h3 id=&#34;已有成果&#34;&gt;已有成果&lt;/h3&gt;
+&lt;p&gt;待补充&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Simics仿真平台</title>
-      <link>https://sjtu-icat.github.io/project/simics/</link>
-      <pubDate>Thu, 18 Mar 2021 22:34:00 +0800</pubDate>
-      <guid>https://sjtu-icat.github.io/project/simics/</guid>
-      <description>&lt;p&gt;数据收集完成后，会在对应的 logs/ 文件夹下生成log.txt文件，将其全部转移至 PATH/2_clean_data/architecture_layer/ 文件夹下，按照寄存器名称命名文件夹，分别存放各寄存器的log信息。&lt;/p&gt;
+      <title>文档智能技术</title>
+      <link>https://sjtu-icat.github.io/project/document/</link>
+      <pubDate>Mon, 21 Jun 2021 10:55:00 +0800</pubDate>
+      <guid>https://sjtu-icat.github.io/project/document/</guid>
+      <description>&lt;h3 id=&#34;背景介绍&#34;&gt;背景介绍&lt;/h3&gt;
+&lt;p&gt;文档智能（Document Intelligence）主要是指对于网页、数字文档或扫描文档所包含的文本、表格以及丰富的排版格式，以及APP界面所包含的布局、内容等信息，通过人工智能技术进行理解、分类、提取以及信息归纳的过程。&lt;/p&gt;
+&lt;h3 id=&#34;应用场景&#34;&gt;应用场景&lt;/h3&gt;
+&lt;p&gt;随着数字化进程的加快，文档、图像等载体的结构化分析和内容提取成为关乎企业数字化转型成败的关键一环，自动、精准、快速的信息处理对于生产力的提升至关重要。以商业文档为例，不仅包含了公司内外部事务的处理细节和知识沉淀，还有大量行业相关的实体和数字信息。人工提取这些信息既耗时费力且精度低，而且可复用性也不高，因此，文档智能技术应运而生。&lt;/p&gt;
+&lt;h3 id=&#34;已有成果&#34;&gt;已有成果&lt;/h3&gt;
+&lt;p&gt;目前本课题已经具有用于训练的完备数据集， 进行软件测试的大体框架已经构建完成，输入给定的被测软件的.apk文件能够自动执行类似于人的动作（这些动作包括：点击、滑动、文本键入等），并输出相应的UI跳转图。&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-ui跳转示意图&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;./method.png&#34; data-caption=&#34;UI跳转示意图&#34;&gt;
+
+
+  &lt;img src=&#34;./method.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    UI跳转示意图
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
 </description>
     </item>
     
     <item>
-      <title>华域视觉项目</title>
-      <link>https://sjtu-icat.github.io/project/huayu/</link>
-      <pubDate>Thu, 18 Mar 2021 22:34:00 +0800</pubDate>
-      <guid>https://sjtu-icat.github.io/project/huayu/</guid>
-      <description>&lt;p&gt;AI 优化器
-有了世界领先的模型压缩技术，我们可以在对精度影响极小的情况下，将模型的复杂性降低 5 至 50 倍。深度压缩可将您的 AI 推断性能提升到一个新的层次。&lt;/p&gt;
-&lt;p&gt;AI 量化器
-通过将 32 位浮点权值和激活量转换为 INT8 这样的定点，AI 量化器可在不影响预测精度的情况下，降低计算复杂度。定点网络模型需要的内存带宽更少，因此比浮点网络模型速度更快，电源效率更高。&lt;/p&gt;
+      <title>微表情识别</title>
+      <link>https://sjtu-icat.github.io/project/micro-expr/</link>
+      <pubDate>Mon, 21 Jun 2021 10:50:00 +0800</pubDate>
+      <guid>https://sjtu-icat.github.io/project/micro-expr/</guid>
+      <description>&lt;h3 id=&#34;背景介绍&#34;&gt;背景介绍&lt;/h3&gt;
+&lt;p&gt;微表情(Micro-expression)是人们在试图隐藏/压抑真实情感时出现的细微的面部表情。
+不同于宏表情，微表情变化细微，动作幅度小，难以观察和辨别；而且发生时间短暂，持续时间不超过0.5s；微表情人们在试图隐藏/压抑真实情感时出现，是自发的，无意识的，可以看作是人的真实情感的“泄露”。&lt;/p&gt;
+&lt;h3 id=&#34;应用场景&#34;&gt;应用场景&lt;/h3&gt;
+&lt;p&gt;因此，微表情识别(MER)研究使人们对微妙的面部动作有了更强的意识和敏感性，是理解人类情绪和情感表达的重要课题，已被心理学、社会学、神经科学、计算机视觉等多个学科所探索。广泛应用于警察询问、临床诊断、抑郁症分析、商务谈判等领域&lt;/p&gt;
+&lt;h3 id=&#34;已有成果&#34;&gt;已有成果&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;使用对抗生成网络生成微表情伪样本，从根本上解决样本多样性问题，在MEGC2019冠军模型上可以提升10%精度；&lt;/li&gt;
+&lt;li&gt;基于2D CNN的backbone，以视频作为输入，能同时学习时空域上的特征，形成端到端的训练，在CASMEII数据集上达到92%的F1；&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
     <item>
-      <title>课堂行为识别</title>
-      <link>https://sjtu-icat.github.io/project/classroom/</link>
-      <pubDate>Thu, 18 Mar 2021 22:34:00 +0800</pubDate>
-      <guid>https://sjtu-icat.github.io/project/classroom/</guid>
-      <description>&lt;p&gt;OpenPose has represented the first real-time multi-person system to jointly detect human body, hand, facial, and foot keypoints (in total 135 keypoints) on single images.&lt;/p&gt;
-&lt;p&gt;It is authored by Ginés Hidalgo, Zhe Cao, Tomas Simon, Shih-En Wei, Yaadhav Raaj, Hanbyul Joo, and Yaser Sheikh. It is maintained by Ginés Hidalgo and Yaadhav Raaj. OpenPose would not be possible without the CMU Panoptic Studio dataset. We would also like to thank all the people who has helped OpenPose in any way.&lt;/p&gt;
+      <title>会议摘要</title>
+      <link>https://sjtu-icat.github.io/project/summary/</link>
+      <pubDate>Mon, 21 Jun 2021 10:35:00 +0800</pubDate>
+      <guid>https://sjtu-icat.github.io/project/summary/</guid>
+      <description>&lt;h3 id=&#34;背景介绍&#34;&gt;背景介绍&lt;/h3&gt;
+&lt;p&gt;会议摘要(meeting summarization),属于多人长对话场景下的文本摘要；就是在会议记录基础上经过加工、整理出来的一种记叙性和介绍性的文件。包括会议的基本情况、主要精神及中心内容。&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-摘要内容示例&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;./summary.png&#34; data-caption=&#34;摘要内容示例&#34;&gt;
+
+
+  &lt;img src=&#34;./summary.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    摘要内容示例
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;h3 id=&#34;应用场景&#34;&gt;应用场景&lt;/h3&gt;
+&lt;p&gt;实时自动会议纪要将大大简化繁琐的会议总结工作，可以帮助与会者快速获取会议重要信息，从而做出正确的判断。&lt;/p&gt;
+&lt;h3 id=&#34;已有成果&#34;&gt;已有成果&lt;/h3&gt;
+&lt;p&gt;相比于新闻等结构化的文本，会议文本结构复杂，不同角色的发言相互交错，主题杂糅，语义逻辑破碎，理解其文本语义是对现有深度学习模型的全新挑战。在这项工作中，我们提出了一个具有多任务预训练的分层变压器编解码网络。具体地说，我们在词级编码器上为每个话语屏蔽关键句，并在解码器上生成它们。此外，我们在输入文本中随机屏蔽一些角色对齐，并强制模型恢复原始的角色标签来完成对齐。此外，我们还引入了主题分割机制来约束关注范围，进一步提高了生成摘要的质量。实验结果表明，该模型在满足AMI和ICSI的汇总数据集上优于以往的方法。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>基于GAN的图片属性编辑</title>
+      <link>https://sjtu-icat.github.io/project/gan-editing/</link>
+      <pubDate>Mon, 21 Jun 2021 10:35:00 +0800</pubDate>
+      <guid>https://sjtu-icat.github.io/project/gan-editing/</guid>
+      <description>&lt;h3 id=&#34;背景介绍&#34;&gt;背景介绍&lt;/h3&gt;
+&lt;p&gt;生成对抗网络（Generative Adversarial Networks， GAN）由两个基础神经网络即生成器（Generator）和判别器（Discriminator）所组成，其中一个用于生成内容，另一个则用于判别生成的内容。GAN能够学习数据集内的特征，进而生成逼近真实数据的高质量的图片。&lt;/p&gt;
+&lt;p&gt;GAN在图像合成领域的应用已经十分广泛。近期的一些研究表明，在学习合成图像时，GAN 会自发地在隐空间（latent space）中表示出多种可解释属性，如用于人脸合成的性别特征、用于场景合成的光照条件。通过正确识别这些语义，我们可以将 GAN 学习到的知识重新利用，合理地控制图像生成过程，从而实现图像编辑功能的更广泛应用，如人脸操纵和场景编辑。&lt;/p&gt;
+&lt;p&gt;解释 GAN 潜在空间的关键点在于找到与人类可理解属性相对应的子空间。通过这种方法，将潜码（latent code）向特定子空间的方向移动，即可对应地改变合成图像的语义。&lt;/p&gt;
+&lt;h3 id=&#34;应用场景&#34;&gt;应用场景&lt;/h3&gt;
+&lt;p&gt;人脸图像内含有很多的语义属性，例如表情、头发颜色、年龄等，利用GAN可以实现图像的属性编辑，比如改变表情、改变头发颜色。人脸属性编辑可应用在娱乐场景中，比如短视频中的特效，可实现年龄转换、表情变换等功能，也可用于辅助诸如人脸识别，表情识别等其他任务。&lt;/p&gt;
+&lt;h3 id=&#34;已有成果&#34;&gt;已有成果&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;设计了一个针对人脸表情编辑的框架，该方案使得编辑后生成的图片质量更高、更真实。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-人脸表情编辑效果&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;./face.png&#34; data-caption=&#34;人脸表情编辑效果&#34;&gt;
+
+
+  &lt;img src=&#34;./face.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    人脸表情编辑效果
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;利用GTA V自动构建了带标注的室外场景数据集。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-gta-v室外场景数据集&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;./gos.png&#34; data-caption=&#34;GTA V室外场景数据集&#34;&gt;
+
+
+  &lt;img src=&#34;./gos.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    GTA V室外场景数据集
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>行人重识别</title>
+      <link>https://sjtu-icat.github.io/project/reid/</link>
+      <pubDate>Mon, 21 Jun 2021 10:30:00 +0800</pubDate>
+      <guid>https://sjtu-icat.github.io/project/reid/</guid>
+      <description>&lt;h3 id=&#34;背景介绍&#34;&gt;背景介绍&lt;/h3&gt;
+&lt;p&gt;行人重识别（Person re-identification, Re-ID)，也称为行人再识别或跨镜追踪；主要实现从一个摄像头捕获的目标行人，到其他不同摄像头检索是否存在相同行人，即进行跨摄像头检索。&lt;/p&gt;
+&lt;h3 id=&#34;应用场景&#34;&gt;应用场景&lt;/h3&gt;
+&lt;p&gt;行人重识别技术可以弥补目前固定摄像头的视觉局限, 并可与行人检测、行人跟踪技术相结合, 应用于视频监控、智能安防等领域。&lt;/p&gt;
+&lt;h3 id=&#34;已有成果&#34;&gt;已有成果&lt;/h3&gt;
+&lt;p&gt;行人重识别领域由于安全隐私、数据可获取性、标注难度等因素的限制，高质量大规模的真实标注数据依然非常稀缺。针对这类问题，我们针对具体任务场景，利用GTA-5自动构建了多属性有标注数据集。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-来自标注数据集的行人样本&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;./gpr.png&#34; data-caption=&#34;来自标注数据集的行人样本&#34;&gt;
+
+
+  &lt;img src=&#34;./gpr.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    来自标注数据集的行人样本
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;已发表论文&#34;&gt;已发表论文&lt;/h3&gt;
+&lt;p&gt;[1] Xiang S, Fu Y, You G, et al. Unsupervised domain adaptation through synthesis for person re-identification[C]//2020 IEEE International Conference on Multimedia and Expo (ICME). IEEE, 2020: 1-6. &lt;a href=&#34;../publication/xiang-2020-unsupervised/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[2] Xiang S, Fu Y, You G, et al. Taking A Closer Look at Synthesis: Fine-Grained Attribute Analysis for Person Re-Identification[C]//ICASSP 2021-2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2021: 3765-3769. &lt;a href=&#34;../publication/xiang-2021-taking/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>基于骨架的人类动作识别</title>
+      <link>https://sjtu-icat.github.io/project/skeleton/</link>
+      <pubDate>Mon, 21 Jun 2021 10:00:00 +0800</pubDate>
+      <guid>https://sjtu-icat.github.io/project/skeleton/</guid>
+      <description>&lt;h3 id=&#34;背景介绍&#34;&gt;背景介绍&lt;/h3&gt;
+&lt;p&gt;近年来，基于骨架的动作识别由于其对动态环境和复杂背景的鲁棒性而备受关注，其主要任务为根据输入的一段骨架序列，输出当前对应的动作类别。主流方法通常将关节点数据构建为图（graph）结构，并将图卷积扩展为时空图卷积来提取运动信息。&lt;/p&gt;
+&lt;h3 id=&#34;应用场景&#34;&gt;应用场景&lt;/h3&gt;
+&lt;p&gt;基于骨架的动作识别可以服务于人机交互、机器人、VR游戏实时控制等领域。&lt;/p&gt;
+&lt;h3 id=&#34;已有成果&#34;&gt;已有成果&lt;/h3&gt;
+&lt;p&gt;构建动作识别数据集时往往需耗费大量的人力物力，缺乏多视角下的动作序列。为解决这一问题，我们基于GTA V游戏构建了大规模360度全视角的虚拟动作数据集GAR-60。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-gar-60数据集部分样本&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;./gar-60.png&#34; data-caption=&#34;GAR-60数据集部分样本&#34;&gt;
+
+
+  &lt;img src=&#34;./gar-60.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    GAR-60数据集部分样本
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/p&gt;
 </description>
     </item>
     

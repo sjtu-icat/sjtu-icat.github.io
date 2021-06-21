@@ -5,7 +5,7 @@
     <link>https://sjtu-icat.github.io/author/%E8%B0%A2%E9%93%AD%E7%83%A8/</link>
       <atom:link href="https://sjtu-icat.github.io/author/%E8%B0%A2%E9%93%AD%E7%83%A8/index.xml" rel="self" type="application/rss+xml" />
     <description>谢铭烨</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2021 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Thu, 18 Mar 2021 22:34:00 +0800</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2021 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Mon, 21 Jun 2021 10:35:00 +0800</lastBuildDate>
     <image>
       <url>https://sjtu-icat.github.io/author/%E8%B0%A2%E9%93%AD%E7%83%A8/avatar_hu81c498ad0f00739897f18148bb43495e_128360_270x270_fill_q75_lanczos_center.jpg</url>
       <title>谢铭烨</title>
@@ -13,24 +13,99 @@
     </image>
     
     <item>
-      <title>GTAV虚拟数据集采集</title>
-      <link>https://sjtu-icat.github.io/project/gtav-dataset/</link>
-      <pubDate>Thu, 18 Mar 2021 22:34:00 +0800</pubDate>
-      <guid>https://sjtu-icat.github.io/project/gtav-dataset/</guid>
-      <description>&lt;p&gt;GTA5（侠盗飞车手5，Grand Theft Auto V）是一款开放式游戏。游戏背景的洛圣都市是基于现实中的美国洛杉矶市和加州南部制作的。游戏地图面积252平方公里（不含水域），360平方公里（含水域）。地图里自然景观丰富，包括城市、乡村、高山、森林、沙滩等等。其环境场景的逼真度使得可以利用该游戏生成虚拟数据集。&lt;/p&gt;
-&lt;p&gt;由于GTA5出色的游戏性，自游戏发售以来，玩家们利用游戏内的功能函数开发了许多脚本，例如自定义车辆的皮肤、人物的衣服，或者生成NPC角色，消除地图上的车辆等。有玩家把这些函数封装成库文件native_db，并开发相关的插件ScriptHookV用于把脚本加载到游戏里执行。因此玩家利用该库即可编写脚本，实现自己想要实现的功能。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>华域视觉项目</title>
-      <link>https://sjtu-icat.github.io/project/huayu/</link>
-      <pubDate>Thu, 18 Mar 2021 22:34:00 +0800</pubDate>
-      <guid>https://sjtu-icat.github.io/project/huayu/</guid>
-      <description>&lt;p&gt;AI 优化器
-有了世界领先的模型压缩技术，我们可以在对精度影响极小的情况下，将模型的复杂性降低 5 至 50 倍。深度压缩可将您的 AI 推断性能提升到一个新的层次。&lt;/p&gt;
-&lt;p&gt;AI 量化器
-通过将 32 位浮点权值和激活量转换为 INT8 这样的定点，AI 量化器可在不影响预测精度的情况下，降低计算复杂度。定点网络模型需要的内存带宽更少，因此比浮点网络模型速度更快，电源效率更高。&lt;/p&gt;
+      <title>基于GAN的图片属性编辑</title>
+      <link>https://sjtu-icat.github.io/project/gan-editing/</link>
+      <pubDate>Mon, 21 Jun 2021 10:35:00 +0800</pubDate>
+      <guid>https://sjtu-icat.github.io/project/gan-editing/</guid>
+      <description>&lt;h3 id=&#34;背景介绍&#34;&gt;背景介绍&lt;/h3&gt;
+&lt;p&gt;生成对抗网络（Generative Adversarial Networks， GAN）由两个基础神经网络即生成器（Generator）和判别器（Discriminator）所组成，其中一个用于生成内容，另一个则用于判别生成的内容。GAN能够学习数据集内的特征，进而生成逼近真实数据的高质量的图片。&lt;/p&gt;
+&lt;p&gt;GAN在图像合成领域的应用已经十分广泛。近期的一些研究表明，在学习合成图像时，GAN 会自发地在隐空间（latent space）中表示出多种可解释属性，如用于人脸合成的性别特征、用于场景合成的光照条件。通过正确识别这些语义，我们可以将 GAN 学习到的知识重新利用，合理地控制图像生成过程，从而实现图像编辑功能的更广泛应用，如人脸操纵和场景编辑。&lt;/p&gt;
+&lt;p&gt;解释 GAN 潜在空间的关键点在于找到与人类可理解属性相对应的子空间。通过这种方法，将潜码（latent code）向特定子空间的方向移动，即可对应地改变合成图像的语义。&lt;/p&gt;
+&lt;h3 id=&#34;应用场景&#34;&gt;应用场景&lt;/h3&gt;
+&lt;p&gt;人脸图像内含有很多的语义属性，例如表情、头发颜色、年龄等，利用GAN可以实现图像的属性编辑，比如改变表情、改变头发颜色。人脸属性编辑可应用在娱乐场景中，比如短视频中的特效，可实现年龄转换、表情变换等功能，也可用于辅助诸如人脸识别，表情识别等其他任务。&lt;/p&gt;
+&lt;h3 id=&#34;已有成果&#34;&gt;已有成果&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;设计了一个针对人脸表情编辑的框架，该方案使得编辑后生成的图片质量更高、更真实。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-人脸表情编辑效果&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;./face.png&#34; data-caption=&#34;人脸表情编辑效果&#34;&gt;
+
+
+  &lt;img src=&#34;./face.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    人脸表情编辑效果
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;利用GTA V自动构建了带标注的室外场景数据集。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-gta-v室外场景数据集&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;./gos.png&#34; data-caption=&#34;GTA V室外场景数据集&#34;&gt;
+
+
+  &lt;img src=&#34;./gos.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    GTA V室外场景数据集
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -39,7 +114,63 @@
       <link>https://sjtu-icat.github.io/post/21-03-18-homepage-start/</link>
       <pubDate>Thu, 18 Mar 2021 00:00:00 +0000</pubDate>
       <guid>https://sjtu-icat.github.io/post/21-03-18-homepage-start/</guid>
-      <description>&lt;p&gt;庆祝iCAT主页建立！&lt;/p&gt;</description>
+      <description>&lt;p&gt;庆祝iCAT主页重新启动！
+请实验室各位成员及时补充个人相关信息！&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>实验室服务器使用说明</title>
+      <link>https://sjtu-icat.github.io/post/21-01-01-server-usage/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://sjtu-icat.github.io/post/21-01-01-server-usage/</guid>
+      <description>&lt;p&gt;使用服务器时请自觉遵守使用说明！&lt;/p&gt;
+&lt;h3 id=&#34;服务器种类&#34;&gt;服务器种类&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;.158：Nvidia Tesla P100 SXM2 （四核，16GB）&lt;/li&gt;
+&lt;li&gt;.249：Nvidia RTX 3090*4 （单核，24GB）&lt;/li&gt;
+&lt;li&gt;本地：Nvidia RTX 1080 Ti （单核，11GB）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;载入服务器模块&#34;&gt;载入服务器模块&lt;/h3&gt;
+&lt;p&gt;每次登入服务器时均需要加载&lt;/p&gt;
+&lt;h4 id=&#34;显示当前可用的软件清单&#34;&gt;显示当前可用的软件清单&lt;/h4&gt;
+&lt;p&gt;module av&lt;/p&gt;
+&lt;h4 id=&#34;加载常用模块&#34;&gt;加载常用模块&lt;/h4&gt;
+&lt;pre&gt;&lt;code&gt;module load anaconda3/2019.10 #亦可在自己路径下独立安装anaconda
+module load cuda/11.1
+module load cudnn/8.0.5
+module load gcc/7.3.0
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3 id=&#34;conda简要使用说明&#34;&gt;conda简要使用说明&lt;/h3&gt;
+&lt;h4 id=&#34;初始化conda-shell&#34;&gt;初始化conda shell&lt;/h4&gt;
+&lt;p&gt;&lt;code&gt;conda init bash&lt;/code&gt;&lt;/p&gt;
+&lt;h4 id=&#34;创建虚拟环境以testenv举例&#34;&gt;创建虚拟环境（以testenv举例）&lt;/h4&gt;
+&lt;p&gt;&lt;code&gt;conda create -n testenv&lt;/code&gt;&lt;/p&gt;
+&lt;h4 id=&#34;激活虚拟环境&#34;&gt;激活虚拟环境&lt;/h4&gt;
+&lt;p&gt;&lt;code&gt;conda activate testenv&lt;/code&gt;&lt;/p&gt;
+&lt;h4 id=&#34;安装软件包&#34;&gt;安装软件包&lt;/h4&gt;
+&lt;p&gt;&lt;code&gt;conda install numpy&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;conda install pytorch=0.4.0 # 指定具体版本&lt;/code&gt;&lt;/p&gt;
+&lt;h4 id=&#34;退出当前的虚拟环境&#34;&gt;退出当前的虚拟环境&lt;/h4&gt;
+&lt;p&gt;&lt;code&gt;conda deactivate&lt;/code&gt;&lt;/p&gt;
+&lt;h4 id=&#34;查看所有的虚拟环境&#34;&gt;查看所有的虚拟环境&lt;/h4&gt;
+&lt;p&gt;&lt;code&gt;conda env list&lt;/code&gt;&lt;/p&gt;
+&lt;h4 id=&#34;查看当前虚拟环境安装包&#34;&gt;查看当前虚拟环境安装包&lt;/h4&gt;
+&lt;p&gt;&lt;code&gt;conda list&lt;/code&gt;&lt;/p&gt;
+&lt;h4 id=&#34;删除虚拟环境及其下面的所有包&#34;&gt;删除虚拟环境及其下面的所有包&lt;/h4&gt;
+&lt;p&gt;&lt;code&gt;conda remove -n testenv —-all&lt;/code&gt;&lt;/p&gt;
+&lt;h3 id=&#34;其他说明&#34;&gt;其他说明&lt;/h3&gt;
+&lt;h4 id=&#34;软件最低版本需求&#34;&gt;软件最低版本需求&lt;/h4&gt;
+&lt;p&gt;在3090上低于该版本将无法正常运行需要GPU的程序&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;pytorch&amp;gt;=1.7.0&lt;/li&gt;
+&lt;li&gt;tensorflow&amp;gt;=2.4.0&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;服务器资源的分配&#34;&gt;服务器资源的分配&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;使用&lt;code&gt;nvidia-smi&lt;/code&gt;或者&lt;code&gt;gpustat&lt;/code&gt;(需使用pip或conda安装)查看当前服务器GPU使用状态&lt;/li&gt;
+&lt;li&gt;多数程序运行时会默认占用所有可用的GPU，需要长时间使用GPU时，在运行指令前添加&lt;code&gt;CUDA_VISIBLE_DEVICES&lt;/code&gt;指定具体运行的GPU，例如&lt;code&gt;CUDA_VISIBLE_DEVICES=0 python main.py&lt;/code&gt;即指定在0号GPU上运行程序&lt;/li&gt;
+&lt;li&gt;在服务器资源紧张时，将会根据任务优先级对资源进行协调（例如近期需要投会议或期刊的同学可以优先使用）&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     
   </channel>

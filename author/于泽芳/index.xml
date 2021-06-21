@@ -5,7 +5,7 @@
     <link>https://sjtu-icat.github.io/author/%E4%BA%8E%E6%B3%BD%E8%8A%B3/</link>
       <atom:link href="https://sjtu-icat.github.io/author/%E4%BA%8E%E6%B3%BD%E8%8A%B3/index.xml" rel="self" type="application/rss+xml" />
     <description>于泽芳</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2021 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Thu, 18 Mar 2021 22:34:00 +0800</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2021 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Mon, 21 Jun 2021 10:00:00 +0800</lastBuildDate>
     <image>
       <url>https://sjtu-icat.github.io/author/%E4%BA%8E%E6%B3%BD%E8%8A%B3/avatar_hue888d6e5a219d7fc7c142f3ac7ab3e4f_315738_270x270_fill_q75_lanczos_center.jpg</url>
       <title>于泽芳</title>
@@ -13,22 +13,53 @@
     </image>
     
     <item>
-      <title>GTAV虚拟数据集采集</title>
-      <link>https://sjtu-icat.github.io/project/gtav-dataset/</link>
-      <pubDate>Thu, 18 Mar 2021 22:34:00 +0800</pubDate>
-      <guid>https://sjtu-icat.github.io/project/gtav-dataset/</guid>
-      <description>&lt;p&gt;GTA5（侠盗飞车手5，Grand Theft Auto V）是一款开放式游戏。游戏背景的洛圣都市是基于现实中的美国洛杉矶市和加州南部制作的。游戏地图面积252平方公里（不含水域），360平方公里（含水域）。地图里自然景观丰富，包括城市、乡村、高山、森林、沙滩等等。其环境场景的逼真度使得可以利用该游戏生成虚拟数据集。&lt;/p&gt;
-&lt;p&gt;由于GTA5出色的游戏性，自游戏发售以来，玩家们利用游戏内的功能函数开发了许多脚本，例如自定义车辆的皮肤、人物的衣服，或者生成NPC角色，消除地图上的车辆等。有玩家把这些函数封装成库文件native_db，并开发相关的插件ScriptHookV用于把脚本加载到游戏里执行。因此玩家利用该库即可编写脚本，实现自己想要实现的功能。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>课堂行为识别</title>
-      <link>https://sjtu-icat.github.io/project/classroom/</link>
-      <pubDate>Thu, 18 Mar 2021 22:34:00 +0800</pubDate>
-      <guid>https://sjtu-icat.github.io/project/classroom/</guid>
-      <description>&lt;p&gt;OpenPose has represented the first real-time multi-person system to jointly detect human body, hand, facial, and foot keypoints (in total 135 keypoints) on single images.&lt;/p&gt;
-&lt;p&gt;It is authored by Ginés Hidalgo, Zhe Cao, Tomas Simon, Shih-En Wei, Yaadhav Raaj, Hanbyul Joo, and Yaser Sheikh. It is maintained by Ginés Hidalgo and Yaadhav Raaj. OpenPose would not be possible without the CMU Panoptic Studio dataset. We would also like to thank all the people who has helped OpenPose in any way.&lt;/p&gt;
+      <title>基于骨架的人类动作识别</title>
+      <link>https://sjtu-icat.github.io/project/skeleton/</link>
+      <pubDate>Mon, 21 Jun 2021 10:00:00 +0800</pubDate>
+      <guid>https://sjtu-icat.github.io/project/skeleton/</guid>
+      <description>&lt;h3 id=&#34;背景介绍&#34;&gt;背景介绍&lt;/h3&gt;
+&lt;p&gt;近年来，基于骨架的动作识别由于其对动态环境和复杂背景的鲁棒性而备受关注，其主要任务为根据输入的一段骨架序列，输出当前对应的动作类别。主流方法通常将关节点数据构建为图（graph）结构，并将图卷积扩展为时空图卷积来提取运动信息。&lt;/p&gt;
+&lt;h3 id=&#34;应用场景&#34;&gt;应用场景&lt;/h3&gt;
+&lt;p&gt;基于骨架的动作识别可以服务于人机交互、机器人、VR游戏实时控制等领域。&lt;/p&gt;
+&lt;h3 id=&#34;已有成果&#34;&gt;已有成果&lt;/h3&gt;
+&lt;p&gt;构建动作识别数据集时往往需耗费大量的人力物力，缺乏多视角下的动作序列。为解决这一问题，我们基于GTA V游戏构建了大规模360度全视角的虚拟动作数据集GAR-60。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-gar-60数据集部分样本&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;./gar-60.png&#34; data-caption=&#34;GAR-60数据集部分样本&#34;&gt;
+
+
+  &lt;img src=&#34;./gar-60.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    GAR-60数据集部分样本
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/p&gt;
 </description>
     </item>
     

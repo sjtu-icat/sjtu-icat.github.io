@@ -5,12 +5,30 @@
     <link>https://sjtu-icat.github.io/author/%E9%99%88%E9%94%A6%E6%9D%B0/</link>
       <atom:link href="https://sjtu-icat.github.io/author/%E9%99%88%E9%94%A6%E6%9D%B0/index.xml" rel="self" type="application/rss+xml" />
     <description>陈锦杰</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2021 智能计算机体系结构实验室 · 上海交通大学</copyright>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2021 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Mon, 21 Jun 2021 10:50:00 +0800</lastBuildDate>
     <image>
-      <url>https://sjtu-icat.github.io/author/%E9%99%88%E9%94%A6%E6%9D%B0/avatar_hua0304ddbc398d6663a855e29fa2b4458_101889_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://sjtu-icat.github.io/author/%E9%99%88%E9%94%A6%E6%9D%B0/avatar_hu6e402c58801d568293bef9749ee1a338_1310126_270x270_fill_q75_lanczos_center.jpg</url>
       <title>陈锦杰</title>
       <link>https://sjtu-icat.github.io/author/%E9%99%88%E9%94%A6%E6%9D%B0/</link>
     </image>
+    
+    <item>
+      <title>微表情识别</title>
+      <link>https://sjtu-icat.github.io/project/micro-expr/</link>
+      <pubDate>Mon, 21 Jun 2021 10:50:00 +0800</pubDate>
+      <guid>https://sjtu-icat.github.io/project/micro-expr/</guid>
+      <description>&lt;h3 id=&#34;背景介绍&#34;&gt;背景介绍&lt;/h3&gt;
+&lt;p&gt;微表情(Micro-expression)是人们在试图隐藏/压抑真实情感时出现的细微的面部表情。
+不同于宏表情，微表情变化细微，动作幅度小，难以观察和辨别；而且发生时间短暂，持续时间不超过0.5s；微表情人们在试图隐藏/压抑真实情感时出现，是自发的，无意识的，可以看作是人的真实情感的“泄露”。&lt;/p&gt;
+&lt;h3 id=&#34;应用场景&#34;&gt;应用场景&lt;/h3&gt;
+&lt;p&gt;因此，微表情识别(MER)研究使人们对微妙的面部动作有了更强的意识和敏感性，是理解人类情绪和情感表达的重要课题，已被心理学、社会学、神经科学、计算机视觉等多个学科所探索。广泛应用于警察询问、临床诊断、抑郁症分析、商务谈判等领域&lt;/p&gt;
+&lt;h3 id=&#34;已有成果&#34;&gt;已有成果&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;使用对抗生成网络生成微表情伪样本，从根本上解决样本多样性问题，在MEGC2019冠军模型上可以提升10%精度；&lt;/li&gt;
+&lt;li&gt;基于2D CNN的backbone，以视频作为输入，能同时学习时空域上的特征，形成端到端的训练，在CASMEII数据集上达到92%的F1；&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

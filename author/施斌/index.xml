@@ -5,21 +5,12 @@
     <link>https://sjtu-icat.github.io/author/%E6%96%BD%E6%96%8C/</link>
       <atom:link href="https://sjtu-icat.github.io/author/%E6%96%BD%E6%96%8C/index.xml" rel="self" type="application/rss+xml" />
     <description>施斌</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2021 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Thu, 18 Mar 2021 22:34:00 +0800</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2021 智能计算机体系结构实验室 · 上海交通大学</copyright>
     <image>
       <url>https://sjtu-icat.github.io/author/%E6%96%BD%E6%96%8C/avatar_hu36c8f512af8ceb16e4e8fad90bd9fee3_1506083_270x270_fill_q75_lanczos_center.jpg</url>
       <title>施斌</title>
       <link>https://sjtu-icat.github.io/author/%E6%96%BD%E6%96%8C/</link>
     </image>
-    
-    <item>
-      <title>Simics仿真平台</title>
-      <link>https://sjtu-icat.github.io/project/simics/</link>
-      <pubDate>Thu, 18 Mar 2021 22:34:00 +0800</pubDate>
-      <guid>https://sjtu-icat.github.io/project/simics/</guid>
-      <description>&lt;p&gt;数据收集完成后，会在对应的 logs/ 文件夹下生成log.txt文件，将其全部转移至 PATH/2_clean_data/architecture_layer/ 文件夹下，按照寄存器名称命名文件夹，分别存放各寄存器的log信息。&lt;/p&gt;
-</description>
-    </item>
     
   </channel>
 </rss>

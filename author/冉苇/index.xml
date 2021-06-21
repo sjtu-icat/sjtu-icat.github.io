@@ -5,12 +5,63 @@
     <link>https://sjtu-icat.github.io/author/%E5%86%89%E8%8B%87/</link>
       <atom:link href="https://sjtu-icat.github.io/author/%E5%86%89%E8%8B%87/index.xml" rel="self" type="application/rss+xml" />
     <description>冉苇</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2021 智能计算机体系结构实验室 · 上海交通大学</copyright>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2021 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Mon, 21 Jun 2021 10:55:00 +0800</lastBuildDate>
     <image>
       <url>https://sjtu-icat.github.io/author/%E5%86%89%E8%8B%87/avatar_hud9a7ac31a31101ac01b74cb8838b1041_163915_270x270_fill_q75_lanczos_center.jpg</url>
       <title>冉苇</title>
       <link>https://sjtu-icat.github.io/author/%E5%86%89%E8%8B%87/</link>
     </image>
+    
+    <item>
+      <title>文档智能技术</title>
+      <link>https://sjtu-icat.github.io/project/document/</link>
+      <pubDate>Mon, 21 Jun 2021 10:55:00 +0800</pubDate>
+      <guid>https://sjtu-icat.github.io/project/document/</guid>
+      <description>&lt;h3 id=&#34;背景介绍&#34;&gt;背景介绍&lt;/h3&gt;
+&lt;p&gt;文档智能（Document Intelligence）主要是指对于网页、数字文档或扫描文档所包含的文本、表格以及丰富的排版格式，以及APP界面所包含的布局、内容等信息，通过人工智能技术进行理解、分类、提取以及信息归纳的过程。&lt;/p&gt;
+&lt;h3 id=&#34;应用场景&#34;&gt;应用场景&lt;/h3&gt;
+&lt;p&gt;随着数字化进程的加快，文档、图像等载体的结构化分析和内容提取成为关乎企业数字化转型成败的关键一环，自动、精准、快速的信息处理对于生产力的提升至关重要。以商业文档为例，不仅包含了公司内外部事务的处理细节和知识沉淀，还有大量行业相关的实体和数字信息。人工提取这些信息既耗时费力且精度低，而且可复用性也不高，因此，文档智能技术应运而生。&lt;/p&gt;
+&lt;h3 id=&#34;已有成果&#34;&gt;已有成果&lt;/h3&gt;
+&lt;p&gt;目前本课题已经具有用于训练的完备数据集， 进行软件测试的大体框架已经构建完成，输入给定的被测软件的.apk文件能够自动执行类似于人的动作（这些动作包括：点击、滑动、文本键入等），并输出相应的UI跳转图。&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-ui跳转示意图&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;./method.png&#34; data-caption=&#34;UI跳转示意图&#34;&gt;
+
+
+  &lt;img src=&#34;./method.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    UI跳转示意图
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
     
   </channel>
 </rss>

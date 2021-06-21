@@ -5,7 +5,7 @@
     <link>https://sjtu-icat.github.io/post/</link>
       <atom:link href="https://sjtu-icat.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>近期动态</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2021 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Thu, 18 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2021 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Mon, 21 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sjtu-icat.github.io/media/logo.png</url>
       <title>近期动态</title>
@@ -13,11 +13,22 @@
     </image>
     
     <item>
+      <title>NEW✨|招收2021级硕士研究生</title>
+      <link>https://sjtu-icat.github.io/post/21-06-21-recruit/</link>
+      <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://sjtu-icat.github.io/post/21-06-21-recruit/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://mp.weixin.qq.com/s/9EzRluUhheKG1JvmhEBZ4A&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;上海交通大学微纳电子学系2022级 直硕/直博 研究生优才夏令营通知&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;报名时间：即日起至2021年6月28日&lt;/p&gt;
+&lt;p&gt;欢迎广大学子报考iCAT实验室！&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>iCAT主页启动</title>
       <link>https://sjtu-icat.github.io/post/21-03-18-homepage-start/</link>
       <pubDate>Thu, 18 Mar 2021 00:00:00 +0000</pubDate>
       <guid>https://sjtu-icat.github.io/post/21-03-18-homepage-start/</guid>
-      <description>&lt;p&gt;庆祝iCAT主页建立！&lt;/p&gt;</description>
+      <description>&lt;p&gt;庆祝iCAT主页重新启动！
+请实验室各位成员及时补充个人相关信息！&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -58,6 +69,61 @@
       <guid>https://sjtu-icat.github.io/post/20-12-02-paper-accepted/</guid>
       <description>&lt;p&gt;祝贺向孙程同学的论文&amp;quot;Taking a Closer Look at Synthesis: Fine-grained Attribute Analysis for Person Re-Identification&amp;quot;被ICASSP&#39;21所录用！&lt;/p&gt;
 &lt;p&gt;该会议属于CCF B类会议。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>实验室服务器使用说明</title>
+      <link>https://sjtu-icat.github.io/post/21-01-01-server-usage/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://sjtu-icat.github.io/post/21-01-01-server-usage/</guid>
+      <description>&lt;p&gt;使用服务器时请自觉遵守使用说明！&lt;/p&gt;
+&lt;h3 id=&#34;服务器种类&#34;&gt;服务器种类&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;.158：Nvidia Tesla P100 SXM2 （四核，16GB）&lt;/li&gt;
+&lt;li&gt;.249：Nvidia RTX 3090*4 （单核，24GB）&lt;/li&gt;
+&lt;li&gt;本地：Nvidia RTX 1080 Ti （单核，11GB）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;载入服务器模块&#34;&gt;载入服务器模块&lt;/h3&gt;
+&lt;p&gt;每次登入服务器时均需要加载&lt;/p&gt;
+&lt;h4 id=&#34;显示当前可用的软件清单&#34;&gt;显示当前可用的软件清单&lt;/h4&gt;
+&lt;p&gt;module av&lt;/p&gt;
+&lt;h4 id=&#34;加载常用模块&#34;&gt;加载常用模块&lt;/h4&gt;
+&lt;pre&gt;&lt;code&gt;module load anaconda3/2019.10 #亦可在自己路径下独立安装anaconda
+module load cuda/11.1
+module load cudnn/8.0.5
+module load gcc/7.3.0
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3 id=&#34;conda简要使用说明&#34;&gt;conda简要使用说明&lt;/h3&gt;
+&lt;h4 id=&#34;初始化conda-shell&#34;&gt;初始化conda shell&lt;/h4&gt;
+&lt;p&gt;&lt;code&gt;conda init bash&lt;/code&gt;&lt;/p&gt;
+&lt;h4 id=&#34;创建虚拟环境以testenv举例&#34;&gt;创建虚拟环境（以testenv举例）&lt;/h4&gt;
+&lt;p&gt;&lt;code&gt;conda create -n testenv&lt;/code&gt;&lt;/p&gt;
+&lt;h4 id=&#34;激活虚拟环境&#34;&gt;激活虚拟环境&lt;/h4&gt;
+&lt;p&gt;&lt;code&gt;conda activate testenv&lt;/code&gt;&lt;/p&gt;
+&lt;h4 id=&#34;安装软件包&#34;&gt;安装软件包&lt;/h4&gt;
+&lt;p&gt;&lt;code&gt;conda install numpy&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;conda install pytorch=0.4.0 # 指定具体版本&lt;/code&gt;&lt;/p&gt;
+&lt;h4 id=&#34;退出当前的虚拟环境&#34;&gt;退出当前的虚拟环境&lt;/h4&gt;
+&lt;p&gt;&lt;code&gt;conda deactivate&lt;/code&gt;&lt;/p&gt;
+&lt;h4 id=&#34;查看所有的虚拟环境&#34;&gt;查看所有的虚拟环境&lt;/h4&gt;
+&lt;p&gt;&lt;code&gt;conda env list&lt;/code&gt;&lt;/p&gt;
+&lt;h4 id=&#34;查看当前虚拟环境安装包&#34;&gt;查看当前虚拟环境安装包&lt;/h4&gt;
+&lt;p&gt;&lt;code&gt;conda list&lt;/code&gt;&lt;/p&gt;
+&lt;h4 id=&#34;删除虚拟环境及其下面的所有包&#34;&gt;删除虚拟环境及其下面的所有包&lt;/h4&gt;
+&lt;p&gt;&lt;code&gt;conda remove -n testenv —-all&lt;/code&gt;&lt;/p&gt;
+&lt;h3 id=&#34;其他说明&#34;&gt;其他说明&lt;/h3&gt;
+&lt;h4 id=&#34;软件最低版本需求&#34;&gt;软件最低版本需求&lt;/h4&gt;
+&lt;p&gt;在3090上低于该版本将无法正常运行需要GPU的程序&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;pytorch&amp;gt;=1.7.0&lt;/li&gt;
+&lt;li&gt;tensorflow&amp;gt;=2.4.0&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;服务器资源的分配&#34;&gt;服务器资源的分配&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;使用&lt;code&gt;nvidia-smi&lt;/code&gt;或者&lt;code&gt;gpustat&lt;/code&gt;(需使用pip或conda安装)查看当前服务器GPU使用状态&lt;/li&gt;
+&lt;li&gt;多数程序运行时会默认占用所有可用的GPU，需要长时间使用GPU时，在运行指令前添加&lt;code&gt;CUDA_VISIBLE_DEVICES&lt;/code&gt;指定具体运行的GPU，例如&lt;code&gt;CUDA_VISIBLE_DEVICES=0 python main.py&lt;/code&gt;即指定在0号GPU上运行程序&lt;/li&gt;
+&lt;li&gt;在服务器资源紧张时，将会根据任务优先级对资源进行协调（例如近期需要投会议或期刊的同学可以优先使用）&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     
   </channel>

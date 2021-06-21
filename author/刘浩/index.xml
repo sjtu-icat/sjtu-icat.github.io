@@ -5,12 +5,63 @@
     <link>https://sjtu-icat.github.io/author/%E5%88%98%E6%B5%A9/</link>
       <atom:link href="https://sjtu-icat.github.io/author/%E5%88%98%E6%B5%A9/index.xml" rel="self" type="application/rss+xml" />
     <description>刘浩</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2021 智能计算机体系结构实验室 · 上海交通大学</copyright>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2021 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Mon, 21 Jun 2021 10:35:00 +0800</lastBuildDate>
     <image>
       <url>https://sjtu-icat.github.io/author/%E5%88%98%E6%B5%A9/avatar_huda9715b47d3017f773c2c78ffdd2f54f_60445_270x270_fill_q75_lanczos_center.jpg</url>
       <title>刘浩</title>
       <link>https://sjtu-icat.github.io/author/%E5%88%98%E6%B5%A9/</link>
     </image>
+    
+    <item>
+      <title>会议摘要</title>
+      <link>https://sjtu-icat.github.io/project/summary/</link>
+      <pubDate>Mon, 21 Jun 2021 10:35:00 +0800</pubDate>
+      <guid>https://sjtu-icat.github.io/project/summary/</guid>
+      <description>&lt;h3 id=&#34;背景介绍&#34;&gt;背景介绍&lt;/h3&gt;
+&lt;p&gt;会议摘要(meeting summarization),属于多人长对话场景下的文本摘要；就是在会议记录基础上经过加工、整理出来的一种记叙性和介绍性的文件。包括会议的基本情况、主要精神及中心内容。&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-摘要内容示例&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;./summary.png&#34; data-caption=&#34;摘要内容示例&#34;&gt;
+
+
+  &lt;img src=&#34;./summary.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    摘要内容示例
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;h3 id=&#34;应用场景&#34;&gt;应用场景&lt;/h3&gt;
+&lt;p&gt;实时自动会议纪要将大大简化繁琐的会议总结工作，可以帮助与会者快速获取会议重要信息，从而做出正确的判断。&lt;/p&gt;
+&lt;h3 id=&#34;已有成果&#34;&gt;已有成果&lt;/h3&gt;
+&lt;p&gt;相比于新闻等结构化的文本，会议文本结构复杂，不同角色的发言相互交错，主题杂糅，语义逻辑破碎，理解其文本语义是对现有深度学习模型的全新挑战。在这项工作中，我们提出了一个具有多任务预训练的分层变压器编解码网络。具体地说，我们在词级编码器上为每个话语屏蔽关键句，并在解码器上生成它们。此外，我们在输入文本中随机屏蔽一些角色对齐，并强制模型恢复原始的角色标签来完成对齐。此外，我们还引入了主题分割机制来约束关注范围，进一步提高了生成摘要的质量。实验结果表明，该模型在满足AMI和ICSI的汇总数据集上优于以往的方法。&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
