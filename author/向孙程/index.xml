@@ -5,12 +5,65 @@
     <link>https://sjtu-icat.github.io/author/%E5%90%91%E5%AD%99%E7%A8%8B/</link>
       <atom:link href="https://sjtu-icat.github.io/author/%E5%90%91%E5%AD%99%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" />
     <description>向孙程</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2021 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2021 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Thu, 24 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sjtu-icat.github.io/media/logo.png</url>
       <title>向孙程</title>
       <link>https://sjtu-icat.github.io/author/%E5%90%91%E5%AD%99%E7%A8%8B/</link>
     </image>
+    
+    <item>
+      <title>2021年下半年论文列表</title>
+      <link>https://sjtu-icat.github.io/post/21-07-01-confence-list/</link>
+      <pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://sjtu-icat.github.io/post/21-07-01-confence-list/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;AAAI: AAAI Conference on Artificial Intelligence&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;CCF-A&lt;/li&gt;
+&lt;li&gt;Deadline: 2021-08-30&lt;/li&gt;
+&lt;li&gt;Topic: Artificial Intelligence, Machine Learning, Applications&lt;/li&gt;
+&lt;li&gt;Website: &lt;a href=&#34;https://www.aaai.org/Conferences/AAAI-22/&#34;&gt;https://www.aaai.org/Conferences/AAAI-22/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;ICLR: International Conference on Learning Representations&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Deadline: 2021-10-06&lt;/li&gt;
+&lt;li&gt;Topic: Artificial Intelligence, Representation Learning&lt;/li&gt;
+&lt;li&gt;Website: &lt;a href=&#34;https://iclr.cc/&#34;&gt;https://iclr.cc/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;ICASSP: IEEE International Conference on Acoustics, Speech, and Signal Processing&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;CCF-B&lt;/li&gt;
+&lt;li&gt;Deadline: 2021-10-01&lt;/li&gt;
+&lt;li&gt;Topic: Deep Learning, Machine Learning for Signal Processing&lt;/li&gt;
+&lt;li&gt;Website: &lt;a href=&#34;https://2022.ieeeicassp.org/&#34;&gt;https://2022.ieeeicassp.org/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;ECAI: European Conference on Artificial Intelligence&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;CCF-B&lt;/li&gt;
+&lt;li&gt;Deadline: 2021-11 (TBD)&lt;/li&gt;
+&lt;li&gt;Topic: Artificial Intelligence, Machine Learning&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;CVPR: IEEE Conference on Computer Vision and Pattern Recognition&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;CCF-A&lt;/li&gt;
+&lt;li&gt;Deadline: 2021-11 (TBD)&lt;/li&gt;
+&lt;li&gt;Topic: Deep Learning and Computer Vision&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;ICME: IEEE International Conference on Multimedia and Expo&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;CCF-B&lt;/li&gt;
+&lt;li&gt;Deadline: 2021-12 (TBD)&lt;/li&gt;
+&lt;li&gt;Topic: Deep Learning and Multimedia&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
     
     <item>
       <title>2021年上半年论文列表</title>

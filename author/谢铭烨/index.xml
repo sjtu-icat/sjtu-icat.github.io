@@ -133,7 +133,7 @@
 &lt;h3 id=&#34;载入服务器模块&#34;&gt;载入服务器模块&lt;/h3&gt;
 &lt;p&gt;每次登入服务器时均需要加载&lt;/p&gt;
 &lt;h4 id=&#34;显示当前可用的软件清单&#34;&gt;显示当前可用的软件清单&lt;/h4&gt;
-&lt;p&gt;module av&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;module av&lt;/code&gt;&lt;/p&gt;
 &lt;h4 id=&#34;加载常用模块&#34;&gt;加载常用模块&lt;/h4&gt;
 &lt;pre&gt;&lt;code&gt;module load anaconda3/2019.10 #亦可在自己路径下独立安装anaconda
 module load cuda/11.1
@@ -161,15 +161,15 @@ module load gcc/7.3.0
 &lt;h3 id=&#34;其他说明&#34;&gt;其他说明&lt;/h3&gt;
 &lt;h4 id=&#34;软件最低版本需求&#34;&gt;软件最低版本需求&lt;/h4&gt;
 &lt;p&gt;在3090上低于该版本将无法正常运行需要GPU的程序&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;pytorch&amp;gt;=1.7.0&lt;/li&gt;
-&lt;li&gt;tensorflow&amp;gt;=2.4.0&lt;/li&gt;
-&lt;/ul&gt;
+&lt;pre&gt;&lt;code&gt;PyTorch&amp;gt;=1.7.0
+Tensorflow&amp;gt;=2.4.0
+&lt;/code&gt;&lt;/pre&gt;
 &lt;h4 id=&#34;服务器资源的分配&#34;&gt;服务器资源的分配&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;使用&lt;code&gt;nvidia-smi&lt;/code&gt;或者&lt;code&gt;gpustat&lt;/code&gt;(需使用pip或conda安装)查看当前服务器GPU使用状态&lt;/li&gt;
 &lt;li&gt;多数程序运行时会默认占用所有可用的GPU，需要长时间使用GPU时，在运行指令前添加&lt;code&gt;CUDA_VISIBLE_DEVICES&lt;/code&gt;指定具体运行的GPU，例如&lt;code&gt;CUDA_VISIBLE_DEVICES=0 python main.py&lt;/code&gt;即指定在0号GPU上运行程序&lt;/li&gt;
 &lt;li&gt;在服务器资源紧张时，将会根据任务优先级对资源进行协调（例如近期需要投会议或期刊的同学可以优先使用）&lt;/li&gt;
+&lt;li&gt;请注意自己home路径下的硬盘占用情况，定期清理临时文件&lt;/li&gt;
 &lt;/ul&gt;</description>
     </item>
     

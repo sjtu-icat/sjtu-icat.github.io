@@ -25,17 +25,20 @@
   </url><url>
     <loc>https://sjtu-icat.github.io/author/%E9%97%AB%E5%BD%AC%E6%B4%81/</loc>
   </url><url>
-    <loc>https://sjtu-icat.github.io/event/example/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sjtu-icat.github.io/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sjtu-icat.github.io/event/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <loc>https://sjtu-icat.github.io/post/21-07-01-confence-list/</loc>
+    <lastmod>2021-06-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sjtu-icat.github.io/authors/</loc>
-    <lastmod>2021-06-21T14:24:05+08:00</lastmod>
+    <lastmod>2021-06-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sjtu-icat.github.io/author/%E5%90%91%E5%AD%99%E7%A8%8B/</loc>
+    <lastmod>2021-06-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sjtu-icat.github.io/</loc>
+    <lastmod>2021-06-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sjtu-icat.github.io/post/</loc>
+    <lastmod>2021-06-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sjtu-icat.github.io/project/compress/</loc>
     <lastmod>2021-06-21T11:00:00+08:00</lastmod>
@@ -91,19 +94,16 @@
     <loc>https://sjtu-icat.github.io/post/21-06-21-recruit/</loc>
     <lastmod>2021-06-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sjtu-icat.github.io/post/</loc>
-    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://sjtu-icat.github.io/post/21-03-18-homepage-start/</loc>
     <lastmod>2021-03-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sjtu-icat.github.io/event/21-03-09-phd-pre/</loc>
     <lastmod>2021-03-09T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sjtu-icat.github.io/post/21-03-01-confence-list/</loc>
-    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+    <loc>https://sjtu-icat.github.io/event/</loc>
+    <lastmod>2021-03-09T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sjtu-icat.github.io/author/%E5%90%91%E5%AD%99%E7%A8%8B/</loc>
+    <loc>https://sjtu-icat.github.io/post/21-03-01-confence-list/</loc>
     <lastmod>2021-03-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sjtu-icat.github.io/post/20-12-02-paper-accepted/</loc>
@@ -160,9 +160,9 @@
   </url><url>
     <loc>https://sjtu-icat.github.io/about/</loc>
   </url><url>
-    <loc>https://sjtu-icat.github.io/projects/</loc>
-  </url><url>
     <loc>https://sjtu-icat.github.io/people/</loc>
+  </url><url>
+    <loc>https://sjtu-icat.github.io/projects/</loc>
   </url><url>
     <loc>https://sjtu-icat.github.io/author/%E6%96%BD%E6%96%8C/</loc>
   </url><url>

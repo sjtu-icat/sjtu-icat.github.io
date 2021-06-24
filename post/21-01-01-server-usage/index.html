@@ -242,7 +242,7 @@
   
   
   
-  <link rel="stylesheet" href="/css/wowchemy.056e313ea31d4101e6fef1d0d595767d.css" />
+  <link rel="stylesheet" href="/css/wowchemy.d9f0df456c51f2ed24a8c96fe5ee62b4.css" />
 
   
 
@@ -730,7 +730,7 @@
 <h3 id="载入服务器模块">载入服务器模块</h3>
 <p>每次登入服务器时均需要加载</p>
 <h4 id="显示当前可用的软件清单">显示当前可用的软件清单</h4>
-<p>module av</p>
+<p><code>module av</code></p>
 <h4 id="加载常用模块">加载常用模块</h4>
 <pre><code>module load anaconda3/2019.10 #亦可在自己路径下独立安装anaconda
 module load cuda/11.1
@@ -758,15 +758,15 @@ module load gcc/7.3.0
 <h3 id="其他说明">其他说明</h3>
 <h4 id="软件最低版本需求">软件最低版本需求</h4>
 <p>在3090上低于该版本将无法正常运行需要GPU的程序</p>
-<ul>
-<li>pytorch&gt;=1.7.0</li>
-<li>tensorflow&gt;=2.4.0</li>
-</ul>
+<pre><code>PyTorch&gt;=1.7.0
+Tensorflow&gt;=2.4.0
+</code></pre>
 <h4 id="服务器资源的分配">服务器资源的分配</h4>
 <ul>
 <li>使用<code>nvidia-smi</code>或者<code>gpustat</code>(需使用pip或conda安装)查看当前服务器GPU使用状态</li>
 <li>多数程序运行时会默认占用所有可用的GPU，需要长时间使用GPU时，在运行指令前添加<code>CUDA_VISIBLE_DEVICES</code>指定具体运行的GPU，例如<code>CUDA_VISIBLE_DEVICES=0 python main.py</code>即指定在0号GPU上运行程序</li>
 <li>在服务器资源紧张时，将会根据任务优先级对资源进行协调（例如近期需要投会议或期刊的同学可以优先使用）</li>
+<li>请注意自己home路径下的硬盘占用情况，定期清理临时文件</li>
 </ul>
     </div>
 
