@@ -23,14 +23,14 @@
 &lt;li&gt;CCF-A&lt;/li&gt;
 &lt;li&gt;Deadline: 2021-08-30&lt;/li&gt;
 &lt;li&gt;Topic: Artificial Intelligence, Machine Learning, Applications&lt;/li&gt;
-&lt;li&gt;Website: &lt;a href=&#34;https://www.aaai.org/Conferences/AAAI-22/&#34;&gt;https://www.aaai.org/Conferences/AAAI-22/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Website: &lt;a href=&#34;https://www.aaai.org/Conferences/AAAI-22/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.aaai.org/Conferences/AAAI-22/&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;ICLR: International Conference on Learning Representations&lt;/strong&gt;
 &lt;ul&gt;
 &lt;li&gt;Deadline: 2021-10-06&lt;/li&gt;
 &lt;li&gt;Topic: Artificial Intelligence, Representation Learning&lt;/li&gt;
-&lt;li&gt;Website: &lt;a href=&#34;https://iclr.cc/&#34;&gt;https://iclr.cc/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Website: &lt;a href=&#34;https://iclr.cc/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://iclr.cc/&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;ICASSP: IEEE International Conference on Acoustics, Speech, and Signal Processing&lt;/strong&gt;
@@ -38,7 +38,7 @@
 &lt;li&gt;CCF-B&lt;/li&gt;
 &lt;li&gt;Deadline: 2021-10-01&lt;/li&gt;
 &lt;li&gt;Topic: Deep Learning, Machine Learning for Signal Processing&lt;/li&gt;
-&lt;li&gt;Website: &lt;a href=&#34;https://2022.ieeeicassp.org/&#34;&gt;https://2022.ieeeicassp.org/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Website: &lt;a href=&#34;https://2022.ieeeicassp.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://2022.ieeeicassp.org/&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;ECAI: European Conference on Artificial Intelligence&lt;/strong&gt;
@@ -439,7 +439,15 @@
     </item>
     
     <item>
-      <title>NEW✨|招收2021级硕士研究生</title>
+      <title>Attention Based Facial Expression Manipulation</title>
+      <link>https://sjtu-icat.github.io/publication/wang2021attention/</link>
+      <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://sjtu-icat.github.io/publication/wang2021attention/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>招收2022级硕士研究生</title>
       <link>https://sjtu-icat.github.io/post/21-06-21-recruit/</link>
       <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
       <guid>https://sjtu-icat.github.io/post/21-06-21-recruit/</guid>

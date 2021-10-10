@@ -5,12 +5,20 @@
     <link>https://sjtu-icat.github.io/author/%E4%BB%98%E5%AE%87%E5%8D%93/</link>
       <atom:link href="https://sjtu-icat.github.io/author/%E4%BB%98%E5%AE%87%E5%8D%93/index.xml" rel="self" type="application/rss+xml" />
     <description>付宇卓</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2021 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2021 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Mon, 21 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sjtu-icat.github.io/author/%E4%BB%98%E5%AE%87%E5%8D%93/avatar_hub8c3b6468bb1632319f6dc2185e485e5_11100_270x270_fill_q75_lanczos_center.jpg</url>
       <title>付宇卓</title>
       <link>https://sjtu-icat.github.io/author/%E4%BB%98%E5%AE%87%E5%8D%93/</link>
     </image>
+    
+    <item>
+      <title>Attention Based Facial Expression Manipulation</title>
+      <link>https://sjtu-icat.github.io/publication/wang2021attention/</link>
+      <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://sjtu-icat.github.io/publication/wang2021attention/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Taking A Closer Look at Synthesis: Fine-Grained Attribute Analysis for Person Re-Identification</title>
