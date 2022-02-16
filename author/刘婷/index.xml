@@ -5,12 +5,36 @@
     <link>https://sjtu-icat.github.io/author/%E5%88%98%E5%A9%B7/</link>
       <atom:link href="https://sjtu-icat.github.io/author/%E5%88%98%E5%A9%B7/index.xml" rel="self" type="application/rss+xml" />
     <description>刘婷</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2021 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Mon, 21 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2022 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Sat, 22 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sjtu-icat.github.io/author/%E5%88%98%E5%A9%B7/avatar_hu11c1a5a4fed20763a051886236c2762c_63816_270x270_fill_q75_lanczos_center.jpg</url>
       <title>刘婷</title>
       <link>https://sjtu-icat.github.io/author/%E5%88%98%E5%A9%B7/</link>
     </image>
+    
+    <item>
+      <title>GOS: A Large-Scale Annotated Outdoor Scene Synthetic Dataset</title>
+      <link>https://sjtu-icat.github.io/publication/xie2022gos/</link>
+      <pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://sjtu-icat.github.io/publication/xie2022gos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SynPose: A large-scale and densely annotated synthetic dataset for human pose estimation in classroom</title>
+      <link>https://sjtu-icat.github.io/publication/yu2022synthetic/</link>
+      <pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://sjtu-icat.github.io/publication/yu2022synthetic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Channel Pruning for Real-Time Object Detection Networks</title>
+      <link>https://sjtu-icat.github.io/publication/jin2021dynamic/</link>
+      <pubDate>Thu, 02 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://sjtu-icat.github.io/publication/jin2021dynamic/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Attention Based Facial Expression Manipulation</title>

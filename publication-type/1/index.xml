@@ -5,12 +5,36 @@
     <link>https://sjtu-icat.github.io/publication-type/1/</link>
       <atom:link href="https://sjtu-icat.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2021 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Mon, 21 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2022 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Sat, 22 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sjtu-icat.github.io/media/logo.png</url>
       <title>1</title>
       <link>https://sjtu-icat.github.io/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>GOS: A Large-Scale Annotated Outdoor Scene Synthetic Dataset</title>
+      <link>https://sjtu-icat.github.io/publication/xie2022gos/</link>
+      <pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://sjtu-icat.github.io/publication/xie2022gos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SynPose: A large-scale and densely annotated synthetic dataset for human pose estimation in classroom</title>
+      <link>https://sjtu-icat.github.io/publication/yu2022synthetic/</link>
+      <pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://sjtu-icat.github.io/publication/yu2022synthetic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Channel Pruning for Real-Time Object Detection Networks</title>
+      <link>https://sjtu-icat.github.io/publication/jin2021dynamic/</link>
+      <pubDate>Thu, 02 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://sjtu-icat.github.io/publication/jin2021dynamic/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Attention Based Facial Expression Manipulation</title>

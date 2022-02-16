@@ -5,12 +5,40 @@
     <link>https://sjtu-icat.github.io/author/%E5%90%91%E5%AD%99%E7%A8%8B/</link>
       <atom:link href="https://sjtu-icat.github.io/author/%E5%90%91%E5%AD%99%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" />
     <description>向孙程</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2021 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Thu, 24 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2022 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Mon, 14 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sjtu-icat.github.io/media/logo.png</url>
       <title>向孙程</title>
       <link>https://sjtu-icat.github.io/author/%E5%90%91%E5%AD%99%E7%A8%8B/</link>
     </image>
+    
+    <item>
+      <title>2022年春季学期实验室任务规划</title>
+      <link>https://sjtu-icat.github.io/post/22-02-14-semester-task/</link>
+      <pubDate>Mon, 14 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://sjtu-icat.github.io/post/22-02-14-semester-task/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;本科生课程《人工智能硬件综合实践课程》&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;本科生毕业设计&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;本科生PRP项目&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2022年上半年论文列表</title>
+      <link>https://sjtu-icat.github.io/post/22-02-01-confence-list/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://sjtu-icat.github.io/post/22-02-01-confence-list/</guid>
+      <description>&lt;p&gt;列表待更新&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>2021年下半年论文列表</title>
