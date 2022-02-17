@@ -5,132 +5,105 @@
     <link>https://sjtu-icat.github.io/author/%E5%90%91%E5%AD%99%E7%A8%8B/</link>
       <atom:link href="https://sjtu-icat.github.io/author/%E5%90%91%E5%AD%99%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" />
     <description>向孙程</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2022 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Mon, 14 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2022 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Mon, 21 Jun 2021 10:30:00 +0800</lastBuildDate>
     <image>
-      <url>https://sjtu-icat.github.io/media/logo.png</url>
+      <url>https://sjtu-icat.github.io/author/%E5%90%91%E5%AD%99%E7%A8%8B/avatar_hu81a8336cf6d4727ff05be7837d64edb3_977725_270x270_fill_q75_lanczos_center.jpg</url>
       <title>向孙程</title>
       <link>https://sjtu-icat.github.io/author/%E5%90%91%E5%AD%99%E7%A8%8B/</link>
     </image>
     
     <item>
-      <title>2022年春季学期实验室任务规划</title>
-      <link>https://sjtu-icat.github.io/post/22-02-14-semester-task/</link>
-      <pubDate>Mon, 14 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://sjtu-icat.github.io/post/22-02-14-semester-task/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;本科生课程《人工智能硬件综合实践课程》&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;本科生毕业设计&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;本科生PRP项目&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
+      <title>行人重识别</title>
+      <link>https://sjtu-icat.github.io/project/reid/</link>
+      <pubDate>Mon, 21 Jun 2021 10:30:00 +0800</pubDate>
+      <guid>https://sjtu-icat.github.io/project/reid/</guid>
+      <description>&lt;h3 id=&#34;背景介绍&#34;&gt;背景介绍&lt;/h3&gt;
+&lt;p&gt;行人重识别（Person re-identification, Re-ID)，也称为行人再识别或跨镜追踪；主要实现从一个摄像头捕获的目标行人，到其他不同摄像头检索是否存在相同行人，即进行跨摄像头检索。&lt;/p&gt;
+&lt;h3 id=&#34;应用场景&#34;&gt;应用场景&lt;/h3&gt;
+&lt;p&gt;行人重识别技术可以弥补目前固定摄像头的视觉局限, 并可与行人检测、行人跟踪技术相结合, 应用于视频监控、智能安防等领域。&lt;/p&gt;
+&lt;h3 id=&#34;已有成果&#34;&gt;已有成果&lt;/h3&gt;
+&lt;p&gt;行人重识别领域由于安全隐私、数据可获取性、标注难度等因素的限制，高质量大规模的真实标注数据依然非常稀缺。针对这类问题，我们针对具体任务场景，利用GTA-5游戏引擎自动构建了多属性有标注数据集。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-来自标注数据集的行人样本&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;./gpr.png&#34; data-caption=&#34;来自标注数据集的行人样本&#34;&gt;
+
+
+  &lt;img src=&#34;./gpr.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    来自标注数据集的行人样本
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;已发表论文&#34;&gt;已发表论文&lt;/h3&gt;
+&lt;p&gt;[1] Xiang S, Fu Y, You G, et al. Unsupervised domain adaptation through synthesis for person re-identification[C]//2020 IEEE International Conference on Multimedia and Expo (ICME). IEEE, 2020: 1-6. &lt;a href=&#34;../publication/xiang-2020-unsupervised/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[2] Xiang S, Fu Y, You G, et al. Taking A Closer Look at Synthesis: Fine-Grained Attribute Analysis for Person Re-Identification[C]//ICASSP 2021-2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2021: 3765-3769. &lt;a href=&#34;../publication/xiang-2021-taking/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>2022年上半年论文列表</title>
-      <link>https://sjtu-icat.github.io/post/22-02-01-confence-list/</link>
-      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://sjtu-icat.github.io/post/22-02-01-confence-list/</guid>
-      <description>&lt;p&gt;列表待更新&amp;hellip;&lt;/p&gt;
-</description>
+      <title>Attention Based Facial Expression Manipulation</title>
+      <link>https://sjtu-icat.github.io/publication/wang2021attention/</link>
+      <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://sjtu-icat.github.io/publication/wang2021attention/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>2021年下半年论文列表</title>
-      <link>https://sjtu-icat.github.io/post/21-07-01-confence-list/</link>
-      <pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://sjtu-icat.github.io/post/21-07-01-confence-list/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;AAAI: AAAI Conference on Artificial Intelligence&lt;/strong&gt;
-&lt;ul&gt;
-&lt;li&gt;CCF-A&lt;/li&gt;
-&lt;li&gt;Deadline: 2021-08-30&lt;/li&gt;
-&lt;li&gt;Topic: Artificial Intelligence, Machine Learning, Applications&lt;/li&gt;
-&lt;li&gt;Website: &lt;a href=&#34;https://www.aaai.org/Conferences/AAAI-22/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.aaai.org/Conferences/AAAI-22/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;ICLR: International Conference on Learning Representations&lt;/strong&gt;
-&lt;ul&gt;
-&lt;li&gt;Deadline: 2021-10-06&lt;/li&gt;
-&lt;li&gt;Topic: Artificial Intelligence, Representation Learning&lt;/li&gt;
-&lt;li&gt;Website: &lt;a href=&#34;https://iclr.cc/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://iclr.cc/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;ICASSP: IEEE International Conference on Acoustics, Speech, and Signal Processing&lt;/strong&gt;
-&lt;ul&gt;
-&lt;li&gt;CCF-B&lt;/li&gt;
-&lt;li&gt;Deadline: 2021-10-01&lt;/li&gt;
-&lt;li&gt;Topic: Deep Learning, Machine Learning for Signal Processing&lt;/li&gt;
-&lt;li&gt;Website: &lt;a href=&#34;https://2022.ieeeicassp.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://2022.ieeeicassp.org/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;ECAI: European Conference on Artificial Intelligence&lt;/strong&gt;
-&lt;ul&gt;
-&lt;li&gt;CCF-B&lt;/li&gt;
-&lt;li&gt;Deadline: 2021-11 (TBD)&lt;/li&gt;
-&lt;li&gt;Topic: Artificial Intelligence, Machine Learning&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;CVPR: IEEE Conference on Computer Vision and Pattern Recognition&lt;/strong&gt;
-&lt;ul&gt;
-&lt;li&gt;CCF-A&lt;/li&gt;
-&lt;li&gt;Deadline: 2021-11 (TBD)&lt;/li&gt;
-&lt;li&gt;Topic: Deep Learning and Computer Vision&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;ICME: IEEE International Conference on Multimedia and Expo&lt;/strong&gt;
-&lt;ul&gt;
-&lt;li&gt;CCF-B&lt;/li&gt;
-&lt;li&gt;Deadline: 2021-12 (TBD)&lt;/li&gt;
-&lt;li&gt;Topic: Deep Learning and Multimedia&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;</description>
+      <title>Taking A Closer Look at Synthesis: Fine-Grained Attribute Analysis for Person Re-Identification</title>
+      <link>https://sjtu-icat.github.io/publication/xiang-2021-taking/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://sjtu-icat.github.io/publication/xiang-2021-taking/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>2021年上半年论文列表</title>
-      <link>https://sjtu-icat.github.io/post/21-03-01-confence-list/</link>
-      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://sjtu-icat.github.io/post/21-03-01-confence-list/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;International Conference on Multimodla Interaction (ICMI)&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;May 2021&lt;/li&gt;
-&lt;li&gt;CCF-C&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;International Conference on Neural Information Processing (ICONIP)&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;June 2021&lt;/li&gt;
-&lt;li&gt;CCF-C&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;International Conference on Tools with Artifical Intelligence (ICTAI)&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;July 2021&lt;/li&gt;
-&lt;li&gt;CCF-C&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <title>Unsupervised domain adaptation through synthesis for person re-identification</title>
+      <link>https://sjtu-icat.github.io/publication/xiang-2020-unsupervised/</link>
+      <pubDate>Mon, 06 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://sjtu-icat.github.io/publication/xiang-2020-unsupervised/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>祝贺向孙程同学的论文被ICASSP&#39;21录用</title>
-      <link>https://sjtu-icat.github.io/post/20-12-02-paper-accepted/</link>
-      <pubDate>Thu, 28 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://sjtu-icat.github.io/post/20-12-02-paper-accepted/</guid>
-      <description>&lt;p&gt;祝贺向孙程同学的论文&amp;quot;Taking a Closer Look at Synthesis: Fine-grained Attribute Analysis for Person Re-Identification&amp;quot;被ICASSP&#39;21所录用！&lt;/p&gt;
-&lt;p&gt;该会议属于CCF B类会议。&lt;/p&gt;</description>
+      <title>Attribute analysis with synthetic dataset for person re-identification</title>
+      <link>https://sjtu-icat.github.io/publication/xiang-2020-attribute/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://sjtu-icat.github.io/publication/xiang-2020-attribute/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep unsupervised progressive learning for distant domain adaptation</title>
+      <link>https://sjtu-icat.github.io/publication/xiang-2019-deep/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://sjtu-icat.github.io/publication/xiang-2019-deep/</guid>
+      <description></description>
     </item>
     
   </channel>

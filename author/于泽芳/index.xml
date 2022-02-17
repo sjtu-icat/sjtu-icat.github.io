@@ -7,21 +7,68 @@
     <description>于泽芳</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2022 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Sat, 22 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://sjtu-icat.github.io/media/logo.png</url>
+      <url>https://sjtu-icat.github.io/author/%E4%BA%8E%E6%B3%BD%E8%8A%B3/avatar_hue888d6e5a219d7fc7c142f3ac7ab3e4f_315738_270x270_fill_q75_lanczos_center.jpg</url>
       <title>于泽芳</title>
       <link>https://sjtu-icat.github.io/author/%E4%BA%8E%E6%B3%BD%E8%8A%B3/</link>
     </image>
     
     <item>
-      <title>祝贺实验室两篇论文被ICASSP 2022接收</title>
-      <link>https://sjtu-icat.github.io/post/22-01-22-paper-accepted/</link>
+      <title>SynPose: A Large-scale and Densely Annotated Synthetic Dataset for Human Pose Estimation in Classroom</title>
+      <link>https://sjtu-icat.github.io/publication/yu2022synthetic/</link>
       <pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://sjtu-icat.github.io/post/22-01-22-paper-accepted/</guid>
-      <description>&lt;p&gt;祝贺&lt;/p&gt;
-&lt;p&gt;谢铭烨同学的论文&amp;quot;GOS: A Large-Scale Annotated Outdoor Scene Synthetic Dataset&amp;quot; 和&lt;/p&gt;
-&lt;p&gt;于泽芳同学的论文&amp;quot;SynPose: A Large-Scale and Densely Annotated Synthtic Dataset for Human Pose Estimation in Classroom&amp;quot;&lt;/p&gt;
-&lt;p&gt;被ICASSP 2022所接收！&lt;/p&gt;
-&lt;p&gt;ICASSP会议属于CCF B类会议。本次会议将于2022年5月在新加坡以混合模式召开。&lt;/p&gt;</description>
+      <guid>https://sjtu-icat.github.io/publication/yu2022synthetic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>基于骨架的人类动作识别</title>
+      <link>https://sjtu-icat.github.io/project/skeleton/</link>
+      <pubDate>Mon, 21 Jun 2021 10:00:00 +0800</pubDate>
+      <guid>https://sjtu-icat.github.io/project/skeleton/</guid>
+      <description>&lt;h3 id=&#34;背景介绍&#34;&gt;背景介绍&lt;/h3&gt;
+&lt;p&gt;近年来，基于骨架的动作识别由于其对动态环境和复杂背景的鲁棒性而备受关注，其主要任务为根据输入的一段骨架序列，输出当前对应的动作类别。主流方法通常将关节点数据构建为图（graph）结构，并将图卷积扩展为时空图卷积来提取运动信息。&lt;/p&gt;
+&lt;h3 id=&#34;应用场景&#34;&gt;应用场景&lt;/h3&gt;
+&lt;p&gt;基于骨架的动作识别可以服务于人机交互、机器人、VR游戏实时控制等领域。&lt;/p&gt;
+&lt;h3 id=&#34;已有成果&#34;&gt;已有成果&lt;/h3&gt;
+&lt;p&gt;构建动作识别数据集时往往需耗费大量的人力物力，缺乏多视角下的动作序列。为解决这一问题，我们基于GTA V游戏构建了大规模360度全视角的虚拟动作数据集GAR-60。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-gar-60数据集部分样本&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;./gar-60.png&#34; data-caption=&#34;GAR-60数据集部分样本&#34;&gt;
+
+
+  &lt;img src=&#34;./gar-60.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    GAR-60数据集部分样本
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/p&gt;
+</description>
     </item>
     
   </channel>

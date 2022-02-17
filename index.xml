@@ -13,7 +13,7 @@
     </image>
     
     <item>
-      <title>2022年春季学期实验室任务规划</title>
+      <title>2022春 实验室任务规划</title>
       <link>https://sjtu-icat.github.io/post/22-02-14-semester-task/</link>
       <pubDate>Mon, 14 Feb 2022 00:00:00 +0000</pubDate>
       <guid>https://sjtu-icat.github.io/post/22-02-14-semester-task/</guid>
@@ -27,8 +27,7 @@
 &lt;li&gt;
 &lt;p&gt;本科生PRP项目&lt;/p&gt;
 &lt;/li&gt;
-&lt;/ul&gt;
-</description>
+&lt;/ul&gt;</description>
     </item>
     
     <item>
@@ -36,8 +35,7 @@
       <link>https://sjtu-icat.github.io/post/22-02-01-confence-list/</link>
       <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
       <guid>https://sjtu-icat.github.io/post/22-02-01-confence-list/</guid>
-      <description>&lt;p&gt;列表待更新&amp;hellip;&lt;/p&gt;
-</description>
+      <description>&lt;p&gt;列表待更新&amp;hellip;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -49,7 +47,7 @@
     </item>
     
     <item>
-      <title>SynPose: A large-scale and densely annotated synthetic dataset for human pose estimation in classroom</title>
+      <title>SynPose: A Large-scale and Densely Annotated Synthetic Dataset for Human Pose Estimation in Classroom</title>
       <link>https://sjtu-icat.github.io/publication/yu2022synthetic/</link>
       <pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://sjtu-icat.github.io/publication/yu2022synthetic/</guid>
@@ -69,10 +67,26 @@
     </item>
     
     <item>
+      <title>DFFCN: Dual Flow Fusion Convolutional Network for Micro Expression Recognition</title>
+      <link>https://sjtu-icat.github.io/publication/chen2021dffcn/</link>
+      <pubDate>Sun, 05 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://sjtu-icat.github.io/publication/chen2021dffcn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Dynamic Channel Pruning for Real-Time Object Detection Networks</title>
       <link>https://sjtu-icat.github.io/publication/jin2021dynamic/</link>
       <pubDate>Thu, 02 Dec 2021 00:00:00 +0000</pubDate>
       <guid>https://sjtu-icat.github.io/publication/jin2021dynamic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving Abstractive Dialogue Summarization with Hierarchical Pretraining and Topic Segment</title>
+      <link>https://sjtu-icat.github.io/publication/qi2021improving/</link>
+      <pubDate>Tue, 30 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://sjtu-icat.github.io/publication/qi2021improving/</guid>
       <description></description>
     </item>
     

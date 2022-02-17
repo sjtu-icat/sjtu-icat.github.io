@@ -7,7 +7,7 @@
     <description>付宇卓</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2022 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Sat, 22 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://sjtu-icat.github.io/author/%E4%BB%98%E5%AE%87%E5%8D%93/avatar_hub8c3b6468bb1632319f6dc2185e485e5_11100_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://sjtu-icat.github.io/author/%E4%BB%98%E5%AE%87%E5%8D%93/avatar_hu343538af445ec0f552f719dfd66bcc4e_82306_270x270_fill_q75_lanczos_center.jpg</url>
       <title>付宇卓</title>
       <link>https://sjtu-icat.github.io/author/%E4%BB%98%E5%AE%87%E5%8D%93/</link>
     </image>
@@ -21,10 +21,18 @@
     </item>
     
     <item>
-      <title>SynPose: A large-scale and densely annotated synthetic dataset for human pose estimation in classroom</title>
+      <title>SynPose: A Large-scale and Densely Annotated Synthetic Dataset for Human Pose Estimation in Classroom</title>
       <link>https://sjtu-icat.github.io/publication/yu2022synthetic/</link>
       <pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://sjtu-icat.github.io/publication/yu2022synthetic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DFFCN: Dual Flow Fusion Convolutional Network for Micro Expression Recognition</title>
+      <link>https://sjtu-icat.github.io/publication/chen2021dffcn/</link>
+      <pubDate>Sun, 05 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://sjtu-icat.github.io/publication/chen2021dffcn/</guid>
       <description></description>
     </item>
     
@@ -33,6 +41,14 @@
       <link>https://sjtu-icat.github.io/publication/jin2021dynamic/</link>
       <pubDate>Thu, 02 Dec 2021 00:00:00 +0000</pubDate>
       <guid>https://sjtu-icat.github.io/publication/jin2021dynamic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving Abstractive Dialogue Summarization with Hierarchical Pretraining and Topic Segment</title>
+      <link>https://sjtu-icat.github.io/publication/qi2021improving/</link>
+      <pubDate>Tue, 30 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://sjtu-icat.github.io/publication/qi2021improving/</guid>
       <description></description>
     </item>
     
