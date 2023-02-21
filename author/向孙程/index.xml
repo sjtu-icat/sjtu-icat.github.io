@@ -5,12 +5,44 @@
     <link>https://sjtu-icat.github.io/author/%E5%90%91%E5%AD%99%E7%A8%8B/</link>
       <atom:link href="https://sjtu-icat.github.io/author/%E5%90%91%E5%AD%99%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" />
     <description>向孙程</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2022 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Mon, 21 Jun 2021 10:30:00 +0800</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2023 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Wed, 15 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sjtu-icat.github.io/author/%E5%90%91%E5%AD%99%E7%A8%8B/avatar_hu81a8336cf6d4727ff05be7837d64edb3_977725_270x270_fill_q75_lanczos_center.jpg</url>
       <title>向孙程</title>
       <link>https://sjtu-icat.github.io/author/%E5%90%91%E5%AD%99%E7%A8%8B/</link>
     </image>
+    
+    <item>
+      <title>AV-TAD: Audio-Visual Temporal Action Detection with Transformer</title>
+      <link>https://sjtu-icat.github.io/publication/li2023avtad/</link>
+      <pubDate>Wed, 15 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://sjtu-icat.github.io/publication/li2023avtad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CC-PoseNet: Towards human pose estimation in crowded classrooms</title>
+      <link>https://sjtu-icat.github.io/publication/yu2023ccposenet/</link>
+      <pubDate>Wed, 15 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://sjtu-icat.github.io/publication/yu2023ccposenet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MALUNet: A Multi-Attention and Light-weight UNet for Skin Lesion Segmentation</title>
+      <link>https://sjtu-icat.github.io/publication/ruan2022malunet/</link>
+      <pubDate>Thu, 20 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://sjtu-icat.github.io/publication/ruan2022malunet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial Attention Guided Local Facial Attribute Editing</title>
+      <link>https://sjtu-icat.github.io/publication/xie2022spatial/</link>
+      <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://sjtu-icat.github.io/publication/xie2022spatial/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>行人重识别</title>

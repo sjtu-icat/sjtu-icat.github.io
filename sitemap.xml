@@ -3,19 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://sjtu-icat.github.io/author/%E4%BB%98%E5%AE%87%E5%8D%93/</loc>
-    <lastmod>2022-02-16T14:24:05+08:00</lastmod>
+    <lastmod>2023-02-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sjtu-icat.github.io/author/%E5%88%98%E5%A9%B7/</loc>
-    <lastmod>2022-02-16T14:24:05+08:00</lastmod>
+    <lastmod>2023-02-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sjtu-icat.github.io/author/%E5%90%91%E5%AD%99%E7%A8%8B/</loc>
-    <lastmod>2021-06-21T14:24:05+08:00</lastmod>
+    <lastmod>2023-02-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sjtu-icat.github.io/author/%E4%BA%8E%E6%B3%BD%E8%8A%B3/</loc>
-    <lastmod>2022-02-16T14:24:05+08:00</lastmod>
+    <lastmod>2023-02-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sjtu-icat.github.io/author/%E8%B0%A2%E9%93%AD%E7%83%A8/</loc>
-    <lastmod>2022-02-16T13:24:05+08:00</lastmod>
+    <lastmod>2022-10-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sjtu-icat.github.io/author/%E5%86%89%E8%8B%87/</loc>
     <lastmod>2021-06-21T10:55:00+08:00</lastmod>
@@ -26,12 +26,67 @@
     <loc>https://sjtu-icat.github.io/author/%E9%97%AB%E5%BD%AC%E6%B4%81/</loc>
   </url><url>
     <loc>https://sjtu-icat.github.io/author/%E9%98%AE%E4%BD%B3%E7%A8%8B/</loc>
+    <lastmod>2022-10-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sjtu-icat.github.io/publication-type/1/</loc>
+    <lastmod>2023-02-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sjtu-icat.github.io/authors/</loc>
+    <lastmod>2023-02-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sjtu-icat.github.io/publication/li2023avtad/</loc>
+    <lastmod>2023-02-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sjtu-icat.github.io/publication/yu2023ccposenet/</loc>
+    <lastmod>2023-02-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sjtu-icat.github.io/publication_types/</loc>
+    <lastmod>2023-02-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sjtu-icat.github.io/</loc>
+    <lastmod>2023-02-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sjtu-icat.github.io/author/%E6%9D%8E%E6%B3%B1%E4%B8%9E/</loc>
+    <lastmod>2023-02-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sjtu-icat.github.io/author/%E8%83%A1%E7%87%95%E8%90%8D/</loc>
+    <lastmod>2023-02-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sjtu-icat.github.io/publication/</loc>
+    <lastmod>2023-02-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sjtu-icat.github.io/tag/attention-mechanism/</loc>
+    <lastmod>2022-10-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sjtu-icat.github.io/tag/light-weight-model/</loc>
+    <lastmod>2022-10-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sjtu-icat.github.io/publication/ruan2022malunet/</loc>
+    <lastmod>2022-10-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sjtu-icat.github.io/tag/medical-image-segmentation/</loc>
+    <lastmod>2022-10-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sjtu-icat.github.io/tag/mobile-health/</loc>
+    <lastmod>2022-10-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sjtu-icat.github.io/tags/</loc>
+    <lastmod>2022-10-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sjtu-icat.github.io/tag/facial-attribute-manipulation/</loc>
+    <lastmod>2022-03-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sjtu-icat.github.io/tag/generative-adversarial-network-gan/</loc>
+    <lastmod>2022-03-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sjtu-icat.github.io/publication/xie2022spatial/</loc>
+    <lastmod>2022-03-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sjtu-icat.github.io/author/%E7%8E%8B%E5%B3%B0/</loc>
+    <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sjtu-icat.github.io/post/22-02-14-semester-task/</loc>
     <lastmod>2022-02-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sjtu-icat.github.io/</loc>
-    <lastmod>2022-02-16T14:24:05+08:00</lastmod>
   </url><url>
     <loc>https://sjtu-icat.github.io/post/</loc>
     <lastmod>2022-02-14T00:00:00+00:00</lastmod>
@@ -39,17 +94,8 @@
     <loc>https://sjtu-icat.github.io/post/22-02-01-confence-list/</loc>
     <lastmod>2022-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sjtu-icat.github.io/publication-type/1/</loc>
-    <lastmod>2022-02-16T14:24:05+08:00</lastmod>
-  </url><url>
-    <loc>https://sjtu-icat.github.io/authors/</loc>
-    <lastmod>2022-02-16T14:24:05+08:00</lastmod>
-  </url><url>
     <loc>https://sjtu-icat.github.io/publication/xie2022gos/</loc>
     <lastmod>2022-02-16T13:24:05+08:00</lastmod>
-  </url><url>
-    <loc>https://sjtu-icat.github.io/publication_types/</loc>
-    <lastmod>2022-02-16T14:24:05+08:00</lastmod>
   </url><url>
     <loc>https://sjtu-icat.github.io/publication/yu2022synthetic/</loc>
     <lastmod>2022-02-16T14:24:05+08:00</lastmod>
@@ -57,14 +103,8 @@
     <loc>https://sjtu-icat.github.io/author/%E5%88%98%E5%A5%95%E6%88%90/</loc>
     <lastmod>2022-02-16T14:24:05+08:00</lastmod>
   </url><url>
-    <loc>https://sjtu-icat.github.io/author/%E6%9D%8E%E6%B3%B1%E4%B8%9E/</loc>
-    <lastmod>2022-02-16T14:24:05+08:00</lastmod>
-  </url><url>
     <loc>https://sjtu-icat.github.io/post/22-01-22-paper-accepted/</loc>
     <lastmod>2022-01-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sjtu-icat.github.io/publication/</loc>
-    <lastmod>2022-02-16T14:24:05+08:00</lastmod>
   </url><url>
     <loc>https://sjtu-icat.github.io/publication/chen2021dffcn/</loc>
     <lastmod>2021-12-05T14:00:05+08:00</lastmod>
@@ -110,9 +150,6 @@
   </url><url>
     <loc>https://sjtu-icat.github.io/project/gan-editing/</loc>
     <lastmod>2021-06-21T10:35:00+08:00</lastmod>
-  </url><url>
-    <loc>https://sjtu-icat.github.io/author/%E7%8E%8B%E5%B3%B0/</loc>
-    <lastmod>2021-06-21T14:24:05+08:00</lastmod>
   </url><url>
     <loc>https://sjtu-icat.github.io/author/%E5%85%B3%E6%A2%A6%E5%9C%86/</loc>
     <lastmod>2021-06-21T10:30:00+08:00</lastmod>
@@ -169,9 +206,6 @@
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sjtu-icat.github.io/tag/source-themes/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sjtu-icat.github.io/tags/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sjtu-icat.github.io/publication/xiang-2019-deep/</loc>

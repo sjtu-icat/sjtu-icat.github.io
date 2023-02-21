@@ -5,12 +5,20 @@
     <link>https://sjtu-icat.github.io/author/%E6%9D%8E%E6%B3%B1%E4%B8%9E/</link>
       <atom:link href="https://sjtu-icat.github.io/author/%E6%9D%8E%E6%B3%B1%E4%B8%9E/index.xml" rel="self" type="application/rss+xml" />
     <description>李泱丞</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2022 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Sat, 22 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2023 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Wed, 15 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sjtu-icat.github.io/author/%E6%9D%8E%E6%B3%B1%E4%B8%9E/avatar_hu5f158c6746bbc093a3e6c9761da4059c_16927_270x270_fill_q75_lanczos_center.jpg</url>
       <title>李泱丞</title>
       <link>https://sjtu-icat.github.io/author/%E6%9D%8E%E6%B3%B1%E4%B8%9E/</link>
     </image>
+    
+    <item>
+      <title>AV-TAD: Audio-Visual Temporal Action Detection with Transformer</title>
+      <link>https://sjtu-icat.github.io/publication/li2023avtad/</link>
+      <pubDate>Wed, 15 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://sjtu-icat.github.io/publication/li2023avtad/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>SynPose: A Large-scale and Densely Annotated Synthetic Dataset for Human Pose Estimation in Classroom</title>

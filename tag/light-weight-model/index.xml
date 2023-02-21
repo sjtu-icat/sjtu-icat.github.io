@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Light-weight model | 智能计算机体系结构实验室</title>
+    <link>https://sjtu-icat.github.io/tag/light-weight-model/</link>
+      <atom:link href="https://sjtu-icat.github.io/tag/light-weight-model/index.xml" rel="self" type="application/rss+xml" />
+    <description>Light-weight model</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2023 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Thu, 20 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sjtu-icat.github.io/media/logo.png</url>
+      <title>Light-weight model</title>
+      <link>https://sjtu-icat.github.io/tag/light-weight-model/</link>
+    </image>
+    
+    <item>
+      <title>MALUNet: A Multi-Attention and Light-weight UNet for Skin Lesion Segmentation</title>
+      <link>https://sjtu-icat.github.io/publication/ruan2022malunet/</link>
+      <pubDate>Thu, 20 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://sjtu-icat.github.io/publication/ruan2022malunet/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
