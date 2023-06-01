@@ -28,6 +28,12 @@
     <loc>https://sjtu-icat.github.io/author/%E9%98%AE%E4%BD%B3%E7%A8%8B/</loc>
     <lastmod>2022-10-20T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://sjtu-icat.github.io/author/%E8%83%A1%E7%AB%8B%E5%AE%81/</loc>
+  </url><url>
+    <loc>https://sjtu-icat.github.io/author/%E9%AB%98%E6%98%BE/</loc>
+  </url><url>
+    <loc>https://sjtu-icat.github.io/author/%E5%BE%90%E6%9E%97/</loc>
+  </url><url>
     <loc>https://sjtu-icat.github.io/publication-type/1/</loc>
     <lastmod>2023-02-15T00:00:00+00:00</lastmod>
   </url><url>
@@ -43,16 +49,16 @@
     <loc>https://sjtu-icat.github.io/publication_types/</loc>
     <lastmod>2023-02-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sjtu-icat.github.io/</loc>
+    <loc>https://sjtu-icat.github.io/author/%E8%83%A1%E7%87%95%E8%90%8D/</loc>
     <lastmod>2023-02-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sjtu-icat.github.io/author/%E6%9D%8E%E6%B3%B1%E4%B8%9E/</loc>
     <lastmod>2023-02-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sjtu-icat.github.io/author/%E8%83%A1%E7%87%95%E8%90%8D/</loc>
+    <loc>https://sjtu-icat.github.io/publication/</loc>
     <lastmod>2023-02-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sjtu-icat.github.io/publication/</loc>
+    <loc>https://sjtu-icat.github.io/</loc>
     <lastmod>2023-02-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sjtu-icat.github.io/tag/attention-mechanism/</loc>
@@ -109,10 +115,10 @@
     <loc>https://sjtu-icat.github.io/publication/chen2021dffcn/</loc>
     <lastmod>2021-12-05T14:00:05+08:00</lastmod>
   </url><url>
-    <loc>https://sjtu-icat.github.io/author/%E9%87%91%E4%B9%89%E5%8D%9A/</loc>
+    <loc>https://sjtu-icat.github.io/author/%E9%99%88%E9%94%A6%E6%9D%B0/</loc>
     <lastmod>2021-12-05T14:00:05+08:00</lastmod>
   </url><url>
-    <loc>https://sjtu-icat.github.io/author/%E9%99%88%E9%94%A6%E6%9D%B0/</loc>
+    <loc>https://sjtu-icat.github.io/author/%E9%87%91%E4%B9%89%E5%8D%9A/</loc>
     <lastmod>2021-12-05T14:00:05+08:00</lastmod>
   </url><url>
     <loc>https://sjtu-icat.github.io/publication/jin2021dynamic/</loc>
@@ -151,13 +157,13 @@
     <loc>https://sjtu-icat.github.io/project/gan-editing/</loc>
     <lastmod>2021-06-21T10:35:00+08:00</lastmod>
   </url><url>
+    <loc>https://sjtu-icat.github.io/author/%E9%99%88%E6%B5%A9/</loc>
+    <lastmod>2021-06-21T10:30:00+08:00</lastmod>
+  </url><url>
     <loc>https://sjtu-icat.github.io/author/%E5%85%B3%E6%A2%A6%E5%9C%86/</loc>
     <lastmod>2021-06-21T10:30:00+08:00</lastmod>
   </url><url>
     <loc>https://sjtu-icat.github.io/project/reid/</loc>
-    <lastmod>2021-06-21T10:30:00+08:00</lastmod>
-  </url><url>
-    <loc>https://sjtu-icat.github.io/author/%E9%99%88%E6%B5%A9/</loc>
     <lastmod>2021-06-21T10:30:00+08:00</lastmod>
   </url><url>
     <loc>https://sjtu-icat.github.io/project/skeleton/</loc>
@@ -215,22 +221,22 @@
   </url><url>
     <loc>https://sjtu-icat.github.io/categories/</loc>
   </url><url>
-    <loc>https://sjtu-icat.github.io/author/%E4%BA%8E%E6%BD%BC/</loc>
+    <loc>https://sjtu-icat.github.io/author/%E9%99%88%E6%98%8A/</loc>
   </url><url>
     <loc>https://sjtu-icat.github.io/about/</loc>
   </url><url>
-    <loc>https://sjtu-icat.github.io/people/</loc>
-  </url><url>
-    <loc>https://sjtu-icat.github.io/projects/</loc>
-  </url><url>
     <loc>https://sjtu-icat.github.io/author/%E6%9D%8E%E6%B3%BD%E5%AE%87/</loc>
-  </url><url>
-    <loc>https://sjtu-icat.github.io/author/%E6%9D%A8%E6%99%93%E5%AE%87/</loc>
-  </url><url>
-    <loc>https://sjtu-icat.github.io/author/%E7%8E%8B%E8%B7%AF%E6%89%AC/</loc>
   </url><url>
     <loc>https://sjtu-icat.github.io/author/%E8%8E%AB%E5%A9%A7%E5%BD%A4/</loc>
   </url><url>
-    <loc>https://sjtu-icat.github.io/author/%E9%99%88%E6%98%8A/</loc>
+    <loc>https://sjtu-icat.github.io/projects/</loc>
+  </url><url>
+    <loc>https://sjtu-icat.github.io/people/</loc>
+  </url><url>
+    <loc>https://sjtu-icat.github.io/author/%E7%8E%8B%E8%B7%AF%E6%89%AC/</loc>
+  </url><url>
+    <loc>https://sjtu-icat.github.io/author/%E6%9D%A8%E6%99%93%E5%AE%87/</loc>
+  </url><url>
+    <loc>https://sjtu-icat.github.io/author/%E4%BA%8E%E6%BD%BC/</loc>
   </url>
 </urlset>

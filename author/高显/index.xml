@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>高显 | 智能计算机体系结构实验室</title>
+    <link>https://sjtu-icat.github.io/author/%E9%AB%98%E6%98%BE/</link>
+      <atom:link href="https://sjtu-icat.github.io/author/%E9%AB%98%E6%98%BE/index.xml" rel="self" type="application/rss+xml" />
+    <description>高显</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2023 智能计算机体系结构实验室 · 上海交通大学</copyright>
+    <image>
+      <url>https://sjtu-icat.github.io/author/%E9%AB%98%E6%98%BE/avatar_hub70a1d43494974d24e94d624ccaefcab_11370_270x270_fill_lanczos_center_3.png</url>
+      <title>高显</title>
+      <link>https://sjtu-icat.github.io/author/%E9%AB%98%E6%98%BE/</link>
+    </image>
+    
+  </channel>
+</rss>

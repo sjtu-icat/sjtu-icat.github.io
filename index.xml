@@ -731,18 +731,18 @@ Tensorflow&amp;gt;=2.4.0
     </item>
     
     <item>
-      <title>团队成员</title>
-      <link>https://sjtu-icat.github.io/people/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://sjtu-icat.github.io/people/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>实验室项目</title>
       <link>https://sjtu-icat.github.io/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://sjtu-icat.github.io/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>团队成员</title>
+      <link>https://sjtu-icat.github.io/people/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://sjtu-icat.github.io/people/</guid>
       <description></description>
     </item>
     
