@@ -2,53 +2,65 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>向孙程 | 智能计算机体系结构实验室</title>
-    <link>https://sjtu-icat.github.io/author/%E5%90%91%E5%AD%99%E7%A8%8B/</link>
-      <atom:link href="https://sjtu-icat.github.io/author/%E5%90%91%E5%AD%99%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/%E5%90%91%E5%AD%99%E7%A8%8B/</link>
+      <atom:link href="http://localhost:1313/author/%E5%90%91%E5%AD%99%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" />
     <description>向孙程</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2023 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Wed, 15 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2024 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Wed, 15 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://sjtu-icat.github.io/author/%E5%90%91%E5%AD%99%E7%A8%8B/avatar_hu81a8336cf6d4727ff05be7837d64edb3_977725_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>http://localhost:1313/author/%E5%90%91%E5%AD%99%E7%A8%8B/avatar_hu81a8336cf6d4727ff05be7837d64edb3_977725_270x270_fill_q75_lanczos_center.jpg</url>
       <title>向孙程</title>
-      <link>https://sjtu-icat.github.io/author/%E5%90%91%E5%AD%99%E7%A8%8B/</link>
+      <link>http://localhost:1313/author/%E5%90%91%E5%AD%99%E7%A8%8B/</link>
     </image>
     
     <item>
-      <title>AV-TAD: Audio-Visual Temporal Action Detection with Transformer</title>
-      <link>https://sjtu-icat.github.io/publication/li2023avtad/</link>
+      <title>向孙程</title>
+      <link>http://localhost:1313/author/%E5%90%91%E5%AD%99%E7%A8%8B/</link>
       <pubDate>Wed, 15 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://sjtu-icat.github.io/publication/li2023avtad/</guid>
+      <guid>http://localhost:1313/author/%E5%90%91%E5%AD%99%E7%A8%8B/</guid>
+      <description>&lt;p&gt;Hi, I am Suncheng Xiang, a final-year PhD student at Shanghai Jiao Tong University.&lt;/p&gt;
+&lt;p&gt;Before this, I graduated from Changsha University of Science &amp;amp; Technology (CSUST) for B.Eng in Electrical Engineering and Automation in 2014, then obtained the M.Eng from National University of Defense Technology (NUDT) in 2017.&lt;/p&gt;
+&lt;p&gt;My main research topics are computer vision and machine learning. Specifically, I am currently doing research works on person re-identification, domain adaptation, transfer learning and related applications. I am also interested in some image generation and image retrieval tasks, e.g. vehicle re-identification and fine-grained image retrieval tasks.&lt;/p&gt;
+&lt;p&gt;This is my &lt;a href=&#34;https://JeremyXSC.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Homepage&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AV-TAD: Audio-Visual Temporal Action Detection with Transformer</title>
+      <link>http://localhost:1313/publication/li2023avtad/</link>
+      <pubDate>Wed, 15 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/li2023avtad/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CC-PoseNet: Towards human pose estimation in crowded classrooms</title>
-      <link>https://sjtu-icat.github.io/publication/yu2023ccposenet/</link>
+      <link>http://localhost:1313/publication/yu2023ccposenet/</link>
       <pubDate>Wed, 15 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://sjtu-icat.github.io/publication/yu2023ccposenet/</guid>
+      <guid>http://localhost:1313/publication/yu2023ccposenet/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MALUNet: A Multi-Attention and Light-weight UNet for Skin Lesion Segmentation</title>
-      <link>https://sjtu-icat.github.io/publication/ruan2022malunet/</link>
+      <link>http://localhost:1313/publication/ruan2022malunet/</link>
       <pubDate>Thu, 20 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://sjtu-icat.github.io/publication/ruan2022malunet/</guid>
+      <guid>http://localhost:1313/publication/ruan2022malunet/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spatial Attention Guided Local Facial Attribute Editing</title>
-      <link>https://sjtu-icat.github.io/publication/xie2022spatial/</link>
+      <link>http://localhost:1313/publication/xie2022spatial/</link>
       <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://sjtu-icat.github.io/publication/xie2022spatial/</guid>
+      <guid>http://localhost:1313/publication/xie2022spatial/</guid>
       <description></description>
     </item>
     
     <item>
       <title>行人重识别</title>
-      <link>https://sjtu-icat.github.io/project/reid/</link>
+      <link>http://localhost:1313/project/reid/</link>
       <pubDate>Mon, 21 Jun 2021 10:30:00 +0800</pubDate>
-      <guid>https://sjtu-icat.github.io/project/reid/</guid>
+      <guid>http://localhost:1313/project/reid/</guid>
       <description>&lt;h3 id=&#34;背景介绍&#34;&gt;背景介绍&lt;/h3&gt;
 &lt;p&gt;行人重识别（Person re-identification, Re-ID)，也称为行人再识别或跨镜追踪；主要实现从一个摄像头捕获的目标行人，到其他不同摄像头检索是否存在相同行人，即进行跨摄像头检索。&lt;/p&gt;
 &lt;h3 id=&#34;应用场景&#34;&gt;应用场景&lt;/h3&gt;
@@ -99,42 +111,34 @@
     </item>
     
     <item>
-      <title>Attention Based Facial Expression Manipulation</title>
-      <link>https://sjtu-icat.github.io/publication/wang2021attention/</link>
-      <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://sjtu-icat.github.io/publication/wang2021attention/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Taking A Closer Look at Synthesis: Fine-Grained Attribute Analysis for Person Re-Identification</title>
-      <link>https://sjtu-icat.github.io/publication/xiang-2021-taking/</link>
+      <link>http://localhost:1313/publication/xiang-2021-taking/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://sjtu-icat.github.io/publication/xiang-2021-taking/</guid>
+      <guid>http://localhost:1313/publication/xiang-2021-taking/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Unsupervised domain adaptation through synthesis for person re-identification</title>
-      <link>https://sjtu-icat.github.io/publication/xiang-2020-unsupervised/</link>
+      <link>http://localhost:1313/publication/xiang-2020-unsupervised/</link>
       <pubDate>Mon, 06 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://sjtu-icat.github.io/publication/xiang-2020-unsupervised/</guid>
+      <guid>http://localhost:1313/publication/xiang-2020-unsupervised/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Attribute analysis with synthetic dataset for person re-identification</title>
-      <link>https://sjtu-icat.github.io/publication/xiang-2020-attribute/</link>
+      <link>http://localhost:1313/publication/xiang-2020-attribute/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://sjtu-icat.github.io/publication/xiang-2020-attribute/</guid>
+      <guid>http://localhost:1313/publication/xiang-2020-attribute/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep unsupervised progressive learning for distant domain adaptation</title>
-      <link>https://sjtu-icat.github.io/publication/xiang-2019-deep/</link>
+      <link>http://localhost:1313/publication/xiang-2019-deep/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://sjtu-icat.github.io/publication/xiang-2019-deep/</guid>
+      <guid>http://localhost:1313/publication/xiang-2019-deep/</guid>
       <description></description>
     </item>
     

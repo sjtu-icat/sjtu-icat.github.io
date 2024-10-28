@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>近期动态 | 智能计算机体系结构实验室</title>
-    <link>https://sjtu-icat.github.io/post/</link>
-      <atom:link href="https://sjtu-icat.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/post/</link>
+      <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     <description>近期动态</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2023 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Mon, 14 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2024 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Mon, 14 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://sjtu-icat.github.io/media/logo.png</url>
+      <url>http://localhost:1313/media/logo.png</url>
       <title>近期动态</title>
-      <link>https://sjtu-icat.github.io/post/</link>
+      <link>http://localhost:1313/post/</link>
     </image>
     
     <item>
       <title>2022春 实验室任务规划</title>
-      <link>https://sjtu-icat.github.io/post/22-02-14-semester-task/</link>
+      <link>http://localhost:1313/post/22-02-14-semester-task/</link>
       <pubDate>Mon, 14 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://sjtu-icat.github.io/post/22-02-14-semester-task/</guid>
+      <guid>http://localhost:1313/post/22-02-14-semester-task/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;本科生课程《人工智能硬件综合实践课程》&lt;/p&gt;
@@ -32,17 +32,17 @@
     
     <item>
       <title>2022年上半年论文列表</title>
-      <link>https://sjtu-icat.github.io/post/22-02-01-confence-list/</link>
+      <link>http://localhost:1313/post/22-02-01-confence-list/</link>
       <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://sjtu-icat.github.io/post/22-02-01-confence-list/</guid>
+      <guid>http://localhost:1313/post/22-02-01-confence-list/</guid>
       <description>&lt;p&gt;列表待更新&amp;hellip;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>祝贺实验室两篇论文被ICASSP 2022接收</title>
-      <link>https://sjtu-icat.github.io/post/22-01-22-paper-accepted/</link>
+      <link>http://localhost:1313/post/22-01-22-paper-accepted/</link>
       <pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://sjtu-icat.github.io/post/22-01-22-paper-accepted/</guid>
+      <guid>http://localhost:1313/post/22-01-22-paper-accepted/</guid>
       <description>&lt;p&gt;祝贺&lt;/p&gt;
 &lt;p&gt;谢铭烨同学的论文&amp;quot;GOS: A Large-Scale Annotated Outdoor Scene Synthetic Dataset&amp;quot; 和&lt;/p&gt;
 &lt;p&gt;于泽芳同学的论文&amp;quot;SynPose: A Large-Scale and Densely Annotated Synthtic Dataset for Human Pose Estimation in Classroom&amp;quot;&lt;/p&gt;
@@ -52,9 +52,9 @@
     
     <item>
       <title>2021年下半年论文列表</title>
-      <link>https://sjtu-icat.github.io/post/21-07-01-confence-list/</link>
+      <link>http://localhost:1313/post/21-07-01-confence-list/</link>
       <pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://sjtu-icat.github.io/post/21-07-01-confence-list/</guid>
+      <guid>http://localhost:1313/post/21-07-01-confence-list/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;AAAI: AAAI Conference on Artificial Intelligence&lt;/strong&gt;
 &lt;ul&gt;
@@ -105,9 +105,9 @@
     
     <item>
       <title>招收2022级硕士研究生</title>
-      <link>https://sjtu-icat.github.io/post/21-06-21-recruit/</link>
+      <link>http://localhost:1313/post/21-06-21-recruit/</link>
       <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://sjtu-icat.github.io/post/21-06-21-recruit/</guid>
+      <guid>http://localhost:1313/post/21-06-21-recruit/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://mp.weixin.qq.com/s/9EzRluUhheKG1JvmhEBZ4A&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;上海交通大学微纳电子学系2022级 直硕/直博 研究生优才夏令营通知&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;报名时间：即日起至2021年6月28日&lt;/p&gt;
 &lt;p&gt;欢迎广大学子报考iCAT实验室！&lt;/p&gt;</description>
@@ -115,18 +115,18 @@
     
     <item>
       <title>iCAT主页启动</title>
-      <link>https://sjtu-icat.github.io/post/21-03-18-homepage-start/</link>
+      <link>http://localhost:1313/post/21-03-18-homepage-start/</link>
       <pubDate>Thu, 18 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://sjtu-icat.github.io/post/21-03-18-homepage-start/</guid>
+      <guid>http://localhost:1313/post/21-03-18-homepage-start/</guid>
       <description>&lt;p&gt;庆祝iCAT主页重新启动！
 请实验室各位成员及时补充个人相关信息！&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>2021年上半年论文列表</title>
-      <link>https://sjtu-icat.github.io/post/21-03-01-confence-list/</link>
+      <link>http://localhost:1313/post/21-03-01-confence-list/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://sjtu-icat.github.io/post/21-03-01-confence-list/</guid>
+      <guid>http://localhost:1313/post/21-03-01-confence-list/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;International Conference on Multimodla Interaction (ICMI)&lt;/p&gt;
@@ -155,18 +155,18 @@
     
     <item>
       <title>祝贺向孙程同学的论文被ICASSP&#39;21录用</title>
-      <link>https://sjtu-icat.github.io/post/20-12-02-paper-accepted/</link>
+      <link>http://localhost:1313/post/20-12-02-paper-accepted/</link>
       <pubDate>Thu, 28 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://sjtu-icat.github.io/post/20-12-02-paper-accepted/</guid>
+      <guid>http://localhost:1313/post/20-12-02-paper-accepted/</guid>
       <description>&lt;p&gt;祝贺向孙程同学的论文&amp;quot;Taking a Closer Look at Synthesis: Fine-grained Attribute Analysis for Person Re-Identification&amp;quot;被ICASSP&#39;21所录用！&lt;/p&gt;
 &lt;p&gt;该会议属于CCF B类会议。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>实验室服务器使用说明</title>
-      <link>https://sjtu-icat.github.io/post/21-01-01-server-usage/</link>
+      <link>http://localhost:1313/post/21-01-01-server-usage/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://sjtu-icat.github.io/post/21-01-01-server-usage/</guid>
+      <guid>http://localhost:1313/post/21-01-01-server-usage/</guid>
       <description>&lt;p&gt;使用服务器时请自觉遵守使用说明！&lt;/p&gt;
 &lt;h3 id=&#34;服务器种类&#34;&gt;服务器种类&lt;/h3&gt;
 &lt;ul&gt;

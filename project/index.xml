@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>项目 | 智能计算机体系结构实验室</title>
-    <link>https://sjtu-icat.github.io/project/</link>
-      <atom:link href="https://sjtu-icat.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/project/</link>
+      <atom:link href="http://localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
     <description>项目</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2023 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Mon, 21 Jun 2021 11:00:00 +0800</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2024 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Mon, 21 Jun 2021 11:00:00 +0800</lastBuildDate>
     <image>
-      <url>https://sjtu-icat.github.io/media/logo.png</url>
+      <url>http://localhost:1313/media/logo.png</url>
       <title>项目</title>
-      <link>https://sjtu-icat.github.io/project/</link>
+      <link>http://localhost:1313/project/</link>
     </image>
     
     <item>
       <title>模型压缩</title>
-      <link>https://sjtu-icat.github.io/project/compress/</link>
+      <link>http://localhost:1313/project/compress/</link>
       <pubDate>Mon, 21 Jun 2021 11:00:00 +0800</pubDate>
-      <guid>https://sjtu-icat.github.io/project/compress/</guid>
+      <guid>http://localhost:1313/project/compress/</guid>
       <description>&lt;h3 id=&#34;背景介绍&#34;&gt;背景介绍&lt;/h3&gt;
 &lt;p&gt;尽管深度学习算法模型性能强大，然而由于其参数量多、运行所需要的算力极其庞大，使得深度学习网络难以在存储资源或计算资源受限的平台上部署运行，只能部署在GPU等硬件设备上进行加速计算。这样的特点大大限制了其应用场景，要求我们对深度学习网络模型进行优化和压缩，减少其对资源的需求，以便灵活部署到低资源的硬件平台中。&lt;/p&gt;
 &lt;h3 id=&#34;应用场景&#34;&gt;应用场景&lt;/h3&gt;
@@ -65,9 +65,9 @@
     
     <item>
       <title>文档智能技术</title>
-      <link>https://sjtu-icat.github.io/project/document/</link>
+      <link>http://localhost:1313/project/document/</link>
       <pubDate>Mon, 21 Jun 2021 10:55:00 +0800</pubDate>
-      <guid>https://sjtu-icat.github.io/project/document/</guid>
+      <guid>http://localhost:1313/project/document/</guid>
       <description>&lt;h3 id=&#34;背景介绍&#34;&gt;背景介绍&lt;/h3&gt;
 &lt;p&gt;文档智能（Document Intelligence）主要是指对于网页、数字文档或扫描文档所包含的文本、表格以及丰富的排版格式，以及APP界面所包含的布局、内容等信息，通过人工智能技术进行理解、分类、提取以及信息归纳的过程。&lt;/p&gt;
 &lt;h3 id=&#34;应用场景&#34;&gt;应用场景&lt;/h3&gt;
@@ -116,9 +116,9 @@
     
     <item>
       <title>微表情识别</title>
-      <link>https://sjtu-icat.github.io/project/micro-expr/</link>
+      <link>http://localhost:1313/project/micro-expr/</link>
       <pubDate>Mon, 21 Jun 2021 10:50:00 +0800</pubDate>
-      <guid>https://sjtu-icat.github.io/project/micro-expr/</guid>
+      <guid>http://localhost:1313/project/micro-expr/</guid>
       <description>&lt;h3 id=&#34;背景介绍&#34;&gt;背景介绍&lt;/h3&gt;
 &lt;p&gt;微表情(Micro-expression)是人们在试图隐藏/压抑真实情感时出现的细微的面部表情。
 不同于宏表情，微表情变化细微，动作幅度小，难以观察和辨别；而且发生时间短暂，持续时间不超过0.5s；微表情人们在试图隐藏/压抑真实情感时出现，是自发的，无意识的，可以看作是人的真实情感的“泄露”。&lt;/p&gt;
@@ -134,9 +134,9 @@
     
     <item>
       <title>会议摘要</title>
-      <link>https://sjtu-icat.github.io/project/summary/</link>
+      <link>http://localhost:1313/project/summary/</link>
       <pubDate>Mon, 21 Jun 2021 10:35:00 +0800</pubDate>
-      <guid>https://sjtu-icat.github.io/project/summary/</guid>
+      <guid>http://localhost:1313/project/summary/</guid>
       <description>&lt;h3 id=&#34;背景介绍&#34;&gt;背景介绍&lt;/h3&gt;
 &lt;p&gt;会议摘要(meeting summarization),属于多人长对话场景下的文本摘要；就是在会议记录基础上经过加工、整理出来的一种记叙性和介绍性的文件。包括会议的基本情况、主要精神及中心内容。&lt;/p&gt;
 
@@ -185,9 +185,9 @@
     
     <item>
       <title>基于GAN的图片属性编辑</title>
-      <link>https://sjtu-icat.github.io/project/gan-editing/</link>
+      <link>http://localhost:1313/project/gan-editing/</link>
       <pubDate>Mon, 21 Jun 2021 10:35:00 +0800</pubDate>
-      <guid>https://sjtu-icat.github.io/project/gan-editing/</guid>
+      <guid>http://localhost:1313/project/gan-editing/</guid>
       <description>&lt;h3 id=&#34;背景介绍&#34;&gt;背景介绍&lt;/h3&gt;
 &lt;p&gt;生成对抗网络（Generative Adversarial Networks， GAN）由两个基础神经网络即生成器（Generator）和判别器（Discriminator）所组成，其中一个用于生成内容，另一个则用于判别生成的内容。GAN能够学习数据集内的特征，进而生成逼近真实数据的高质量的图片。&lt;/p&gt;
 &lt;p&gt;GAN在图像合成领域的应用已经十分广泛。近期的一些研究表明，在学习合成图像时，GAN 会自发地在隐空间（latent space）中表示出多种可解释属性，如用于人脸合成的性别特征、用于场景合成的光照条件。通过正确识别这些语义，我们可以将 GAN 学习到的知识重新利用，合理地控制图像生成过程，从而实现图像编辑功能的更广泛应用，如人脸操纵和场景编辑。&lt;/p&gt;
@@ -282,9 +282,9 @@
     
     <item>
       <title>行人重识别</title>
-      <link>https://sjtu-icat.github.io/project/reid/</link>
+      <link>http://localhost:1313/project/reid/</link>
       <pubDate>Mon, 21 Jun 2021 10:30:00 +0800</pubDate>
-      <guid>https://sjtu-icat.github.io/project/reid/</guid>
+      <guid>http://localhost:1313/project/reid/</guid>
       <description>&lt;h3 id=&#34;背景介绍&#34;&gt;背景介绍&lt;/h3&gt;
 &lt;p&gt;行人重识别（Person re-identification, Re-ID)，也称为行人再识别或跨镜追踪；主要实现从一个摄像头捕获的目标行人，到其他不同摄像头检索是否存在相同行人，即进行跨摄像头检索。&lt;/p&gt;
 &lt;h3 id=&#34;应用场景&#34;&gt;应用场景&lt;/h3&gt;
@@ -336,9 +336,9 @@
     
     <item>
       <title>基于骨架的人类动作识别</title>
-      <link>https://sjtu-icat.github.io/project/skeleton/</link>
+      <link>http://localhost:1313/project/skeleton/</link>
       <pubDate>Mon, 21 Jun 2021 10:00:00 +0800</pubDate>
-      <guid>https://sjtu-icat.github.io/project/skeleton/</guid>
+      <guid>http://localhost:1313/project/skeleton/</guid>
       <description>&lt;h3 id=&#34;背景介绍&#34;&gt;背景介绍&lt;/h3&gt;
 &lt;p&gt;近年来，基于骨架的动作识别由于其对动态环境和复杂背景的鲁棒性而备受关注，其主要任务为根据输入的一段骨架序列，输出当前对应的动作类别。主流方法通常将关节点数据构建为图（graph）结构，并将图卷积扩展为时空图卷积来提取运动信息。&lt;/p&gt;
 &lt;h3 id=&#34;应用场景&#34;&gt;应用场景&lt;/h3&gt;

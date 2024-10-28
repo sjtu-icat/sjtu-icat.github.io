@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Medical image segmentation | 智能计算机体系结构实验室</title>
-    <link>https://sjtu-icat.github.io/tag/medical-image-segmentation/</link>
-      <atom:link href="https://sjtu-icat.github.io/tag/medical-image-segmentation/index.xml" rel="self" type="application/rss+xml" />
-    <description>Medical image segmentation</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2023 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Thu, 20 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <title>Medical Image Segmentation | 智能计算机体系结构实验室</title>
+    <link>http://localhost:1313/tag/medical-image-segmentation/</link>
+      <atom:link href="http://localhost:1313/tag/medical-image-segmentation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Medical Image Segmentation</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2024 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Thu, 20 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://sjtu-icat.github.io/media/logo.png</url>
-      <title>Medical image segmentation</title>
-      <link>https://sjtu-icat.github.io/tag/medical-image-segmentation/</link>
+      <url>http://localhost:1313/media/logo.png</url>
+      <title>Medical Image Segmentation</title>
+      <link>http://localhost:1313/tag/medical-image-segmentation/</link>
     </image>
     
     <item>
       <title>MALUNet: A Multi-Attention and Light-weight UNet for Skin Lesion Segmentation</title>
-      <link>https://sjtu-icat.github.io/publication/ruan2022malunet/</link>
+      <link>http://localhost:1313/publication/ruan2022malunet/</link>
       <pubDate>Thu, 20 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://sjtu-icat.github.io/publication/ruan2022malunet/</guid>
+      <guid>http://localhost:1313/publication/ruan2022malunet/</guid>
       <description></description>
     </item>
     

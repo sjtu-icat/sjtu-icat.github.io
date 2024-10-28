@@ -2,45 +2,54 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>于泽芳 | 智能计算机体系结构实验室</title>
-    <link>https://sjtu-icat.github.io/author/%E4%BA%8E%E6%B3%BD%E8%8A%B3/</link>
-      <atom:link href="https://sjtu-icat.github.io/author/%E4%BA%8E%E6%B3%BD%E8%8A%B3/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/%E4%BA%8E%E6%B3%BD%E8%8A%B3/</link>
+      <atom:link href="http://localhost:1313/author/%E4%BA%8E%E6%B3%BD%E8%8A%B3/index.xml" rel="self" type="application/rss+xml" />
     <description>于泽芳</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2023 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Wed, 15 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2024 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Wed, 15 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://sjtu-icat.github.io/author/%E4%BA%8E%E6%B3%BD%E8%8A%B3/avatar_hue888d6e5a219d7fc7c142f3ac7ab3e4f_315738_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>http://localhost:1313/author/%E4%BA%8E%E6%B3%BD%E8%8A%B3/avatar_hue888d6e5a219d7fc7c142f3ac7ab3e4f_315738_270x270_fill_q75_lanczos_center.jpg</url>
       <title>于泽芳</title>
-      <link>https://sjtu-icat.github.io/author/%E4%BA%8E%E6%B3%BD%E8%8A%B3/</link>
+      <link>http://localhost:1313/author/%E4%BA%8E%E6%B3%BD%E8%8A%B3/</link>
     </image>
     
     <item>
-      <title>AV-TAD: Audio-Visual Temporal Action Detection with Transformer</title>
-      <link>https://sjtu-icat.github.io/publication/li2023avtad/</link>
+      <title>于泽芳</title>
+      <link>http://localhost:1313/author/%E4%BA%8E%E6%B3%BD%E8%8A%B3/</link>
       <pubDate>Wed, 15 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://sjtu-icat.github.io/publication/li2023avtad/</guid>
+      <guid>http://localhost:1313/author/%E4%BA%8E%E6%B3%BD%E8%8A%B3/</guid>
+      <description>&lt;p&gt;Need to fill the bio&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AV-TAD: Audio-Visual Temporal Action Detection with Transformer</title>
+      <link>http://localhost:1313/publication/li2023avtad/</link>
+      <pubDate>Wed, 15 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/li2023avtad/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CC-PoseNet: Towards human pose estimation in crowded classrooms</title>
-      <link>https://sjtu-icat.github.io/publication/yu2023ccposenet/</link>
+      <link>http://localhost:1313/publication/yu2023ccposenet/</link>
       <pubDate>Wed, 15 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://sjtu-icat.github.io/publication/yu2023ccposenet/</guid>
+      <guid>http://localhost:1313/publication/yu2023ccposenet/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SynPose: A Large-scale and Densely Annotated Synthetic Dataset for Human Pose Estimation in Classroom</title>
-      <link>https://sjtu-icat.github.io/publication/yu2022synthetic/</link>
+      <link>http://localhost:1313/publication/yu2022synthetic/</link>
       <pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://sjtu-icat.github.io/publication/yu2022synthetic/</guid>
+      <guid>http://localhost:1313/publication/yu2022synthetic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>基于骨架的人类动作识别</title>
-      <link>https://sjtu-icat.github.io/project/skeleton/</link>
+      <link>http://localhost:1313/project/skeleton/</link>
       <pubDate>Mon, 21 Jun 2021 10:00:00 +0800</pubDate>
-      <guid>https://sjtu-icat.github.io/project/skeleton/</guid>
+      <guid>http://localhost:1313/project/skeleton/</guid>
       <description>&lt;h3 id=&#34;背景介绍&#34;&gt;背景介绍&lt;/h3&gt;
 &lt;p&gt;近年来，基于骨架的动作识别由于其对动态环境和复杂背景的鲁棒性而备受关注，其主要任务为根据输入的一段骨架序列，输出当前对应的动作类别。主流方法通常将关节点数据构建为图（graph）结构，并将图卷积扩展为时空图卷积来提取运动信息。&lt;/p&gt;
 &lt;h3 id=&#34;应用场景&#34;&gt;应用场景&lt;/h3&gt;

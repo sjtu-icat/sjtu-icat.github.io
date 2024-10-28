@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>尤冠杰 | 智能计算机体系结构实验室</title>
-    <link>https://sjtu-icat.github.io/author/%E5%B0%A4%E5%86%A0%E6%9D%B0/</link>
-      <atom:link href="https://sjtu-icat.github.io/author/%E5%B0%A4%E5%86%A0%E6%9D%B0/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/%E5%B0%A4%E5%86%A0%E6%9D%B0/</link>
+      <atom:link href="http://localhost:1313/author/%E5%B0%A4%E5%86%A0%E6%9D%B0/index.xml" rel="self" type="application/rss+xml" />
     <description>尤冠杰</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2023 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2024 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://sjtu-icat.github.io/media/logo.png</url>
+      <url>http://localhost:1313/media/logo.png</url>
       <title>尤冠杰</title>
-      <link>https://sjtu-icat.github.io/author/%E5%B0%A4%E5%86%A0%E6%9D%B0/</link>
+      <link>http://localhost:1313/author/%E5%B0%A4%E5%86%A0%E6%9D%B0/</link>
     </image>
     
     <item>
       <title>Taking A Closer Look at Synthesis: Fine-Grained Attribute Analysis for Person Re-Identification</title>
-      <link>https://sjtu-icat.github.io/publication/xiang-2021-taking/</link>
+      <link>http://localhost:1313/publication/xiang-2021-taking/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://sjtu-icat.github.io/publication/xiang-2021-taking/</guid>
+      <guid>http://localhost:1313/publication/xiang-2021-taking/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Unsupervised domain adaptation through synthesis for person re-identification</title>
-      <link>https://sjtu-icat.github.io/publication/xiang-2020-unsupervised/</link>
+      <link>http://localhost:1313/publication/xiang-2020-unsupervised/</link>
       <pubDate>Mon, 06 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://sjtu-icat.github.io/publication/xiang-2020-unsupervised/</guid>
+      <guid>http://localhost:1313/publication/xiang-2020-unsupervised/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Attribute analysis with synthetic dataset for person re-identification</title>
-      <link>https://sjtu-icat.github.io/publication/xiang-2020-attribute/</link>
+      <link>http://localhost:1313/publication/xiang-2020-attribute/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://sjtu-icat.github.io/publication/xiang-2020-attribute/</guid>
+      <guid>http://localhost:1313/publication/xiang-2020-attribute/</guid>
       <description></description>
     </item>
     

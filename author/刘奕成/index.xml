@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>刘奕成 | 智能计算机体系结构实验室</title>
-    <link>https://sjtu-icat.github.io/author/%E5%88%98%E5%A5%95%E6%88%90/</link>
-      <atom:link href="https://sjtu-icat.github.io/author/%E5%88%98%E5%A5%95%E6%88%90/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/%E5%88%98%E5%A5%95%E6%88%90/</link>
+      <atom:link href="http://localhost:1313/author/%E5%88%98%E5%A5%95%E6%88%90/index.xml" rel="self" type="application/rss+xml" />
     <description>刘奕成</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2023 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Sat, 22 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2024 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Sat, 22 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://sjtu-icat.github.io/media/logo.png</url>
+      <url>http://localhost:1313/media/logo.png</url>
       <title>刘奕成</title>
-      <link>https://sjtu-icat.github.io/author/%E5%88%98%E5%A5%95%E6%88%90/</link>
+      <link>http://localhost:1313/author/%E5%88%98%E5%A5%95%E6%88%90/</link>
     </image>
     
     <item>
       <title>SynPose: A Large-scale and Densely Annotated Synthetic Dataset for Human Pose Estimation in Classroom</title>
-      <link>https://sjtu-icat.github.io/publication/yu2022synthetic/</link>
+      <link>http://localhost:1313/publication/yu2022synthetic/</link>
       <pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://sjtu-icat.github.io/publication/yu2022synthetic/</guid>
+      <guid>http://localhost:1313/publication/yu2022synthetic/</guid>
       <description></description>
     </item>
     

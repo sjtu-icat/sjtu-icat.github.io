@@ -2,21 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>冉苇 | 智能计算机体系结构实验室</title>
-    <link>https://sjtu-icat.github.io/author/%E5%86%89%E8%8B%87/</link>
-      <atom:link href="https://sjtu-icat.github.io/author/%E5%86%89%E8%8B%87/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/%E5%86%89%E8%8B%87/</link>
+      <atom:link href="http://localhost:1313/author/%E5%86%89%E8%8B%87/index.xml" rel="self" type="application/rss+xml" />
     <description>冉苇</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2023 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Mon, 21 Jun 2021 10:55:00 +0800</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2024 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Mon, 21 Jun 2021 10:55:00 +0800</lastBuildDate>
     <image>
-      <url>https://sjtu-icat.github.io/author/%E5%86%89%E8%8B%87/avatar_hud9a7ac31a31101ac01b74cb8838b1041_163915_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>http://localhost:1313/author/%E5%86%89%E8%8B%87/avatar_hud9a7ac31a31101ac01b74cb8838b1041_163915_270x270_fill_q75_lanczos_center.jpg</url>
       <title>冉苇</title>
-      <link>https://sjtu-icat.github.io/author/%E5%86%89%E8%8B%87/</link>
+      <link>http://localhost:1313/author/%E5%86%89%E8%8B%87/</link>
     </image>
     
     <item>
-      <title>文档智能技术</title>
-      <link>https://sjtu-icat.github.io/project/document/</link>
+      <title>冉苇</title>
+      <link>http://localhost:1313/author/%E5%86%89%E8%8B%87/</link>
       <pubDate>Mon, 21 Jun 2021 10:55:00 +0800</pubDate>
-      <guid>https://sjtu-icat.github.io/project/document/</guid>
+      <guid>http://localhost:1313/author/%E5%86%89%E8%8B%87/</guid>
+      <description>&lt;p&gt;Need to fill the bio&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>文档智能技术</title>
+      <link>http://localhost:1313/project/document/</link>
+      <pubDate>Mon, 21 Jun 2021 10:55:00 +0800</pubDate>
+      <guid>http://localhost:1313/project/document/</guid>
       <description>&lt;h3 id=&#34;背景介绍&#34;&gt;背景介绍&lt;/h3&gt;
 &lt;p&gt;文档智能（Document Intelligence）主要是指对于网页、数字文档或扫描文档所包含的文本、表格以及丰富的排版格式，以及APP界面所包含的布局、内容等信息，通过人工智能技术进行理解、分类、提取以及信息归纳的过程。&lt;/p&gt;
 &lt;h3 id=&#34;应用场景&#34;&gt;应用场景&lt;/h3&gt;

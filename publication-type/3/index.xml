@@ -2,31 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>3 | 智能计算机体系结构实验室</title>
-    <link>https://sjtu-icat.github.io/publication-type/3/</link>
-      <atom:link href="https://sjtu-icat.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/publication-type/3/</link>
+      <atom:link href="http://localhost:1313/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2023 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2024 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://sjtu-icat.github.io/media/logo.png</url>
+      <url>http://localhost:1313/media/logo.png</url>
       <title>3</title>
-      <link>https://sjtu-icat.github.io/publication-type/3/</link>
+      <link>http://localhost:1313/publication-type/3/</link>
     </image>
     
     <item>
       <title>Attribute analysis with synthetic dataset for person re-identification</title>
-      <link>https://sjtu-icat.github.io/publication/xiang-2020-attribute/</link>
+      <link>http://localhost:1313/publication/xiang-2020-attribute/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://sjtu-icat.github.io/publication/xiang-2020-attribute/</guid>
+      <guid>http://localhost:1313/publication/xiang-2020-attribute/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>An example preprint / working paper</title>
-      <link>https://sjtu-icat.github.io/publication/z-example-preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://sjtu-icat.github.io/publication/z-example-preprint/</guid>
-      <description>&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
     </item>
     
   </channel>

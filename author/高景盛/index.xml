@@ -2,21 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>高景盛 | 智能计算机体系结构实验室</title>
-    <link>https://sjtu-icat.github.io/author/%E9%AB%98%E6%99%AF%E7%9B%9B/</link>
-      <atom:link href="https://sjtu-icat.github.io/author/%E9%AB%98%E6%99%AF%E7%9B%9B/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/%E9%AB%98%E6%99%AF%E7%9B%9B/</link>
+      <atom:link href="http://localhost:1313/author/%E9%AB%98%E6%99%AF%E7%9B%9B/index.xml" rel="self" type="application/rss+xml" />
     <description>高景盛</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2023 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Mon, 21 Jun 2021 10:55:00 +0800</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2024 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Mon, 21 Jun 2021 10:55:00 +0800</lastBuildDate>
     <image>
-      <url>https://sjtu-icat.github.io/author/%E9%AB%98%E6%99%AF%E7%9B%9B/avatar_hucbd1ba237f0ac81ad9631b84775018a8_165167_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>http://localhost:1313/author/%E9%AB%98%E6%99%AF%E7%9B%9B/avatar_hucbd1ba237f0ac81ad9631b84775018a8_165167_270x270_fill_q75_lanczos_center.jpg</url>
       <title>高景盛</title>
-      <link>https://sjtu-icat.github.io/author/%E9%AB%98%E6%99%AF%E7%9B%9B/</link>
+      <link>http://localhost:1313/author/%E9%AB%98%E6%99%AF%E7%9B%9B/</link>
     </image>
     
     <item>
-      <title>文档智能技术</title>
-      <link>https://sjtu-icat.github.io/project/document/</link>
+      <title>高景盛</title>
+      <link>http://localhost:1313/author/%E9%AB%98%E6%99%AF%E7%9B%9B/</link>
       <pubDate>Mon, 21 Jun 2021 10:55:00 +0800</pubDate>
-      <guid>https://sjtu-icat.github.io/project/document/</guid>
+      <guid>http://localhost:1313/author/%E9%AB%98%E6%99%AF%E7%9B%9B/</guid>
+      <description>&lt;p&gt;​ I am a first-year PhD student at SJTU EECS, advised by Prof. Yuzhuo Fu. Previously, I obtained my bachelor&amp;rsquo;s degree from school of Physics and Astromony, Shanghai Jiaotong University.&lt;/p&gt;
+&lt;p&gt;​ I completed my undergraduate graduation project using different kinds of  U-nets, which is a astronomical task called extracting weak gravitational lens in CMB. Also, I have ever practiced in a medical company which is established by Fosun. During my first year, I have tried some projects on document understanding, like seal extraction and tabel detection.&lt;/p&gt;
+&lt;p&gt;​ In the future, I will mainly put my attention on computer version and try to catch the future development of machine learning.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>文档智能技术</title>
+      <link>http://localhost:1313/project/document/</link>
+      <pubDate>Mon, 21 Jun 2021 10:55:00 +0800</pubDate>
+      <guid>http://localhost:1313/project/document/</guid>
       <description>&lt;h3 id=&#34;背景介绍&#34;&gt;背景介绍&lt;/h3&gt;
 &lt;p&gt;文档智能（Document Intelligence）主要是指对于网页、数字文档或扫描文档所包含的文本、表格以及丰富的排版格式，以及APP界面所包含的布局、内容等信息，通过人工智能技术进行理解、分类、提取以及信息归纳的过程。&lt;/p&gt;
 &lt;h3 id=&#34;应用场景&#34;&gt;应用场景&lt;/h3&gt;
