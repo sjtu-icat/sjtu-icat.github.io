@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gao, Jingsheng and Lian, Yixin and Zhou, Ziyi and Fu, Yuzhuo and Wang, Baoyuan | 智能计算机体系结构实验室</title>
+    <link>http://localhost:1313/author/gao-jingsheng-and-lian-yixin-and-zhou-ziyi-and-fu-yuzhuo-and-wang-baoyuan/</link>
+      <atom:link href="http://localhost:1313/author/gao-jingsheng-and-lian-yixin-and-zhou-ziyi-and-fu-yuzhuo-and-wang-baoyuan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gao, Jingsheng and Lian, Yixin and Zhou, Ziyi and Fu, Yuzhuo and Wang, Baoyuan</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2024 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Thu, 05 Dec 2024 14:00:05 +0800</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo.png</url>
+      <title>Gao, Jingsheng and Lian, Yixin and Zhou, Ziyi and Fu, Yuzhuo and Wang, Baoyuan</title>
+      <link>http://localhost:1313/author/gao-jingsheng-and-lian-yixin-and-zhou-ziyi-and-fu-yuzhuo-and-wang-baoyuan/</link>
+    </image>
+    
+    <item>
+      <title>LiveChat: A Large-Scale Personalized Dialogue Dataset Automatically Constructed from Live Streaming</title>
+      <link>http://localhost:1313/publication/gao2023livechat/</link>
+      <pubDate>Thu, 05 Dec 2024 14:00:05 +0800</pubDate>
+      <guid>http://localhost:1313/publication/gao2023livechat/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

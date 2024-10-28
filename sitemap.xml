@@ -3,38 +3,40 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/author/%E4%BB%98%E5%AE%87%E5%8D%93/</loc>
-    <lastmod>2023-02-15T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/author/%E5%88%98%E5%A9%B7/</loc>
-    <lastmod>2023-02-15T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/author/%E5%90%91%E5%AD%99%E7%A8%8B/</loc>
-    <lastmod>2023-02-15T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/author/%E4%BA%8E%E6%B3%BD%E8%8A%B3/</loc>
-    <lastmod>2023-02-15T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/author/%E8%B0%A2%E9%93%AD%E7%83%A8/</loc>
-    <lastmod>2022-10-20T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/author/%E5%86%89%E8%8B%87/</loc>
-    <lastmod>2021-06-21T10:55:00+08:00</lastmod>
+    <lastmod>2024-06-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/author/%E9%AB%98%E6%99%AF%E7%9B%9B/</loc>
-    <lastmod>2021-06-21T10:55:00+08:00</lastmod>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/author/</loc>
   </url><url>
     <loc>http://localhost:1313/author/%E9%97%AB%E5%BD%AC%E6%B4%81/</loc>
+    <lastmod>2024-02-15T14:00:05+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/author/%E9%98%AE%E4%BD%B3%E7%A8%8B/</loc>
-    <lastmod>2022-10-20T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/author/%E8%83%A1%E7%AB%8B%E5%AE%81/</loc>
   </url><url>
-    <loc>http://localhost:1313/author/%E9%AB%98%E6%98%BE/</loc>
-  </url><url>
     <loc>http://localhost:1313/author/%E5%BE%90%E6%9E%97/</loc>
+    <lastmod>2024-02-15T14:00:05+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/author/%E9%AB%98%E6%98%BE/</loc>
   </url><url>
     <loc>http://localhost:1313/author/%E8%A2%81%E6%96%87%E9%95%87/</loc>
   </url><url>
@@ -46,22 +48,100 @@
     <loc>http://localhost:1313/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publication/</loc>
-    <lastmod>2024-12-05T14:00:05+08:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/publication-type/1/</loc>
-    <lastmod>2023-02-15T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/authors/</loc>
-    <lastmod>2023-02-15T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publication/ruan2024gist/</loc>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publication_types/</loc>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publication/</loc>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/project/</loc>
+    <lastmod>2024-12-05T14:00:05+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publication/yu2024raw/</loc>
+    <lastmod>2024-08-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publication/gao2024lamm/</loc>
+    <lastmod>2024-08-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publication/gao2024mta/</loc>
+    <lastmod>2024-08-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/author/zeyu-li/</loc>
+    <lastmod>2024-08-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/author/zhuowei-wang/</loc>
+    <lastmod>2024-08-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/author/daize-dong/</loc>
+    <lastmod>2024-04-03T14:00:05+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publication/ruan2024idat/</loc>
+    <lastmod>2024-04-03T14:00:05+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publication-type/2/</loc>
+    <lastmod>2024-06-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publication/li2024clapp/</loc>
+    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publication/xie2024mta/</loc>
+    <lastmod>2024-03-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/author/zongwei-liu/</loc>
+    <lastmod>2024-03-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publication/yan2024date/</loc>
+    <lastmod>2024-02-15T14:00:05+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/author/dahong-qian/</loc>
+    <lastmod>2024-06-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publication/xiang-2024-rethink/</loc>
+    <lastmod>2024-06-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/author/hao-chen/</loc>
+    <lastmod>2024-06-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publication/xiang-2024-deep/</loc>
+    <lastmod>2024-05-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/author/zirui-zhang/</loc>
+    <lastmod>2024-05-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publication/ruan2023egeunet/</loc>
+    <lastmod>2023-07-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/author/baoyuan-wang/</loc>
+    <lastmod>2023-06-05T14:00:05+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publication/gao2023livechat/</loc>
+    <lastmod>2023-06-05T14:00:05+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/author/yixin-lian/</loc>
+    <lastmod>2023-06-05T14:00:05+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/author/ziyi-zhou/</loc>
+    <lastmod>2023-06-05T14:00:05+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/author/da-shi/</loc>
+    <lastmod>2023-03-05T14:00:05+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publication/shi2023dynaslim/</loc>
+    <lastmod>2023-03-05T14:00:05+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/publication/li2023avtad/</loc>
     <lastmod>2023-02-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/publication/yu2023ccposenet/</loc>
-    <lastmod>2023-02-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/publication_types/</loc>
     <lastmod>2023-02-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/author/yangcheng-li/</loc>
@@ -145,17 +225,8 @@
     <loc>http://localhost:1313/post/21-07-01-confence-list/</loc>
     <lastmod>2021-06-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/da-shi/</loc>
-    <lastmod>2021-06-21T11:00:00+08:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/project/compress/</loc>
     <lastmod>2021-06-21T11:00:00+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/project/</loc>
-    <lastmod>2021-06-21T11:00:00+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/project/document/</loc>
-    <lastmod>2021-06-21T10:55:00+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/project/micro-expr/</loc>
     <lastmod>2021-06-21T10:50:00+08:00</lastmod>
@@ -165,9 +236,6 @@
   </url><url>
     <loc>http://localhost:1313/project/gan-editing/</loc>
     <lastmod>2021-06-21T10:35:00+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/author/hao-chen/</loc>
-    <lastmod>2021-06-21T10:30:00+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/author/mengyuan-guan/</loc>
     <lastmod>2021-06-21T10:30:00+08:00</lastmod>

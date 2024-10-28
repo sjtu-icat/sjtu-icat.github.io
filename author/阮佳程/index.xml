@@ -5,7 +5,7 @@
     <link>http://localhost:1313/author/%E9%98%AE%E4%BD%B3%E7%A8%8B/</link>
       <atom:link href="http://localhost:1313/author/%E9%98%AE%E4%BD%B3%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" />
     <description>阮佳程</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2024 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Thu, 20 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2024 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Thu, 05 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/author/%E9%98%AE%E4%BD%B3%E7%A8%8B/avatar_hufaa8e9ecb4df33d56384720d67654d36_988314_270x270_fill_lanczos_center_3.png</url>
       <title>阮佳程</title>
@@ -15,10 +15,42 @@
     <item>
       <title>阮佳程</title>
       <link>http://localhost:1313/author/%E9%98%AE%E4%BD%B3%E7%A8%8B/</link>
-      <pubDate>Thu, 20 Oct 2022 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/author/%E9%98%AE%E4%BD%B3%E7%A8%8B/</guid>
       <description>&lt;p&gt;Need to fill the bio&amp;hellip;&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>GIST: Improving Parameter Efficient Fine Tuning via Knowledge Interaction</title>
+      <link>http://localhost:1313/publication/ruan2024gist/</link>
+      <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ruan2024gist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LAMM: Label Alignment for Multi-Modal Prompt Learning</title>
+      <link>http://localhost:1313/publication/gao2024lamm/</link>
+      <pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/gao2024lamm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iDAT: inverse Distillation Adapter-Tuning</title>
+      <link>http://localhost:1313/publication/ruan2024idat/</link>
+      <pubDate>Wed, 03 Apr 2024 14:00:05 +0800</pubDate>
+      <guid>http://localhost:1313/publication/ruan2024idat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ege-unet: an efficient group enhanced unet for skin lesion segmentation</title>
+      <link>http://localhost:1313/publication/ruan2023egeunet/</link>
+      <pubDate>Wed, 05 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ruan2023egeunet/</guid>
+      <description></description>
     </item>
     
     <item>

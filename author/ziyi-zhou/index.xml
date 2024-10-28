@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ziyi Zhou | 智能计算机体系结构实验室</title>
+    <link>http://localhost:1313/author/ziyi-zhou/</link>
+      <atom:link href="http://localhost:1313/author/ziyi-zhou/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ziyi Zhou</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2024 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Mon, 05 Jun 2023 14:00:05 +0800</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo.png</url>
+      <title>Ziyi Zhou</title>
+      <link>http://localhost:1313/author/ziyi-zhou/</link>
+    </image>
+    
+    <item>
+      <title>LiveChat: A Large-Scale Personalized Dialogue Dataset Automatically Constructed from Live Streaming</title>
+      <link>http://localhost:1313/publication/gao2023livechat/</link>
+      <pubDate>Mon, 05 Jun 2023 14:00:05 +0800</pubDate>
+      <guid>http://localhost:1313/publication/gao2023livechat/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

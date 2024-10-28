@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhuowei Wang | 智能计算机体系结构实验室</title>
+    <link>http://localhost:1313/author/zhuowei-wang/</link>
+      <atom:link href="http://localhost:1313/author/zhuowei-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zhuowei Wang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2024 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Tue, 06 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo.png</url>
+      <title>Zhuowei Wang</title>
+      <link>http://localhost:1313/author/zhuowei-wang/</link>
+    </image>
+    
+    <item>
+      <title>Toward an end-to-end implicit addressee modeling for dialogue disentanglement</title>
+      <link>http://localhost:1313/publication/gao2024mta/</link>
+      <pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/gao2024mta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward an end-to-end implicit addressee modeling for dialogue disentanglement</title>
+      <link>http://localhost:1313/publication/li2024clapp/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/li2024clapp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

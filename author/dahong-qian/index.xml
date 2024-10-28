@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dahong Qian | 智能计算机体系结构实验室</title>
+    <link>http://localhost:1313/author/dahong-qian/</link>
+      <atom:link href="http://localhost:1313/author/dahong-qian/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dahong Qian</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2024 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo.png</url>
+      <title>Dahong Qian</title>
+      <link>http://localhost:1313/author/dahong-qian/</link>
+    </image>
+    
+    <item>
+      <title>Deep multimodal representation learning for generalizable person re-identification</title>
+      <link>http://localhost:1313/publication/xiang-2024-rethink/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/xiang-2024-rethink/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rethinking person re-identification via semantic-based pretraining</title>
+      <link>http://localhost:1313/publication/xiang-2024-deep/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/xiang-2024-deep/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

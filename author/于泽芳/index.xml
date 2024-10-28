@@ -5,7 +5,7 @@
     <link>http://localhost:1313/author/%E4%BA%8E%E6%B3%BD%E8%8A%B3/</link>
       <atom:link href="http://localhost:1313/author/%E4%BA%8E%E6%B3%BD%E8%8A%B3/index.xml" rel="self" type="application/rss+xml" />
     <description>于泽芳</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2024 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Wed, 15 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2024 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Thu, 05 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/author/%E4%BA%8E%E6%B3%BD%E8%8A%B3/avatar_hue888d6e5a219d7fc7c142f3ac7ab3e4f_315738_270x270_fill_q75_lanczos_center.jpg</url>
       <title>于泽芳</title>
@@ -15,10 +15,50 @@
     <item>
       <title>于泽芳</title>
       <link>http://localhost:1313/author/%E4%BA%8E%E6%B3%BD%E8%8A%B3/</link>
-      <pubDate>Wed, 15 Feb 2023 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/author/%E4%BA%8E%E6%B3%BD%E8%8A%B3/</guid>
       <description>&lt;p&gt;Need to fill the bio&amp;hellip;&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>GIST: Improving Parameter Efficient Fine Tuning via Knowledge Interaction</title>
+      <link>http://localhost:1313/publication/ruan2024gist/</link>
+      <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ruan2024gist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From Raw Video to Pedagogical Insights: A Unified Framework for Student Behavior Analysis</title>
+      <link>http://localhost:1313/publication/yu2024raw/</link>
+      <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/yu2024raw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LAMM: Label Alignment for Multi-Modal Prompt Learning</title>
+      <link>http://localhost:1313/publication/gao2024lamm/</link>
+      <pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/gao2024lamm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning to Floorplan like Human Experts via Reinforcement Learning</title>
+      <link>http://localhost:1313/publication/yan2024date/</link>
+      <pubDate>Thu, 15 Feb 2024 14:00:05 +0800</pubDate>
+      <guid>http://localhost:1313/publication/yan2024date/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep multimodal representation learning for generalizable person re-identification</title>
+      <link>http://localhost:1313/publication/xiang-2024-rethink/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/xiang-2024-rethink/</guid>
+      <description></description>
     </item>
     
     <item>

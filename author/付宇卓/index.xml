@@ -5,7 +5,7 @@
     <link>http://localhost:1313/author/%E4%BB%98%E5%AE%87%E5%8D%93/</link>
       <atom:link href="http://localhost:1313/author/%E4%BB%98%E5%AE%87%E5%8D%93/index.xml" rel="self" type="application/rss+xml" />
     <description>付宇卓</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2024 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Wed, 15 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2024 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Thu, 05 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/author/%E4%BB%98%E5%AE%87%E5%8D%93/avatar_hu343538af445ec0f552f719dfd66bcc4e_82306_270x270_fill_q75_lanczos_center.jpg</url>
       <title>付宇卓</title>
@@ -15,7 +15,7 @@
     <item>
       <title>付宇卓</title>
       <link>http://localhost:1313/author/%E4%BB%98%E5%AE%87%E5%8D%93/</link>
-      <pubDate>Wed, 15 Feb 2023 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/author/%E4%BB%98%E5%AE%87%E5%8D%93/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://dmne.sjtu.edu.cn/dmne/faculty/fuyuzhuo/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;个人主页&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;付宇卓，教授，博士生导师。&lt;/p&gt;
@@ -31,6 +31,110 @@ Before joining SJTU in 2001, he worked as a Senior Engineer for the electric eng
 &lt;p&gt;His research interests include fault-tolerant architecture, heterogeneous system architecture, and edge computing architecture.
 Especially focused on application-driven design/architecture innovations, which include novel architectures for artificial intelligence (AI) and acceleration with CPU/GPU/FPGA.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>GIST: Improving Parameter Efficient Fine Tuning via Knowledge Interaction</title>
+      <link>http://localhost:1313/publication/ruan2024gist/</link>
+      <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ruan2024gist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From Raw Video to Pedagogical Insights: A Unified Framework for Student Behavior Analysis</title>
+      <link>http://localhost:1313/publication/yu2024raw/</link>
+      <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/yu2024raw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LAMM: Label Alignment for Multi-Modal Prompt Learning</title>
+      <link>http://localhost:1313/publication/gao2024lamm/</link>
+      <pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/gao2024lamm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward an end-to-end implicit addressee modeling for dialogue disentanglement</title>
+      <link>http://localhost:1313/publication/gao2024mta/</link>
+      <pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/gao2024mta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iDAT: inverse Distillation Adapter-Tuning</title>
+      <link>http://localhost:1313/publication/ruan2024idat/</link>
+      <pubDate>Wed, 03 Apr 2024 14:00:05 +0800</pubDate>
+      <guid>http://localhost:1313/publication/ruan2024idat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward an end-to-end implicit addressee modeling for dialogue disentanglement</title>
+      <link>http://localhost:1313/publication/li2024clapp/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/li2024clapp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Editing outdoor scenes with a large annotated synthetic dataset</title>
+      <link>http://localhost:1313/publication/xie2024mta/</link>
+      <pubDate>Sat, 02 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/xie2024mta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning to Floorplan like Human Experts via Reinforcement Learning</title>
+      <link>http://localhost:1313/publication/yan2024date/</link>
+      <pubDate>Thu, 15 Feb 2024 14:00:05 +0800</pubDate>
+      <guid>http://localhost:1313/publication/yan2024date/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep multimodal representation learning for generalizable person re-identification</title>
+      <link>http://localhost:1313/publication/xiang-2024-rethink/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/xiang-2024-rethink/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rethinking person re-identification via semantic-based pretraining</title>
+      <link>http://localhost:1313/publication/xiang-2024-deep/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/xiang-2024-deep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ege-unet: an efficient group enhanced unet for skin lesion segmentation</title>
+      <link>http://localhost:1313/publication/ruan2023egeunet/</link>
+      <pubDate>Wed, 05 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ruan2023egeunet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LiveChat: A Large-Scale Personalized Dialogue Dataset Automatically Constructed from Live Streaming</title>
+      <link>http://localhost:1313/publication/gao2023livechat/</link>
+      <pubDate>Mon, 05 Jun 2023 14:00:05 +0800</pubDate>
+      <guid>http://localhost:1313/publication/gao2023livechat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DynaSlim: Dynamic Slimming for Vision Transformers</title>
+      <link>http://localhost:1313/publication/shi2023dynaslim/</link>
+      <pubDate>Sun, 05 Mar 2023 14:00:05 +0800</pubDate>
+      <guid>http://localhost:1313/publication/shi2023dynaslim/</guid>
+      <description></description>
     </item>
     
     <item>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zongwei Liu | 智能计算机体系结构实验室</title>
+    <link>http://localhost:1313/author/zongwei-liu/</link>
+      <atom:link href="http://localhost:1313/author/zongwei-liu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zongwei Liu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2024 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Sat, 02 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo.png</url>
+      <title>Zongwei Liu</title>
+      <link>http://localhost:1313/author/zongwei-liu/</link>
+    </image>
+    
+    <item>
+      <title>Editing outdoor scenes with a large annotated synthetic dataset</title>
+      <link>http://localhost:1313/publication/xie2024mta/</link>
+      <pubDate>Sat, 02 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/xie2024mta/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

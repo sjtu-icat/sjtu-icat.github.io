@@ -5,7 +5,7 @@
     <link>http://localhost:1313/author/%E5%90%91%E5%AD%99%E7%A8%8B/</link>
       <atom:link href="http://localhost:1313/author/%E5%90%91%E5%AD%99%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" />
     <description>向孙程</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2024 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Wed, 15 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2024 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Thu, 05 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/author/%E5%90%91%E5%AD%99%E7%A8%8B/avatar_hu81a8336cf6d4727ff05be7837d64edb3_977725_270x270_fill_q75_lanczos_center.jpg</url>
       <title>向孙程</title>
@@ -15,13 +15,77 @@
     <item>
       <title>向孙程</title>
       <link>http://localhost:1313/author/%E5%90%91%E5%AD%99%E7%A8%8B/</link>
-      <pubDate>Wed, 15 Feb 2023 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/author/%E5%90%91%E5%AD%99%E7%A8%8B/</guid>
       <description>&lt;p&gt;Hi, I am Suncheng Xiang, a final-year PhD student at Shanghai Jiao Tong University.&lt;/p&gt;
 &lt;p&gt;Before this, I graduated from Changsha University of Science &amp;amp; Technology (CSUST) for B.Eng in Electrical Engineering and Automation in 2014, then obtained the M.Eng from National University of Defense Technology (NUDT) in 2017.&lt;/p&gt;
 &lt;p&gt;My main research topics are computer vision and machine learning. Specifically, I am currently doing research works on person re-identification, domain adaptation, transfer learning and related applications. I am also interested in some image generation and image retrieval tasks, e.g. vehicle re-identification and fine-grained image retrieval tasks.&lt;/p&gt;
 &lt;p&gt;This is my &lt;a href=&#34;https://JeremyXSC.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Homepage&lt;/a&gt;.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>GIST: Improving Parameter Efficient Fine Tuning via Knowledge Interaction</title>
+      <link>http://localhost:1313/publication/ruan2024gist/</link>
+      <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ruan2024gist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LAMM: Label Alignment for Multi-Modal Prompt Learning</title>
+      <link>http://localhost:1313/publication/gao2024lamm/</link>
+      <pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/gao2024lamm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward an end-to-end implicit addressee modeling for dialogue disentanglement</title>
+      <link>http://localhost:1313/publication/gao2024mta/</link>
+      <pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/gao2024mta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iDAT: inverse Distillation Adapter-Tuning</title>
+      <link>http://localhost:1313/publication/ruan2024idat/</link>
+      <pubDate>Wed, 03 Apr 2024 14:00:05 +0800</pubDate>
+      <guid>http://localhost:1313/publication/ruan2024idat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward an end-to-end implicit addressee modeling for dialogue disentanglement</title>
+      <link>http://localhost:1313/publication/li2024clapp/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/li2024clapp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Editing outdoor scenes with a large annotated synthetic dataset</title>
+      <link>http://localhost:1313/publication/xie2024mta/</link>
+      <pubDate>Sat, 02 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/xie2024mta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep multimodal representation learning for generalizable person re-identification</title>
+      <link>http://localhost:1313/publication/xiang-2024-rethink/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/xiang-2024-rethink/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rethinking person re-identification via semantic-based pretraining</title>
+      <link>http://localhost:1313/publication/xiang-2024-deep/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/xiang-2024-deep/</guid>
+      <description></description>
     </item>
     
     <item>
