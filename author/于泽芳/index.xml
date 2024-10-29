@@ -55,9 +55,9 @@
     
     <item>
       <title>Deep multimodal representation learning for generalizable person re-identification</title>
-      <link>http://localhost:1313/publication/xiang-2024-deep-copy/</link>
+      <link>http://localhost:1313/publication/xiang-2024-deep/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/xiang-2024-deep-copy/</guid>
+      <guid>http://localhost:1313/publication/xiang-2024-deep/</guid>
       <description></description>
     </item>
     
@@ -83,57 +83,6 @@
       <pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/yu2022synthetic/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>基于骨架的人类动作识别</title>
-      <link>http://localhost:1313/project/skeleton/</link>
-      <pubDate>Mon, 21 Jun 2021 10:00:00 +0800</pubDate>
-      <guid>http://localhost:1313/project/skeleton/</guid>
-      <description>&lt;h3 id=&#34;背景介绍&#34;&gt;背景介绍&lt;/h3&gt;
-&lt;p&gt;近年来，基于骨架的动作识别由于其对动态环境和复杂背景的鲁棒性而备受关注，其主要任务为根据输入的一段骨架序列，输出当前对应的动作类别。主流方法通常将关节点数据构建为图（graph）结构，并将图卷积扩展为时空图卷积来提取运动信息。&lt;/p&gt;
-&lt;h3 id=&#34;应用场景&#34;&gt;应用场景&lt;/h3&gt;
-&lt;p&gt;基于骨架的动作识别可以服务于人机交互、机器人、VR游戏实时控制等领域。&lt;/p&gt;
-&lt;h3 id=&#34;已有成果&#34;&gt;已有成果&lt;/h3&gt;
-&lt;p&gt;构建动作识别数据集时往往需耗费大量的人力物力，缺乏多视角下的动作序列。为解决这一问题，我们基于GTA V游戏构建了大规模360度全视角的虚拟动作数据集GAR-60。
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure id=&#34;figure-gar-60数据集部分样本&#34;&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;./gar-60.png&#34; data-caption=&#34;GAR-60数据集部分样本&#34;&gt;
-
-
-  &lt;img src=&#34;./gar-60.png&#34; alt=&#34;&#34;  &gt;
-&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    GAR-60数据集部分样本
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-&lt;/p&gt;
-</description>
     </item>
     
   </channel>

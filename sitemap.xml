@@ -63,9 +63,6 @@
     <loc>http://localhost:1313/publication/</loc>
     <lastmod>2024-12-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/project/</loc>
-    <lastmod>2024-12-05T14:00:05+08:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/publication/yu2024raw/</loc>
     <lastmod>2024-08-07T00:00:00+00:00</lastmod>
   </url><url>
@@ -80,6 +77,12 @@
   </url><url>
     <loc>http://localhost:1313/author/zhuowei-wang/</loc>
     <lastmod>2024-08-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/project/dialogue/</loc>
+    <lastmod>2024-04-23T11:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/project/</loc>
+    <lastmod>2024-04-23T11:00:00+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/author/daize-dong/</loc>
     <lastmod>2024-04-03T14:00:05+08:00</lastmod>
@@ -105,13 +108,13 @@
     <loc>http://localhost:1313/author/dahong-qian/</loc>
     <lastmod>2024-06-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publication/xiang-2024-deep-copy/</loc>
+    <loc>http://localhost:1313/publication/xiang-2024-deep/</loc>
     <lastmod>2024-06-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/author/hao-chen/</loc>
     <lastmod>2024-06-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publication/xiang-2024-deep/</loc>
+    <loc>http://localhost:1313/publication/xiang-2024-rethink/</loc>
     <lastmod>2024-05-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/author/zirui-zhang/</loc>
@@ -137,6 +140,9 @@
   </url><url>
     <loc>http://localhost:1313/publication/shi2023dynaslim/</loc>
     <lastmod>2023-03-05T14:00:05+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/project/floorpan/</loc>
+    <lastmod>2023-02-21T11:00:00+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/publication/li2023avtad/</loc>
     <lastmod>2023-02-15T00:00:00+00:00</lastmod>
@@ -201,6 +207,9 @@
     <loc>http://localhost:1313/post/22-01-22-paper-accepted/</loc>
     <lastmod>2022-01-22T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/project/water/</loc>
+    <lastmod>2022-01-21T11:00:00+08:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/publication/chen2021dffcn/</loc>
     <lastmod>2021-12-05T14:00:05+08:00</lastmod>
   </url><url>
@@ -225,14 +234,11 @@
     <loc>http://localhost:1313/post/21-07-01-confence-list/</loc>
     <lastmod>2021-06-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/project/compress/</loc>
+    <loc>http://localhost:1313/project/education/</loc>
     <lastmod>2021-06-21T11:00:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/project/micro-expr/</loc>
-    <lastmod>2021-06-21T10:50:00+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/project/summary/</loc>
-    <lastmod>2021-06-21T10:35:00+08:00</lastmod>
+    <loc>http://localhost:1313/project/compress/</loc>
+    <lastmod>2021-06-21T11:00:00+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/project/gan-editing/</loc>
     <lastmod>2021-06-21T10:35:00+08:00</lastmod>
@@ -242,9 +248,6 @@
   </url><url>
     <loc>http://localhost:1313/project/reid/</loc>
     <lastmod>2021-06-21T10:30:00+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/project/skeleton/</loc>
-    <lastmod>2021-06-21T10:00:00+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/publication/wang2021attention/</loc>
     <lastmod>2021-06-21T14:24:05+08:00</lastmod>
@@ -279,9 +282,6 @@
     <loc>http://localhost:1313/author/%E5%B0%A4%E5%86%A0%E6%9D%B0/</loc>
     <lastmod>2021-06-21T14:24:05+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publication/xiang-2020-unsupervised/</loc>
-    <lastmod>2021-03-19T15:40:43+08:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/publication-type/3/</loc>
     <lastmod>2021-03-19T20:05:21+08:00</lastmod>
   </url><url>
@@ -293,6 +293,9 @@
   </url><url>
     <loc>http://localhost:1313/tag/source-themes/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/project/intel/</loc>
+    <lastmod>2019-01-21T11:00:00+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/publication/xiang-2019-deep/</loc>
     <lastmod>2021-03-19T16:03:08+08:00</lastmod>

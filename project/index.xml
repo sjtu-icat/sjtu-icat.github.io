@@ -5,7 +5,7 @@
     <link>http://localhost:1313/project/</link>
       <atom:link href="http://localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
     <description>项目</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2024 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Thu, 05 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2024 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Tue, 23 Apr 2024 11:00:00 +0800</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/logo.png</url>
       <title>项目</title>
@@ -13,7 +13,45 @@
     </image>
     
     <item>
-      <title>模型压缩</title>
+      <title>面向公安AI智能接警大模型自动问答系统</title>
+      <link>http://localhost:1313/project/dialogue/</link>
+      <pubDate>Tue, 23 Apr 2024 11:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/project/dialogue/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>基于人工智能的floorplan自动生成与量化评价算法</title>
+      <link>http://localhost:1313/project/floorpan/</link>
+      <pubDate>Tue, 21 Feb 2023 11:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/project/floorpan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>面向水声目标识别的深度学习网络快速在线学习方法</title>
+      <link>http://localhost:1313/project/water/</link>
+      <pubDate>Fri, 21 Jan 2022 11:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/project/water/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>大学生课堂参与度的人工智能实时智慧评价关键技术研究</title>
+      <link>http://localhost:1313/project/education/</link>
+      <pubDate>Mon, 21 Jun 2021 11:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/project/education/</guid>
+      <description>&lt;h3 id=&#34;背景介绍&#34;&gt;背景介绍&lt;/h3&gt;
+&lt;p&gt;我国教育部于 2004 年启动“高等学校教学质量与教学改革工程”，在 2007年全面实施该工程，并启动了人才培养数据库及预测机制研究项目。十九大也进一步提出要实现高等教育内涵式发展，提升教育质量成为高等教育内涵式发展的第一要务。本项目从教育评价经典理论出发，探究了机器视觉和自然语言处理等领域最新人工智能技术在大学课堂学生参与行为的表征建模和分析报告生成等关键任务中的应用范式。&lt;/p&gt;
+&lt;h3 id=&#34;应用场景和方案&#34;&gt;应用场景和方案&lt;/h3&gt;
+&lt;p&gt;项目以上海交通大学课堂真实视频为参考，构建了教室场景密集坐姿人群合成数据集 SynPose 和典型课堂参与行为关节点时序数据集，在此基础上设计了密集遮挡人群姿态估计模型 CC-PoseNet 和多模态时序动作检测模型 AV-TAD，进而提出了从原始课堂视频到教育学视角学生行为分析与反馈报告生成的端到端智能化系统，开创性地利用 GPT4 等大语言模型弥合了教育理论与视觉表征之间的认知层次差异，为教育学视角下的课堂行为自动化观察、 分析与评价反馈生成提供了一种高效可行的智能化实施方案。&lt;/p&gt;
+&lt;h3 id=&#34;已有成果&#34;&gt;已有成果&lt;/h3&gt;
+&lt;p&gt;项目执行期间共计发表/录用多篇CCF推荐会议/期刊论文和高水平教育类论文，其中主线任务所形成的结论性成果“端到端课堂行为分析框架”被EAAI2024接收，阶段性成果教室场景姿态估计数据集 SynPose、遮挡人群姿态估计模型 CC-PoseNet、“视频-音频”动作检测模型 AV-TAD发表于ICASSP2022/2023，辅助任务中多轮对话摘要模型EHMNet和多模态提示学习标签对齐LAMM分别发表/录用于EMNLP2022和AAAI2024。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>深度学习压缩剪枝算法研究与应用</title>
       <link>http://localhost:1313/project/compress/</link>
       <pubDate>Mon, 21 Jun 2021 11:00:00 +0800</pubDate>
       <guid>http://localhost:1313/project/compress/</guid>
@@ -60,75 +98,6 @@
 
 &lt;/figure&gt;
 
-</description>
-    </item>
-    
-    <item>
-      <title>微表情识别</title>
-      <link>http://localhost:1313/project/micro-expr/</link>
-      <pubDate>Mon, 21 Jun 2021 10:50:00 +0800</pubDate>
-      <guid>http://localhost:1313/project/micro-expr/</guid>
-      <description>&lt;h3 id=&#34;背景介绍&#34;&gt;背景介绍&lt;/h3&gt;
-&lt;p&gt;微表情(Micro-expression)是人们在试图隐藏/压抑真实情感时出现的细微的面部表情。
-不同于宏表情，微表情变化细微，动作幅度小，难以观察和辨别；而且发生时间短暂，持续时间不超过0.5s；微表情人们在试图隐藏/压抑真实情感时出现，是自发的，无意识的，可以看作是人的真实情感的“泄露”。&lt;/p&gt;
-&lt;h3 id=&#34;应用场景&#34;&gt;应用场景&lt;/h3&gt;
-&lt;p&gt;因此，微表情识别(MER)研究使人们对微妙的面部动作有了更强的意识和敏感性，是理解人类情绪和情感表达的重要课题，已被心理学、社会学、神经科学、计算机视觉等多个学科所探索。广泛应用于警察询问、临床诊断、抑郁症分析、商务谈判等领域&lt;/p&gt;
-&lt;h3 id=&#34;已有成果&#34;&gt;已有成果&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;使用对抗生成网络生成微表情伪样本，从根本上解决样本多样性问题，在MEGC2019冠军模型上可以提升10%精度；&lt;/li&gt;
-&lt;li&gt;基于2D CNN的backbone，以视频作为输入，能同时学习时空域上的特征，形成端到端的训练，在CASMEII数据集上达到92%的F1；&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>会议摘要</title>
-      <link>http://localhost:1313/project/summary/</link>
-      <pubDate>Mon, 21 Jun 2021 10:35:00 +0800</pubDate>
-      <guid>http://localhost:1313/project/summary/</guid>
-      <description>&lt;h3 id=&#34;背景介绍&#34;&gt;背景介绍&lt;/h3&gt;
-&lt;p&gt;会议摘要(meeting summarization),属于多人长对话场景下的文本摘要；就是在会议记录基础上经过加工、整理出来的一种记叙性和介绍性的文件。包括会议的基本情况、主要精神及中心内容。&lt;/p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure id=&#34;figure-摘要内容示例&#34;&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;./summary.png&#34; data-caption=&#34;摘要内容示例&#34;&gt;
-
-
-  &lt;img src=&#34;./summary.png&#34; alt=&#34;&#34;  &gt;
-&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    摘要内容示例
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-
-&lt;h3 id=&#34;应用场景&#34;&gt;应用场景&lt;/h3&gt;
-&lt;p&gt;实时自动会议纪要将大大简化繁琐的会议总结工作，可以帮助与会者快速获取会议重要信息，从而做出正确的判断。&lt;/p&gt;
-&lt;h3 id=&#34;已有成果&#34;&gt;已有成果&lt;/h3&gt;
-&lt;p&gt;相比于新闻等结构化的文本，会议文本结构复杂，不同角色的发言相互交错，主题杂糅，语义逻辑破碎，理解其文本语义是对现有深度学习模型的全新挑战。在这项工作中，我们提出了一个具有多任务预训练的分层变压器编解码网络。具体地说，我们在词级编码器上为每个话语屏蔽关键句，并在解码器上生成它们。此外，我们在输入文本中随机屏蔽一些角色对齐，并强制模型恢复原始的角色标签来完成对齐。此外，我们还引入了主题分割机制来约束关注范围，进一步提高了生成摘要的质量。实验结果表明，该模型在满足AMI和ICSI的汇总数据集上优于以往的方法。&lt;/p&gt;
 </description>
     </item>
     
@@ -284,54 +253,11 @@
     </item>
     
     <item>
-      <title>基于骨架的人类动作识别</title>
-      <link>http://localhost:1313/project/skeleton/</link>
-      <pubDate>Mon, 21 Jun 2021 10:00:00 +0800</pubDate>
-      <guid>http://localhost:1313/project/skeleton/</guid>
-      <description>&lt;h3 id=&#34;背景介绍&#34;&gt;背景介绍&lt;/h3&gt;
-&lt;p&gt;近年来，基于骨架的动作识别由于其对动态环境和复杂背景的鲁棒性而备受关注，其主要任务为根据输入的一段骨架序列，输出当前对应的动作类别。主流方法通常将关节点数据构建为图（graph）结构，并将图卷积扩展为时空图卷积来提取运动信息。&lt;/p&gt;
-&lt;h3 id=&#34;应用场景&#34;&gt;应用场景&lt;/h3&gt;
-&lt;p&gt;基于骨架的动作识别可以服务于人机交互、机器人、VR游戏实时控制等领域。&lt;/p&gt;
-&lt;h3 id=&#34;已有成果&#34;&gt;已有成果&lt;/h3&gt;
-&lt;p&gt;构建动作识别数据集时往往需耗费大量的人力物力，缺乏多视角下的动作序列。为解决这一问题，我们基于GTA V游戏构建了大规模360度全视角的虚拟动作数据集GAR-60。
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure id=&#34;figure-gar-60数据集部分样本&#34;&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;./gar-60.png&#34; data-caption=&#34;GAR-60数据集部分样本&#34;&gt;
-
-
-  &lt;img src=&#34;./gar-60.png&#34; alt=&#34;&#34;  &gt;
-&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    GAR-60数据集部分样本
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-&lt;/p&gt;
-</description>
+      <title>基于Intel FPGA技术的合作项目开发</title>
+      <link>http://localhost:1313/project/intel/</link>
+      <pubDate>Mon, 21 Jan 2019 11:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/project/intel/</guid>
+      <description></description>
     </item>
     
   </channel>

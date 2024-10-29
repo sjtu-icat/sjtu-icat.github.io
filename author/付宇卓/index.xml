@@ -99,17 +99,17 @@ Especially focused on application-driven design/architecture innovations, which 
     
     <item>
       <title>Deep multimodal representation learning for generalizable person re-identification</title>
-      <link>http://localhost:1313/publication/xiang-2024-deep-copy/</link>
+      <link>http://localhost:1313/publication/xiang-2024-deep/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/xiang-2024-deep-copy/</guid>
+      <guid>http://localhost:1313/publication/xiang-2024-deep/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rethinking person re-identification via semantic-based pretraining</title>
-      <link>http://localhost:1313/publication/xiang-2024-deep/</link>
+      <link>http://localhost:1313/publication/xiang-2024-rethink/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/xiang-2024-deep/</guid>
+      <guid>http://localhost:1313/publication/xiang-2024-rethink/</guid>
       <description></description>
     </item>
     
@@ -222,14 +222,6 @@ Especially focused on application-driven design/architecture innovations, which 
       <link>http://localhost:1313/publication/xiang-2021-taking/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/xiang-2021-taking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Unsupervised domain adaptation through synthesis for person re-identification</title>
-      <link>http://localhost:1313/publication/xiang-2020-unsupervised/</link>
-      <pubDate>Mon, 06 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/xiang-2020-unsupervised/</guid>
       <description></description>
     </item>
     

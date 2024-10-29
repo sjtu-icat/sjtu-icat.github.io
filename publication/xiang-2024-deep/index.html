@@ -33,7 +33,7 @@
   
     
   
-  <meta name="description" content="Pretraining is a dominant paradigm in computer vision. Generally, supervised ImageNet pretraining is commonly used to initialize the backbones of person re-identification (Re-ID) models. However, recent works show a surprising result that CNN-based pretraining on ImageNet has limited impacts on Re-ID system due to the large domain gap between ImageNet and person Re-ID data. To seek an alternative to traditional pretraining, here we investigate semantic-based pretraining as another method to utilize additional textual data against ImageNet pretraining. Specifically, we manually construct a diversified FineGPR-C caption dataset for the first time on person Re-ID events. Based on it, a pure semantic-based pretraining approach named VTBR is proposed to adopt dense captions to learn visual representations with fewer images. We train convolutional neural networks from scratch on the captions of FineGPR" />
+  <meta name="description" content="Person re-identification plays a significant role in realistic scenarios due to its various applications in public security and video surveillance. Recently, leveraging the supervised or semi-unsupervised learning paradigms, which benefits from the large-scale datasets and strong computing performance, has achieved a competitive performance on a specific target domain. However, when Re-ID models are directly deployed in a new domain without target samples, they always suffer from considerable performance degradation and poor domain generalization. To address this challenge, we propose a Deep Multimodal Representation Learning network to elaborate rich semantic knowledge for assisting in representation learning during the pre-training. Importantly, a multimodal representation learning strategy is introduced to translate the features of different modalities into the common space, which can significantly" />
 
   
   <link rel="alternate" hreflang="zh-Hans" href="http://localhost:1313/publication/xiang-2024-deep/" />
@@ -282,8 +282,8 @@
   
   <meta property="og:site_name" content="智能计算机体系结构实验室" />
   <meta property="og:url" content="http://localhost:1313/publication/xiang-2024-deep/" />
-  <meta property="og:title" content="Rethinking person re-identification via semantic-based pretraining | 智能计算机体系结构实验室" />
-  <meta property="og:description" content="Pretraining is a dominant paradigm in computer vision. Generally, supervised ImageNet pretraining is commonly used to initialize the backbones of person re-identification (Re-ID) models. However, recent works show a surprising result that CNN-based pretraining on ImageNet has limited impacts on Re-ID system due to the large domain gap between ImageNet and person Re-ID data. To seek an alternative to traditional pretraining, here we investigate semantic-based pretraining as another method to utilize additional textual data against ImageNet pretraining. Specifically, we manually construct a diversified FineGPR-C caption dataset for the first time on person Re-ID events. Based on it, a pure semantic-based pretraining approach named VTBR is proposed to adopt dense captions to learn visual representations with fewer images. We train convolutional neural networks from scratch on the captions of FineGPR" /><meta property="og:image" content="http://localhost:1313/media/logo.png" />
+  <meta property="og:title" content="Deep multimodal representation learning for generalizable person re-identification | 智能计算机体系结构实验室" />
+  <meta property="og:description" content="Person re-identification plays a significant role in realistic scenarios due to its various applications in public security and video surveillance. Recently, leveraging the supervised or semi-unsupervised learning paradigms, which benefits from the large-scale datasets and strong computing performance, has achieved a competitive performance on a specific target domain. However, when Re-ID models are directly deployed in a new domain without target samples, they always suffer from considerable performance degradation and poor domain generalization. To address this challenge, we propose a Deep Multimodal Representation Learning network to elaborate rich semantic knowledge for assisting in representation learning during the pre-training. Importantly, a multimodal representation learning strategy is introduced to translate the features of different modalities into the common space, which can significantly" /><meta property="og:image" content="http://localhost:1313/media/logo.png" />
     <meta property="twitter:image" content="http://localhost:1313/media/logo.png" /><meta property="og:locale" content="zh-Hans" />
   
     
@@ -292,7 +292,7 @@
         content="2024-01-01T00:00:00&#43;00:00"
       />
     
-    <meta property="article:modified_time" content="2024-05-11T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2024-06-11T00:00:00&#43;00:00">
   
 
   
@@ -316,10 +316,10 @@
     "@type": "WebPage",
     "@id": "http://localhost:1313/publication/xiang-2024-deep/"
   },
-  "headline": "Rethinking person re-identification via semantic-based pretraining",
+  "headline": "Deep multimodal representation learning for generalizable person re-identification",
   
   "datePublished": "2024-01-01T00:00:00Z",
-  "dateModified": "2024-05-11T00:00:00Z",
+  "dateModified": "2024-06-11T00:00:00Z",
   
   "author": {
     "@type": "Person",
@@ -334,7 +334,7 @@
       "url": "http://localhost:1313/images/logo_hu47d6d2bad20f166854c7f64324d665e9_11459_192x192_fit_lanczos_3.png"
     }
   },
-  "description": "Pretraining is a dominant paradigm in computer vision. Generally, supervised ImageNet pretraining is commonly used to initialize the backbones of person re-identification (Re-ID) models. However, recent works show a surprising result that CNN-based pretraining on ImageNet has limited impacts on Re-ID system due to the large domain gap between ImageNet and person Re-ID data. To seek an alternative to traditional pretraining, here we investigate semantic-based pretraining as another method to utilize additional textual data against ImageNet pretraining. Specifically, we manually construct a diversified FineGPR-C caption dataset for the first time on person Re-ID events. Based on it, a pure semantic-based pretraining approach named VTBR is proposed to adopt dense captions to learn visual representations with fewer images. We train convolutional neural networks from scratch on the captions of FineGPR"
+  "description": "Person re-identification plays a significant role in realistic scenarios due to its various applications in public security and video surveillance. Recently, leveraging the supervised or semi-unsupervised learning paradigms, which benefits from the large-scale datasets and strong computing performance, has achieved a competitive performance on a specific target domain. However, when Re-ID models are directly deployed in a new domain without target samples, they always suffer from considerable performance degradation and poor domain generalization. To address this challenge, we propose a Deep Multimodal Representation Learning network to elaborate rich semantic knowledge for assisting in representation learning during the pre-training. Importantly, a multimodal representation learning strategy is introduced to translate the features of different modalities into the common space, which can significantly"
 }
 </script>
 
@@ -350,7 +350,7 @@
 
 
 
-  <title>Rethinking person re-identification via semantic-based pretraining | 智能计算机体系结构实验室</title>
+  <title>Deep multimodal representation learning for generalizable person re-identification | 智能计算机体系结构实验室</title>
 </head>
 
 
@@ -664,7 +664,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>Rethinking person re-identification via semantic-based pretraining</h1>
+  <h1>Deep multimodal representation learning for generalizable person re-identification</h1>
 
   
 
@@ -683,10 +683,11 @@
 
   <span >
       <a href="/author/%E5%90%91%E5%AD%99%E7%A8%8B/">向孙程</a></span>, <span >
-      <a href="/author/dahong-qian/">Dahong Qian</a></span>, <span >
-      <a href="/author/%E9%AB%98%E6%99%AF%E7%9B%9B/">高景盛</a></span>, <span >
-      <a href="/author/zirui-zhang/">Zirui Zhang</a></span>, <span >
+      <a href="/author/hao-chen/">Hao Chen</a></span>, <span >
+      <a href="/author/%E5%86%89%E8%8B%87/">冉苇</a></span>, <span >
+      <a href="/author/%E4%BA%8E%E6%B3%BD%E8%8A%B3/">于泽芳</a></span>, <span >
       <a href="/author/%E5%88%98%E5%A9%B7/">刘婷</a></span>, <span >
+      <a href="/author/dahong-qian/">Dahong Qian</a></span>, <span >
       <a href="/author/%E4%BB%98%E5%AE%87%E5%8D%93/">付宇卓</a></span>
   </div>
   
@@ -740,7 +741,7 @@
 
 
 
-<a class="btn btn-outline-primary btn-page-header" href="https://dl.acm.org/doi/full/10.1145/3628452" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header" href="https://link.springer.com/article/10.1007/s10994-023-06352-7" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -777,7 +778,7 @@
 
     
     <h3>摘要</h3>
-    <p class="pub-abstract">Pretraining is a dominant paradigm in computer vision. Generally, supervised ImageNet pretraining is commonly used to initialize the backbones of person re-identification (Re-ID) models. However, recent works show a surprising result that CNN-based pretraining on ImageNet has limited impacts on Re-ID system due to the large domain gap between ImageNet and person Re-ID data. To seek an alternative to traditional pretraining, here we investigate semantic-based pretraining as another method to utilize additional textual data against ImageNet pretraining. Specifically, we manually construct a diversified FineGPR-C caption dataset for the first time on person Re-ID events. Based on it, a pure semantic-based pretraining approach named VTBR is proposed to adopt dense captions to learn visual representations with fewer images. We train convolutional neural networks from scratch on the captions of FineGPR</p>
+    <p class="pub-abstract">Person re-identification plays a significant role in realistic scenarios due to its various applications in public security and video surveillance. Recently, leveraging the supervised or semi-unsupervised learning paradigms, which benefits from the large-scale datasets and strong computing performance, has achieved a competitive performance on a specific target domain. However, when Re-ID models are directly deployed in a new domain without target samples, they always suffer from considerable performance degradation and poor domain generalization. To address this challenge, we propose a Deep Multimodal Representation Learning network to elaborate rich semantic knowledge for assisting in representation learning during the pre-training. Importantly, a multimodal representation learning strategy is introduced to translate the features of different modalities into the common space, which can significantly</p>
     
 
     
@@ -805,7 +806,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">出版物</div>
-          <div class="col-12 col-md-9">ACM Transactions on Multimedia Computing, Communications and Applications</div>
+          <div class="col-12 col-md-9">Machine Learning</div>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -835,7 +836,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=http://localhost:1313/publication/xiang-2024-deep/&amp;text=Rethinking%20person%20re-identification%20via%20semantic-based%20pretraining" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=http://localhost:1313/publication/xiang-2024-deep/&amp;text=Deep%20multimodal%20representation%20learning%20for%20generalizable%20person%20re-identification" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -848,7 +849,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=http://localhost:1313/publication/xiang-2024-deep/&amp;t=Rethinking%20person%20re-identification%20via%20semantic-based%20pretraining" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=http://localhost:1313/publication/xiang-2024-deep/&amp;t=Deep%20multimodal%20representation%20learning%20for%20generalizable%20person%20re-identification" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -861,7 +862,7 @@
       
       
       <li>
-        <a href="mailto:?subject=Rethinking%20person%20re-identification%20via%20semantic-based%20pretraining&amp;body=http://localhost:1313/publication/xiang-2024-deep/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=Deep%20multimodal%20representation%20learning%20for%20generalizable%20person%20re-identification&amp;body=http://localhost:1313/publication/xiang-2024-deep/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -874,7 +875,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=http://localhost:1313/publication/xiang-2024-deep/&amp;title=Rethinking%20person%20re-identification%20via%20semantic-based%20pretraining" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=http://localhost:1313/publication/xiang-2024-deep/&amp;title=Deep%20multimodal%20representation%20learning%20for%20generalizable%20person%20re-identification" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -887,7 +888,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=Rethinking%20person%20re-identification%20via%20semantic-based%20pretraining%20http://localhost:1313/publication/xiang-2024-deep/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="whatsapp://send?text=Deep%20multimodal%20representation%20learning%20for%20generalizable%20person%20re-identification%20http://localhost:1313/publication/xiang-2024-deep/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -900,7 +901,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=http://localhost:1313/publication/xiang-2024-deep/&amp;title=Rethinking%20person%20re-identification%20via%20semantic-based%20pretraining" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=http://localhost:1313/publication/xiang-2024-deep/&amp;title=Deep%20multimodal%20representation%20learning%20for%20generalizable%20person%20re-identification" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -1030,12 +1031,12 @@
   <div class="media author-card content-widget-hr">
     
       
-      <a href="/author/%E9%AB%98%E6%99%AF%E7%9B%9B/"><img class="avatar mr-3 avatar-circle" src="/author/%E9%AB%98%E6%99%AF%E7%9B%9B/avatar_hucbd1ba237f0ac81ad9631b84775018a8_165167_270x270_fill_q75_lanczos_center.jpg" alt="高景盛"></a>
+      <a href="/author/%E5%86%89%E8%8B%87/"><img class="avatar mr-3 avatar-circle" src="/author/%E5%86%89%E8%8B%87/avatar_hud9a7ac31a31101ac01b74cb8838b1041_163915_270x270_fill_q75_lanczos_center.jpg" alt="冉苇"></a>
     
 
     <div class="media-body">
-      <h5 class="card-title"><a href="/author/%E9%AB%98%E6%99%AF%E7%9B%9B/">高景盛</a></h5>
-      <h6 class="card-subtitle">2020级博士生</h6>
+      <h5 class="card-title"><a href="/author/%E5%86%89%E8%8B%87/">冉苇</a></h5>
+      <h6 class="card-subtitle">2019级博士生</h6>
       
       <ul class="network-icon" aria-hidden="true">
   
@@ -1048,58 +1049,9 @@
     
     
     
-      
-    
     <li>
-      <a href="https://gaojingsheng.github.io/" target="_blank" rel="noopener">
-        <i class="fas fa-home"></i>
-      </a>
-    </li>
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-    <li>
-      <a href="mailto:gaojingsheng@sjtu.edu.cn" >
+      <a href="mailto:Rw1997@sjtu.edu.cn" >
         <i class="fas fa-envelope"></i>
-      </a>
-    </li>
-  
-    
-    
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <a href="https://scholar.google.com/citations?user=O4o2aQcAAAAJ&amp;hl=en" target="_blank" rel="noopener">
-        <i class="ai ai-google-scholar"></i>
-      </a>
-    </li>
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <a href="https://github.com/gaojingsheng" target="_blank" rel="noopener">
-        <i class="fab fa-github"></i>
       </a>
     </li>
   
@@ -1113,6 +1065,60 @@
     
 
 
+
+  
+  
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="/author/%E4%BA%8E%E6%B3%BD%E8%8A%B3/"><img class="avatar mr-3 avatar-circle" src="/author/%E4%BA%8E%E6%B3%BD%E8%8A%B3/avatar_hue888d6e5a219d7fc7c142f3ac7ab3e4f_315738_270x270_fill_q75_lanczos_center.jpg" alt="于泽芳"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="/author/%E4%BA%8E%E6%B3%BD%E8%8A%B3/">于泽芳</a></h5>
+      <h6 class="card-subtitle">2018级博士生</h6>
+      
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:yuzefang@sjtu.edu.cn" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/yuzefang96" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
 
 
   
@@ -1173,6 +1179,12 @@
 
     </div>
   </div>
+
+
+  
+    
+
+
 
 
   

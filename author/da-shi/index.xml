@@ -20,56 +20,5 @@
       <description></description>
     </item>
     
-    <item>
-      <title>模型压缩</title>
-      <link>http://localhost:1313/project/compress/</link>
-      <pubDate>Mon, 21 Jun 2021 11:00:00 +0800</pubDate>
-      <guid>http://localhost:1313/project/compress/</guid>
-      <description>&lt;h3 id=&#34;背景介绍&#34;&gt;背景介绍&lt;/h3&gt;
-&lt;p&gt;尽管深度学习算法模型性能强大，然而由于其参数量多、运行所需要的算力极其庞大，使得深度学习网络难以在存储资源或计算资源受限的平台上部署运行，只能部署在GPU等硬件设备上进行加速计算。这样的特点大大限制了其应用场景，要求我们对深度学习网络模型进行优化和压缩，减少其对资源的需求，以便灵活部署到低资源的硬件平台中。&lt;/p&gt;
-&lt;h3 id=&#34;应用场景&#34;&gt;应用场景&lt;/h3&gt;
-&lt;p&gt;模型压缩应用于算力有限的边缘设备，比如车载平台，无人机等。在不影响准确性的前提下，制作能在边缘设备约束下运行的更小的模型具有广泛的应用价值。&lt;/p&gt;
-&lt;h3 id=&#34;已有成果&#34;&gt;已有成果&lt;/h3&gt;
-&lt;p&gt;设计了一种动态稀疏方法，该方案一方面加深对于模型冗余参数的挖掘力度，另一方面细粒度平衡稀疏训练和精度训练的制约关系。实现了更高剪枝率下的精度保持。&lt;/p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure id=&#34;figure-不同压缩方式对比图&#34;&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;./structure.png&#34; data-caption=&#34;不同压缩方式对比图&#34;&gt;
-
-
-  &lt;img src=&#34;./structure.png&#34; alt=&#34;&#34;  &gt;
-&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    不同压缩方式对比图
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-
-</description>
-    </item>
-    
   </channel>
 </rss>
