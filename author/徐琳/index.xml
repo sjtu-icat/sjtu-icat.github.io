@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>徐琳 | 智能计算机体系结构实验室</title>
-    <link>http://localhost:1313/author/%E5%BE%90%E7%90%B3/</link>
-      <atom:link href="http://localhost:1313/author/%E5%BE%90%E7%90%B3/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sjtu-icat.github.io/author/%E5%BE%90%E7%90%B3/</link>
+      <atom:link href="https://sjtu-icat.github.io/author/%E5%BE%90%E7%90%B3/index.xml" rel="self" type="application/rss+xml" />
     <description>徐琳</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2024 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Thu, 15 Feb 2024 14:00:05 +0800</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2025 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Thu, 15 Feb 2024 14:00:05 +0800</lastBuildDate>
     <image>
-      <url>http://localhost:1313/author/%E5%BE%90%E7%90%B3/avatar_hub70a1d43494974d24e94d624ccaefcab_11370_270x270_fill_lanczos_center_3.png</url>
+      <url>https://sjtu-icat.github.io/author/%E5%BE%90%E7%90%B3/avatar_hub70a1d43494974d24e94d624ccaefcab_11370_270x270_fill_lanczos_center_3.png</url>
       <title>徐琳</title>
-      <link>http://localhost:1313/author/%E5%BE%90%E7%90%B3/</link>
+      <link>https://sjtu-icat.github.io/author/%E5%BE%90%E7%90%B3/</link>
     </image>
     
     <item>
-      <title>徐琳</title>
-      <link>http://localhost:1313/author/%E5%BE%90%E7%90%B3/</link>
-      <pubDate>Thu, 15 Feb 2024 14:00:05 +0800</pubDate>
-      <guid>http://localhost:1313/author/%E5%BE%90%E7%90%B3/</guid>
+      <title>袁文镇</title>
+      <link>https://sjtu-icat.github.io/author/%E8%A2%81%E6%96%87%E9%95%87/</link>
+      <pubDate>Sun, 29 Jun 2025 14:00:05 +0800</pubDate>
+      <guid>https://sjtu-icat.github.io/author/%E8%A2%81%E6%96%87%E9%95%87/</guid>
       <description>&lt;p&gt;Need to fill the bio&amp;hellip;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>袁文镇</title>
-      <link>http://localhost:1313/author/%E8%A2%81%E6%96%87%E9%95%87/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/author/%E8%A2%81%E6%96%87%E9%95%87/</guid>
+      <title>徐琳</title>
+      <link>https://sjtu-icat.github.io/author/%E5%BE%90%E7%90%B3/</link>
+      <pubDate>Thu, 15 Feb 2024 14:00:05 +0800</pubDate>
+      <guid>https://sjtu-icat.github.io/author/%E5%BE%90%E7%90%B3/</guid>
       <description>&lt;p&gt;Need to fill the bio&amp;hellip;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Learning to Floorplan like Human Experts via Reinforcement Learning</title>
-      <link>http://localhost:1313/publication/yan2024date/</link>
+      <link>https://sjtu-icat.github.io/publication/yan2024date/</link>
       <pubDate>Thu, 15 Feb 2024 14:00:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/yan2024date/</guid>
+      <guid>https://sjtu-icat.github.io/publication/yan2024date/</guid>
       <description></description>
     </item>
     

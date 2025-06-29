@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 | 智能计算机体系结构实验室</title>
-    <link>http://localhost:1313/publication-type/2/</link>
-      <atom:link href="http://localhost:1313/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sjtu-icat.github.io/publication-type/2/</link>
+      <atom:link href="https://sjtu-icat.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2024 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2025 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/logo.png</url>
+      <url>https://sjtu-icat.github.io/media/logo.png</url>
       <title>2</title>
-      <link>http://localhost:1313/publication-type/2/</link>
+      <link>https://sjtu-icat.github.io/publication-type/2/</link>
     </image>
     
     <item>
       <title>Toward an end-to-end implicit addressee modeling for dialogue disentanglement</title>
-      <link>http://localhost:1313/publication/li2024clapp/</link>
+      <link>https://sjtu-icat.github.io/publication/li2024clapp/</link>
       <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/li2024clapp/</guid>
+      <guid>https://sjtu-icat.github.io/publication/li2024clapp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Editing outdoor scenes with a large annotated synthetic dataset</title>
-      <link>http://localhost:1313/publication/xie2024mta/</link>
+      <link>https://sjtu-icat.github.io/publication/xie2024mta/</link>
       <pubDate>Sat, 02 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/xie2024mta/</guid>
+      <guid>https://sjtu-icat.github.io/publication/xie2024mta/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep multimodal representation learning for generalizable person re-identification</title>
-      <link>http://localhost:1313/publication/xiang-2024-deep/</link>
+      <link>https://sjtu-icat.github.io/publication/xiang-2024-deep/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/xiang-2024-deep/</guid>
+      <guid>https://sjtu-icat.github.io/publication/xiang-2024-deep/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rethinking person re-identification via semantic-based pretraining</title>
-      <link>http://localhost:1313/publication/xiang-2024-rethink/</link>
+      <link>https://sjtu-icat.github.io/publication/xiang-2024-rethink/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/xiang-2024-rethink/</guid>
+      <guid>https://sjtu-icat.github.io/publication/xiang-2024-rethink/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep unsupervised progressive learning for distant domain adaptation</title>
-      <link>http://localhost:1313/publication/xiang-2019-deep/</link>
+      <link>https://sjtu-icat.github.io/publication/xiang-2019-deep/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/xiang-2019-deep/</guid>
+      <guid>https://sjtu-icat.github.io/publication/xiang-2019-deep/</guid>
       <description></description>
     </item>
     

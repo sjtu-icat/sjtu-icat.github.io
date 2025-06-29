@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>闫彬洁 | 智能计算机体系结构实验室</title>
-    <link>http://localhost:1313/author/%E9%97%AB%E5%BD%AC%E6%B4%81/</link>
-      <atom:link href="http://localhost:1313/author/%E9%97%AB%E5%BD%AC%E6%B4%81/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sjtu-icat.github.io/author/%E9%97%AB%E5%BD%AC%E6%B4%81/</link>
+      <atom:link href="https://sjtu-icat.github.io/author/%E9%97%AB%E5%BD%AC%E6%B4%81/index.xml" rel="self" type="application/rss+xml" />
     <description>闫彬洁</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2024 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Thu, 15 Feb 2024 14:00:05 +0800</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2025 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Thu, 15 Feb 2024 14:00:05 +0800</lastBuildDate>
     <image>
-      <url>http://localhost:1313/author/%E9%97%AB%E5%BD%AC%E6%B4%81/avatar_hu6a509b1542981f5ed165411c4a020e98_182730_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://sjtu-icat.github.io/author/%E9%97%AB%E5%BD%AC%E6%B4%81/avatar_hu6a509b1542981f5ed165411c4a020e98_182730_270x270_fill_q75_lanczos_center.jpg</url>
       <title>闫彬洁</title>
-      <link>http://localhost:1313/author/%E9%97%AB%E5%BD%AC%E6%B4%81/</link>
+      <link>https://sjtu-icat.github.io/author/%E9%97%AB%E5%BD%AC%E6%B4%81/</link>
     </image>
     
     <item>
       <title>闫彬洁</title>
-      <link>http://localhost:1313/author/%E9%97%AB%E5%BD%AC%E6%B4%81/</link>
+      <link>https://sjtu-icat.github.io/author/%E9%97%AB%E5%BD%AC%E6%B4%81/</link>
       <pubDate>Thu, 15 Feb 2024 14:00:05 +0800</pubDate>
-      <guid>http://localhost:1313/author/%E9%97%AB%E5%BD%AC%E6%B4%81/</guid>
+      <guid>https://sjtu-icat.github.io/author/%E9%97%AB%E5%BD%AC%E6%B4%81/</guid>
       <description>&lt;p&gt;Need to fill the bio&amp;hellip;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Learning to Floorplan like Human Experts via Reinforcement Learning</title>
-      <link>http://localhost:1313/publication/yan2024date/</link>
+      <link>https://sjtu-icat.github.io/publication/yan2024date/</link>
       <pubDate>Thu, 15 Feb 2024 14:00:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/yan2024date/</guid>
+      <guid>https://sjtu-icat.github.io/publication/yan2024date/</guid>
       <description></description>
     </item>
     

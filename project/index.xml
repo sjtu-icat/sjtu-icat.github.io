@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>项目 | 智能计算机体系结构实验室</title>
-    <link>http://localhost:1313/project/</link>
-      <atom:link href="http://localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sjtu-icat.github.io/project/</link>
+      <atom:link href="https://sjtu-icat.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>项目</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2024 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Tue, 23 Apr 2024 11:00:00 +0800</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2025 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Tue, 23 Apr 2024 11:00:00 +0800</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/logo.png</url>
+      <url>https://sjtu-icat.github.io/media/logo.png</url>
       <title>项目</title>
-      <link>http://localhost:1313/project/</link>
+      <link>https://sjtu-icat.github.io/project/</link>
     </image>
     
     <item>
       <title>面向公安AI智能接警大模型自动问答系统</title>
-      <link>http://localhost:1313/project/dialogue/</link>
+      <link>https://sjtu-icat.github.io/project/dialogue/</link>
       <pubDate>Tue, 23 Apr 2024 11:00:00 +0800</pubDate>
-      <guid>http://localhost:1313/project/dialogue/</guid>
+      <guid>https://sjtu-icat.github.io/project/dialogue/</guid>
       <description></description>
     </item>
     
     <item>
       <title>基于人工智能的floorplan自动生成与量化评价算法</title>
-      <link>http://localhost:1313/project/floorpan/</link>
+      <link>https://sjtu-icat.github.io/project/floorpan/</link>
       <pubDate>Tue, 21 Feb 2023 11:00:00 +0800</pubDate>
-      <guid>http://localhost:1313/project/floorpan/</guid>
+      <guid>https://sjtu-icat.github.io/project/floorpan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>面向水声目标识别的深度学习网络快速在线学习方法</title>
-      <link>http://localhost:1313/project/water/</link>
+      <link>https://sjtu-icat.github.io/project/water/</link>
       <pubDate>Fri, 21 Jan 2022 11:00:00 +0800</pubDate>
-      <guid>http://localhost:1313/project/water/</guid>
+      <guid>https://sjtu-icat.github.io/project/water/</guid>
       <description></description>
     </item>
     
     <item>
       <title>大学生课堂参与度的人工智能实时智慧评价关键技术研究</title>
-      <link>http://localhost:1313/project/education/</link>
+      <link>https://sjtu-icat.github.io/project/education/</link>
       <pubDate>Mon, 21 Jun 2021 11:00:00 +0800</pubDate>
-      <guid>http://localhost:1313/project/education/</guid>
+      <guid>https://sjtu-icat.github.io/project/education/</guid>
       <description>&lt;h3 id=&#34;背景介绍&#34;&gt;背景介绍&lt;/h3&gt;
 &lt;p&gt;我国教育部于 2004 年启动“高等学校教学质量与教学改革工程”，在 2007年全面实施该工程，并启动了人才培养数据库及预测机制研究项目。十九大也进一步提出要实现高等教育内涵式发展，提升教育质量成为高等教育内涵式发展的第一要务。本项目从教育评价经典理论出发，探究了机器视觉和自然语言处理等领域最新人工智能技术在大学课堂学生参与行为的表征建模和分析报告生成等关键任务中的应用范式。&lt;/p&gt;
 &lt;h3 id=&#34;应用场景和方案&#34;&gt;应用场景和方案&lt;/h3&gt;
@@ -52,9 +52,9 @@
     
     <item>
       <title>深度学习压缩剪枝算法研究与应用</title>
-      <link>http://localhost:1313/project/compress/</link>
+      <link>https://sjtu-icat.github.io/project/compress/</link>
       <pubDate>Mon, 21 Jun 2021 11:00:00 +0800</pubDate>
-      <guid>http://localhost:1313/project/compress/</guid>
+      <guid>https://sjtu-icat.github.io/project/compress/</guid>
       <description>&lt;h3 id=&#34;背景介绍&#34;&gt;背景介绍&lt;/h3&gt;
 &lt;p&gt;尽管深度学习算法模型性能强大，然而由于其参数量多、运行所需要的算力极其庞大，使得深度学习网络难以在存储资源或计算资源受限的平台上部署运行，只能部署在GPU等硬件设备上进行加速计算。这样的特点大大限制了其应用场景，要求我们对深度学习网络模型进行优化和压缩，减少其对资源的需求，以便灵活部署到低资源的硬件平台中。&lt;/p&gt;
 &lt;h3 id=&#34;应用场景&#34;&gt;应用场景&lt;/h3&gt;
@@ -103,9 +103,9 @@
     
     <item>
       <title>基于GAN的图片属性编辑</title>
-      <link>http://localhost:1313/project/gan-editing/</link>
+      <link>https://sjtu-icat.github.io/project/gan-editing/</link>
       <pubDate>Mon, 21 Jun 2021 10:35:00 +0800</pubDate>
-      <guid>http://localhost:1313/project/gan-editing/</guid>
+      <guid>https://sjtu-icat.github.io/project/gan-editing/</guid>
       <description>&lt;h3 id=&#34;背景介绍&#34;&gt;背景介绍&lt;/h3&gt;
 &lt;p&gt;生成对抗网络（Generative Adversarial Networks， GAN）由两个基础神经网络即生成器（Generator）和判别器（Discriminator）所组成，其中一个用于生成内容，另一个则用于判别生成的内容。GAN能够学习数据集内的特征，进而生成逼近真实数据的高质量的图片。&lt;/p&gt;
 &lt;p&gt;GAN在图像合成领域的应用已经十分广泛。近期的一些研究表明，在学习合成图像时，GAN 会自发地在隐空间（latent space）中表示出多种可解释属性，如用于人脸合成的性别特征、用于场景合成的光照条件。通过正确识别这些语义，我们可以将 GAN 学习到的知识重新利用，合理地控制图像生成过程，从而实现图像编辑功能的更广泛应用，如人脸操纵和场景编辑。&lt;/p&gt;
@@ -200,9 +200,9 @@
     
     <item>
       <title>行人重识别</title>
-      <link>http://localhost:1313/project/reid/</link>
+      <link>https://sjtu-icat.github.io/project/reid/</link>
       <pubDate>Mon, 21 Jun 2021 10:30:00 +0800</pubDate>
-      <guid>http://localhost:1313/project/reid/</guid>
+      <guid>https://sjtu-icat.github.io/project/reid/</guid>
       <description>&lt;h3 id=&#34;背景介绍&#34;&gt;背景介绍&lt;/h3&gt;
 &lt;p&gt;行人重识别（Person re-identification, Re-ID)，也称为行人再识别或跨镜追踪；主要实现从一个摄像头捕获的目标行人，到其他不同摄像头检索是否存在相同行人，即进行跨摄像头检索。&lt;/p&gt;
 &lt;h3 id=&#34;应用场景&#34;&gt;应用场景&lt;/h3&gt;
@@ -254,9 +254,9 @@
     
     <item>
       <title>基于Intel FPGA技术的合作项目开发</title>
-      <link>http://localhost:1313/project/intel/</link>
+      <link>https://sjtu-icat.github.io/project/intel/</link>
       <pubDate>Mon, 21 Jan 2019 11:00:00 +0800</pubDate>
-      <guid>http://localhost:1313/project/intel/</guid>
+      <guid>https://sjtu-icat.github.io/project/intel/</guid>
       <description></description>
     </item>
     

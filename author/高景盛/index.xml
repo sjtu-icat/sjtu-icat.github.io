@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>高景盛 | 智能计算机体系结构实验室</title>
-    <link>http://localhost:1313/author/%E9%AB%98%E6%99%AF%E7%9B%9B/</link>
-      <atom:link href="http://localhost:1313/author/%E9%AB%98%E6%99%AF%E7%9B%9B/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sjtu-icat.github.io/author/%E9%AB%98%E6%99%AF%E7%9B%9B/</link>
+      <atom:link href="https://sjtu-icat.github.io/author/%E9%AB%98%E6%99%AF%E7%9B%9B/index.xml" rel="self" type="application/rss+xml" />
     <description>高景盛</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2024 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Thu, 05 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2025 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Sun, 06 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/author/%E9%AB%98%E6%99%AF%E7%9B%9B/avatar_hucbd1ba237f0ac81ad9631b84775018a8_165167_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://sjtu-icat.github.io/author/%E9%AB%98%E6%99%AF%E7%9B%9B/avatar_hucbd1ba237f0ac81ad9631b84775018a8_165167_270x270_fill_q75_lanczos_center.jpg</url>
       <title>高景盛</title>
-      <link>http://localhost:1313/author/%E9%AB%98%E6%99%AF%E7%9B%9B/</link>
+      <link>https://sjtu-icat.github.io/author/%E9%AB%98%E6%99%AF%E7%9B%9B/</link>
     </image>
     
     <item>
       <title>高景盛</title>
-      <link>http://localhost:1313/author/%E9%AB%98%E6%99%AF%E7%9B%9B/</link>
-      <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/author/%E9%AB%98%E6%99%AF%E7%9B%9B/</guid>
+      <link>https://sjtu-icat.github.io/author/%E9%AB%98%E6%99%AF%E7%9B%9B/</link>
+      <pubDate>Sun, 06 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://sjtu-icat.github.io/author/%E9%AB%98%E6%99%AF%E7%9B%9B/</guid>
       <description>&lt;p&gt;​ I am a first-year PhD student at SJTU EECS, advised by Prof. Yuzhuo Fu. Previously, I obtained my bachelor&amp;rsquo;s degree from school of Physics and Astromony, Shanghai Jiaotong University.&lt;/p&gt;
 &lt;p&gt;​ I completed my undergraduate graduation project using different kinds of  U-nets, which is a astronomical task called extracting weak gravitational lens in CMB. Also, I have ever practiced in a medical company which is established by Fosun. During my first year, I have tried some projects on document understanding, like seal extraction and tabel detection.&lt;/p&gt;
 &lt;p&gt;​ In the future, I will mainly put my attention on computer version and try to catch the future development of machine learning.&lt;/p&gt;
@@ -24,90 +24,106 @@
     </item>
     
     <item>
+      <title>SmartRAG: Jointly Learn RAG-Related Tasks From the Environment Feedback</title>
+      <link>https://sjtu-icat.github.io/publication/gao2025smartrag/</link>
+      <pubDate>Sun, 06 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://sjtu-icat.github.io/publication/gao2025smartrag/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>GIST: Improving Parameter Efficient Fine Tuning via Knowledge Interaction</title>
-      <link>http://localhost:1313/publication/ruan2024gist/</link>
+      <link>https://sjtu-icat.github.io/publication/ruan2024gist/</link>
       <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ruan2024gist/</guid>
+      <guid>https://sjtu-icat.github.io/publication/ruan2024gist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TTE: Two Tokens are Enough to Improve Parameter-Effcient Tuning</title>
+      <link>https://sjtu-icat.github.io/publication/ruan2025twotoken/</link>
+      <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://sjtu-icat.github.io/publication/ruan2025twotoken/</guid>
       <description></description>
     </item>
     
     <item>
       <title>From Raw Video to Pedagogical Insights: A Unified Framework for Student Behavior Analysis</title>
-      <link>http://localhost:1313/publication/yu2024raw/</link>
+      <link>https://sjtu-icat.github.io/publication/yu2024raw/</link>
       <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/yu2024raw/</guid>
+      <guid>https://sjtu-icat.github.io/publication/yu2024raw/</guid>
       <description></description>
     </item>
     
     <item>
       <title>LAMM: Label Alignment for Multi-Modal Prompt Learning</title>
-      <link>http://localhost:1313/publication/gao2024lamm/</link>
+      <link>https://sjtu-icat.github.io/publication/gao2024lamm/</link>
       <pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/gao2024lamm/</guid>
+      <guid>https://sjtu-icat.github.io/publication/gao2024lamm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Toward an end-to-end implicit addressee modeling for dialogue disentanglement</title>
-      <link>http://localhost:1313/publication/gao2024mta/</link>
+      <link>https://sjtu-icat.github.io/publication/gao2024mta/</link>
       <pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/gao2024mta/</guid>
+      <guid>https://sjtu-icat.github.io/publication/gao2024mta/</guid>
       <description></description>
     </item>
     
     <item>
       <title>iDAT: inverse Distillation Adapter-Tuning</title>
-      <link>http://localhost:1313/publication/ruan2024idat/</link>
+      <link>https://sjtu-icat.github.io/publication/ruan2024idat/</link>
       <pubDate>Wed, 03 Apr 2024 14:00:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/ruan2024idat/</guid>
+      <guid>https://sjtu-icat.github.io/publication/ruan2024idat/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Toward an end-to-end implicit addressee modeling for dialogue disentanglement</title>
-      <link>http://localhost:1313/publication/li2024clapp/</link>
+      <link>https://sjtu-icat.github.io/publication/li2024clapp/</link>
       <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/li2024clapp/</guid>
+      <guid>https://sjtu-icat.github.io/publication/li2024clapp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning to Floorplan like Human Experts via Reinforcement Learning</title>
-      <link>http://localhost:1313/publication/yan2024date/</link>
+      <link>https://sjtu-icat.github.io/publication/yan2024date/</link>
       <pubDate>Thu, 15 Feb 2024 14:00:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/yan2024date/</guid>
+      <guid>https://sjtu-icat.github.io/publication/yan2024date/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rethinking person re-identification via semantic-based pretraining</title>
-      <link>http://localhost:1313/publication/xiang-2024-rethink/</link>
+      <link>https://sjtu-icat.github.io/publication/xiang-2024-rethink/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/xiang-2024-rethink/</guid>
+      <guid>https://sjtu-icat.github.io/publication/xiang-2024-rethink/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ege-unet: an efficient group enhanced unet for skin lesion segmentation</title>
-      <link>http://localhost:1313/publication/ruan2023egeunet/</link>
+      <link>https://sjtu-icat.github.io/publication/ruan2023egeunet/</link>
       <pubDate>Wed, 05 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ruan2023egeunet/</guid>
+      <guid>https://sjtu-icat.github.io/publication/ruan2023egeunet/</guid>
       <description></description>
     </item>
     
     <item>
       <title>LiveChat: A Large-Scale Personalized Dialogue Dataset Automatically Constructed from Live Streaming</title>
-      <link>http://localhost:1313/publication/gao2023livechat/</link>
+      <link>https://sjtu-icat.github.io/publication/gao2023livechat/</link>
       <pubDate>Mon, 05 Jun 2023 14:00:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/gao2023livechat/</guid>
+      <guid>https://sjtu-icat.github.io/publication/gao2023livechat/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DynaSlim: Dynamic Slimming for Vision Transformers</title>
-      <link>http://localhost:1313/publication/shi2023dynaslim/</link>
+      <link>https://sjtu-icat.github.io/publication/shi2023dynaslim/</link>
       <pubDate>Sun, 05 Mar 2023 14:00:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/shi2023dynaslim/</guid>
+      <guid>https://sjtu-icat.github.io/publication/shi2023dynaslim/</guid>
       <description></description>
     </item>
     

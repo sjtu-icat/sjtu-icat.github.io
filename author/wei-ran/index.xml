@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wei Ran | 智能计算机体系结构实验室</title>
+    <link>https://sjtu-icat.github.io/author/wei-ran/</link>
+      <atom:link href="https://sjtu-icat.github.io/author/wei-ran/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wei Ran</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2025 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Thu, 15 Feb 2024 14:00:05 +0800</lastBuildDate>
+    <image>
+      <url>https://sjtu-icat.github.io/media/logo.png</url>
+      <title>Wei Ran</title>
+      <link>https://sjtu-icat.github.io/author/wei-ran/</link>
+    </image>
+    
+    <item>
+      <title>Learning to Floorplan like Human Experts via Reinforcement Learning</title>
+      <link>https://sjtu-icat.github.io/publication/yan2024date/</link>
+      <pubDate>Thu, 15 Feb 2024 14:00:05 +0800</pubDate>
+      <guid>https://sjtu-icat.github.io/publication/yan2024date/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep multimodal representation learning for generalizable person re-identification</title>
+      <link>https://sjtu-icat.github.io/publication/xiang-2024-deep/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://sjtu-icat.github.io/publication/xiang-2024-deep/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

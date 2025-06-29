@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mengyuan-Guan | 智能计算机体系结构实验室</title>
-    <link>http://localhost:1313/author/mengyuan-guan/</link>
-      <atom:link href="http://localhost:1313/author/mengyuan-guan/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sjtu-icat.github.io/author/mengyuan-guan/</link>
+      <atom:link href="https://sjtu-icat.github.io/author/mengyuan-guan/index.xml" rel="self" type="application/rss+xml" />
     <description>Mengyuan-Guan</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2024 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Mon, 21 Jun 2021 10:30:00 +0800</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2025 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Mon, 21 Jun 2021 10:30:00 +0800</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/logo.png</url>
+      <url>https://sjtu-icat.github.io/media/logo.png</url>
       <title>Mengyuan-Guan</title>
-      <link>http://localhost:1313/author/mengyuan-guan/</link>
+      <link>https://sjtu-icat.github.io/author/mengyuan-guan/</link>
     </image>
     
     <item>
       <title>行人重识别</title>
-      <link>http://localhost:1313/project/reid/</link>
+      <link>https://sjtu-icat.github.io/project/reid/</link>
       <pubDate>Mon, 21 Jun 2021 10:30:00 +0800</pubDate>
-      <guid>http://localhost:1313/project/reid/</guid>
+      <guid>https://sjtu-icat.github.io/project/reid/</guid>
       <description>&lt;h3 id=&#34;背景介绍&#34;&gt;背景介绍&lt;/h3&gt;
 &lt;p&gt;行人重识别（Person re-identification, Re-ID)，也称为行人再识别或跨镜追踪；主要实现从一个摄像头捕获的目标行人，到其他不同摄像头检索是否存在相同行人，即进行跨摄像头检索。&lt;/p&gt;
 &lt;h3 id=&#34;应用场景&#34;&gt;应用场景&lt;/h3&gt;

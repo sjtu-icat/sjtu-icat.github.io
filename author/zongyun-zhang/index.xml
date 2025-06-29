@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zongyun Zhang | 智能计算机体系结构实验室</title>
+    <link>https://sjtu-icat.github.io/author/zongyun-zhang/</link>
+      <atom:link href="https://sjtu-icat.github.io/author/zongyun-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zongyun Zhang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2025 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Sat, 08 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sjtu-icat.github.io/media/logo.png</url>
+      <title>Zongyun Zhang</title>
+      <link>https://sjtu-icat.github.io/author/zongyun-zhang/</link>
+    </image>
+    
+    <item>
+      <title>EIAD: Explainable Industrial Anomaly Detection Via Multi-Modal Large Language Models</title>
+      <link>https://sjtu-icat.github.io/publication/zhang2025eiad/</link>
+      <pubDate>Sat, 08 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://sjtu-icat.github.io/publication/zhang2025eiad/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

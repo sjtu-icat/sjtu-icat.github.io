@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yangcheng Li | 智能计算机体系结构实验室</title>
-    <link>http://localhost:1313/author/yangcheng-li/</link>
-      <atom:link href="http://localhost:1313/author/yangcheng-li/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sjtu-icat.github.io/author/yangcheng-li/</link>
+      <atom:link href="https://sjtu-icat.github.io/author/yangcheng-li/index.xml" rel="self" type="application/rss+xml" />
     <description>Yangcheng Li</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2024 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Wed, 15 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2025 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Wed, 15 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/logo.png</url>
+      <url>https://sjtu-icat.github.io/media/logo.png</url>
       <title>Yangcheng Li</title>
-      <link>http://localhost:1313/author/yangcheng-li/</link>
+      <link>https://sjtu-icat.github.io/author/yangcheng-li/</link>
     </image>
     
     <item>
       <title>AV-TAD: Audio-Visual Temporal Action Detection with Transformer</title>
-      <link>http://localhost:1313/publication/li2023avtad/</link>
+      <link>https://sjtu-icat.github.io/publication/li2023avtad/</link>
       <pubDate>Wed, 15 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/li2023avtad/</guid>
+      <guid>https://sjtu-icat.github.io/publication/li2023avtad/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SynPose: A Large-scale and Densely Annotated Synthetic Dataset for Human Pose Estimation in Classroom</title>
-      <link>http://localhost:1313/publication/yu2022synthetic/</link>
+      <link>https://sjtu-icat.github.io/publication/yu2022synthetic/</link>
       <pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/yu2022synthetic/</guid>
+      <guid>https://sjtu-icat.github.io/publication/yu2022synthetic/</guid>
       <description></description>
     </item>
     

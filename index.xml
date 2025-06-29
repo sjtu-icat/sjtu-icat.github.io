@@ -2,173 +2,213 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>智能计算机体系结构实验室</title>
-    <link>http://localhost:1313/</link>
-      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sjtu-icat.github.io/</link>
+      <atom:link href="https://sjtu-icat.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>智能计算机体系结构实验室</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2024 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Thu, 05 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2025 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/logo.png</url>
+      <url>https://sjtu-icat.github.io/media/logo.png</url>
       <title>智能计算机体系结构实验室</title>
-      <link>http://localhost:1313/</link>
+      <link>https://sjtu-icat.github.io/</link>
     </image>
     
     <item>
+      <title>VLRMBench: A Comprehensive and Challenging Benchmark for Vision-Language Reward Models</title>
+      <link>https://sjtu-icat.github.io/publication/ruan2025vlrmbench/</link>
+      <pubDate>Sun, 29 Jun 2025 14:00:05 +0800</pubDate>
+      <guid>https://sjtu-icat.github.io/publication/ruan2025vlrmbench/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SmartRAG: Jointly Learn RAG-Related Tasks From the Environment Feedback</title>
+      <link>https://sjtu-icat.github.io/publication/gao2025smartrag/</link>
+      <pubDate>Sun, 06 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://sjtu-icat.github.io/publication/gao2025smartrag/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MM-CamObj: A Comprehensive Multimodal Dataset for Camouflaged Object Scenarios</title>
+      <link>https://sjtu-icat.github.io/publication/ruan2025camobj/</link>
+      <pubDate>Fri, 04 Apr 2025 14:00:05 +0800</pubDate>
+      <guid>https://sjtu-icat.github.io/publication/ruan2025camobj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EIAD: Explainable Industrial Anomaly Detection Via Multi-Modal Large Language Models</title>
+      <link>https://sjtu-icat.github.io/publication/zhang2025eiad/</link>
+      <pubDate>Sat, 08 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://sjtu-icat.github.io/publication/zhang2025eiad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>GIST: Improving Parameter Efficient Fine Tuning via Knowledge Interaction</title>
-      <link>http://localhost:1313/publication/ruan2024gist/</link>
+      <link>https://sjtu-icat.github.io/publication/ruan2024gist/</link>
       <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ruan2024gist/</guid>
+      <guid>https://sjtu-icat.github.io/publication/ruan2024gist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TTE: Two Tokens are Enough to Improve Parameter-Effcient Tuning</title>
+      <link>https://sjtu-icat.github.io/publication/ruan2025twotoken/</link>
+      <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://sjtu-icat.github.io/publication/ruan2025twotoken/</guid>
       <description></description>
     </item>
     
     <item>
       <title>From Raw Video to Pedagogical Insights: A Unified Framework for Student Behavior Analysis</title>
-      <link>http://localhost:1313/publication/yu2024raw/</link>
+      <link>https://sjtu-icat.github.io/publication/yu2024raw/</link>
       <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/yu2024raw/</guid>
+      <guid>https://sjtu-icat.github.io/publication/yu2024raw/</guid>
       <description></description>
     </item>
     
     <item>
       <title>LAMM: Label Alignment for Multi-Modal Prompt Learning</title>
-      <link>http://localhost:1313/publication/gao2024lamm/</link>
+      <link>https://sjtu-icat.github.io/publication/gao2024lamm/</link>
       <pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/gao2024lamm/</guid>
+      <guid>https://sjtu-icat.github.io/publication/gao2024lamm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Toward an end-to-end implicit addressee modeling for dialogue disentanglement</title>
-      <link>http://localhost:1313/publication/gao2024mta/</link>
+      <link>https://sjtu-icat.github.io/publication/gao2024mta/</link>
       <pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/gao2024mta/</guid>
+      <guid>https://sjtu-icat.github.io/publication/gao2024mta/</guid>
       <description></description>
     </item>
     
     <item>
       <title>面向公安AI智能接警大模型自动问答系统</title>
-      <link>http://localhost:1313/project/dialogue/</link>
+      <link>https://sjtu-icat.github.io/project/dialogue/</link>
       <pubDate>Tue, 23 Apr 2024 11:00:00 +0800</pubDate>
-      <guid>http://localhost:1313/project/dialogue/</guid>
+      <guid>https://sjtu-icat.github.io/project/dialogue/</guid>
       <description></description>
     </item>
     
     <item>
       <title>iDAT: inverse Distillation Adapter-Tuning</title>
-      <link>http://localhost:1313/publication/ruan2024idat/</link>
+      <link>https://sjtu-icat.github.io/publication/ruan2024idat/</link>
       <pubDate>Wed, 03 Apr 2024 14:00:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/ruan2024idat/</guid>
+      <guid>https://sjtu-icat.github.io/publication/ruan2024idat/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Toward an end-to-end implicit addressee modeling for dialogue disentanglement</title>
-      <link>http://localhost:1313/publication/li2024clapp/</link>
+      <link>https://sjtu-icat.github.io/publication/li2024clapp/</link>
       <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/li2024clapp/</guid>
+      <guid>https://sjtu-icat.github.io/publication/li2024clapp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Editing outdoor scenes with a large annotated synthetic dataset</title>
-      <link>http://localhost:1313/publication/xie2024mta/</link>
+      <link>https://sjtu-icat.github.io/publication/xie2024mta/</link>
       <pubDate>Sat, 02 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/xie2024mta/</guid>
+      <guid>https://sjtu-icat.github.io/publication/xie2024mta/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning to Floorplan like Human Experts via Reinforcement Learning</title>
-      <link>http://localhost:1313/publication/yan2024date/</link>
+      <link>https://sjtu-icat.github.io/publication/yan2024date/</link>
       <pubDate>Thu, 15 Feb 2024 14:00:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/yan2024date/</guid>
+      <guid>https://sjtu-icat.github.io/publication/yan2024date/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep multimodal representation learning for generalizable person re-identification</title>
-      <link>http://localhost:1313/publication/xiang-2024-deep/</link>
+      <link>https://sjtu-icat.github.io/publication/xiang-2024-deep/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/xiang-2024-deep/</guid>
+      <guid>https://sjtu-icat.github.io/publication/xiang-2024-deep/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rethinking person re-identification via semantic-based pretraining</title>
-      <link>http://localhost:1313/publication/xiang-2024-rethink/</link>
+      <link>https://sjtu-icat.github.io/publication/xiang-2024-rethink/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/xiang-2024-rethink/</guid>
+      <guid>https://sjtu-icat.github.io/publication/xiang-2024-rethink/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ege-unet: an efficient group enhanced unet for skin lesion segmentation</title>
-      <link>http://localhost:1313/publication/ruan2023egeunet/</link>
+      <link>https://sjtu-icat.github.io/publication/ruan2023egeunet/</link>
       <pubDate>Wed, 05 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ruan2023egeunet/</guid>
+      <guid>https://sjtu-icat.github.io/publication/ruan2023egeunet/</guid>
       <description></description>
     </item>
     
     <item>
       <title>LiveChat: A Large-Scale Personalized Dialogue Dataset Automatically Constructed from Live Streaming</title>
-      <link>http://localhost:1313/publication/gao2023livechat/</link>
+      <link>https://sjtu-icat.github.io/publication/gao2023livechat/</link>
       <pubDate>Mon, 05 Jun 2023 14:00:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/gao2023livechat/</guid>
+      <guid>https://sjtu-icat.github.io/publication/gao2023livechat/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DynaSlim: Dynamic Slimming for Vision Transformers</title>
-      <link>http://localhost:1313/publication/shi2023dynaslim/</link>
+      <link>https://sjtu-icat.github.io/publication/shi2023dynaslim/</link>
       <pubDate>Sun, 05 Mar 2023 14:00:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/shi2023dynaslim/</guid>
+      <guid>https://sjtu-icat.github.io/publication/shi2023dynaslim/</guid>
       <description></description>
     </item>
     
     <item>
       <title>基于人工智能的floorplan自动生成与量化评价算法</title>
-      <link>http://localhost:1313/project/floorpan/</link>
+      <link>https://sjtu-icat.github.io/project/floorpan/</link>
       <pubDate>Tue, 21 Feb 2023 11:00:00 +0800</pubDate>
-      <guid>http://localhost:1313/project/floorpan/</guid>
+      <guid>https://sjtu-icat.github.io/project/floorpan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AV-TAD: Audio-Visual Temporal Action Detection with Transformer</title>
-      <link>http://localhost:1313/publication/li2023avtad/</link>
+      <link>https://sjtu-icat.github.io/publication/li2023avtad/</link>
       <pubDate>Wed, 15 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/li2023avtad/</guid>
+      <guid>https://sjtu-icat.github.io/publication/li2023avtad/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CC-PoseNet: Towards human pose estimation in crowded classrooms</title>
-      <link>http://localhost:1313/publication/yu2023ccposenet/</link>
+      <link>https://sjtu-icat.github.io/publication/yu2023ccposenet/</link>
       <pubDate>Wed, 15 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/yu2023ccposenet/</guid>
+      <guid>https://sjtu-icat.github.io/publication/yu2023ccposenet/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MALUNet: A Multi-Attention and Light-weight UNet for Skin Lesion Segmentation</title>
-      <link>http://localhost:1313/publication/ruan2022malunet/</link>
+      <link>https://sjtu-icat.github.io/publication/ruan2022malunet/</link>
       <pubDate>Thu, 20 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ruan2022malunet/</guid>
+      <guid>https://sjtu-icat.github.io/publication/ruan2022malunet/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spatial Attention Guided Local Facial Attribute Editing</title>
-      <link>http://localhost:1313/publication/xie2022spatial/</link>
+      <link>https://sjtu-icat.github.io/publication/xie2022spatial/</link>
       <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/xie2022spatial/</guid>
+      <guid>https://sjtu-icat.github.io/publication/xie2022spatial/</guid>
       <description></description>
     </item>
     
     <item>
       <title>2022春 实验室任务规划</title>
-      <link>http://localhost:1313/post/22-02-14-semester-task/</link>
+      <link>https://sjtu-icat.github.io/post/22-02-14-semester-task/</link>
       <pubDate>Mon, 14 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/22-02-14-semester-task/</guid>
+      <guid>https://sjtu-icat.github.io/post/22-02-14-semester-task/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;本科生课程《人工智能硬件综合实践课程》&lt;/p&gt;
@@ -184,33 +224,33 @@
     
     <item>
       <title>2022年上半年论文列表</title>
-      <link>http://localhost:1313/post/22-02-01-confence-list/</link>
+      <link>https://sjtu-icat.github.io/post/22-02-01-confence-list/</link>
       <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/22-02-01-confence-list/</guid>
+      <guid>https://sjtu-icat.github.io/post/22-02-01-confence-list/</guid>
       <description>&lt;p&gt;列表待更新&amp;hellip;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>GOS: A Large-Scale Annotated Outdoor Scene Synthetic Dataset</title>
-      <link>http://localhost:1313/publication/xie2022gos/</link>
+      <link>https://sjtu-icat.github.io/publication/xie2022gos/</link>
       <pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/xie2022gos/</guid>
+      <guid>https://sjtu-icat.github.io/publication/xie2022gos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SynPose: A Large-scale and Densely Annotated Synthetic Dataset for Human Pose Estimation in Classroom</title>
-      <link>http://localhost:1313/publication/yu2022synthetic/</link>
+      <link>https://sjtu-icat.github.io/publication/yu2022synthetic/</link>
       <pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/yu2022synthetic/</guid>
+      <guid>https://sjtu-icat.github.io/publication/yu2022synthetic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>祝贺实验室两篇论文被ICASSP 2022接收</title>
-      <link>http://localhost:1313/post/22-01-22-paper-accepted/</link>
+      <link>https://sjtu-icat.github.io/post/22-01-22-paper-accepted/</link>
       <pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/22-01-22-paper-accepted/</guid>
+      <guid>https://sjtu-icat.github.io/post/22-01-22-paper-accepted/</guid>
       <description>&lt;p&gt;祝贺&lt;/p&gt;
 &lt;p&gt;谢铭烨同学的论文&amp;quot;GOS: A Large-Scale Annotated Outdoor Scene Synthetic Dataset&amp;quot; 和&lt;/p&gt;
 &lt;p&gt;于泽芳同学的论文&amp;quot;SynPose: A Large-Scale and Densely Annotated Synthtic Dataset for Human Pose Estimation in Classroom&amp;quot;&lt;/p&gt;
@@ -220,41 +260,41 @@
     
     <item>
       <title>面向水声目标识别的深度学习网络快速在线学习方法</title>
-      <link>http://localhost:1313/project/water/</link>
+      <link>https://sjtu-icat.github.io/project/water/</link>
       <pubDate>Fri, 21 Jan 2022 11:00:00 +0800</pubDate>
-      <guid>http://localhost:1313/project/water/</guid>
+      <guid>https://sjtu-icat.github.io/project/water/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DFFCN: Dual Flow Fusion Convolutional Network for Micro Expression Recognition</title>
-      <link>http://localhost:1313/publication/chen2021dffcn/</link>
+      <link>https://sjtu-icat.github.io/publication/chen2021dffcn/</link>
       <pubDate>Sun, 05 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/chen2021dffcn/</guid>
+      <guid>https://sjtu-icat.github.io/publication/chen2021dffcn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dynamic Channel Pruning for Real-Time Object Detection Networks</title>
-      <link>http://localhost:1313/publication/jin2021dynamic/</link>
+      <link>https://sjtu-icat.github.io/publication/jin2021dynamic/</link>
       <pubDate>Thu, 02 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/jin2021dynamic/</guid>
+      <guid>https://sjtu-icat.github.io/publication/jin2021dynamic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Improving Abstractive Dialogue Summarization with Hierarchical Pretraining and Topic Segment</title>
-      <link>http://localhost:1313/publication/qi2021improving/</link>
+      <link>https://sjtu-icat.github.io/publication/qi2021improving/</link>
       <pubDate>Tue, 30 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/qi2021improving/</guid>
+      <guid>https://sjtu-icat.github.io/publication/qi2021improving/</guid>
       <description></description>
     </item>
     
     <item>
       <title>2021年下半年论文列表</title>
-      <link>http://localhost:1313/post/21-07-01-confence-list/</link>
+      <link>https://sjtu-icat.github.io/post/21-07-01-confence-list/</link>
       <pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/21-07-01-confence-list/</guid>
+      <guid>https://sjtu-icat.github.io/post/21-07-01-confence-list/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;AAAI: AAAI Conference on Artificial Intelligence&lt;/strong&gt;
 &lt;ul&gt;
@@ -305,9 +345,9 @@
     
     <item>
       <title>大学生课堂参与度的人工智能实时智慧评价关键技术研究</title>
-      <link>http://localhost:1313/project/education/</link>
+      <link>https://sjtu-icat.github.io/project/education/</link>
       <pubDate>Mon, 21 Jun 2021 11:00:00 +0800</pubDate>
-      <guid>http://localhost:1313/project/education/</guid>
+      <guid>https://sjtu-icat.github.io/project/education/</guid>
       <description>&lt;h3 id=&#34;背景介绍&#34;&gt;背景介绍&lt;/h3&gt;
 &lt;p&gt;我国教育部于 2004 年启动“高等学校教学质量与教学改革工程”，在 2007年全面实施该工程，并启动了人才培养数据库及预测机制研究项目。十九大也进一步提出要实现高等教育内涵式发展，提升教育质量成为高等教育内涵式发展的第一要务。本项目从教育评价经典理论出发，探究了机器视觉和自然语言处理等领域最新人工智能技术在大学课堂学生参与行为的表征建模和分析报告生成等关键任务中的应用范式。&lt;/p&gt;
 &lt;h3 id=&#34;应用场景和方案&#34;&gt;应用场景和方案&lt;/h3&gt;
@@ -319,9 +359,9 @@
     
     <item>
       <title>深度学习压缩剪枝算法研究与应用</title>
-      <link>http://localhost:1313/project/compress/</link>
+      <link>https://sjtu-icat.github.io/project/compress/</link>
       <pubDate>Mon, 21 Jun 2021 11:00:00 +0800</pubDate>
-      <guid>http://localhost:1313/project/compress/</guid>
+      <guid>https://sjtu-icat.github.io/project/compress/</guid>
       <description>&lt;h3 id=&#34;背景介绍&#34;&gt;背景介绍&lt;/h3&gt;
 &lt;p&gt;尽管深度学习算法模型性能强大，然而由于其参数量多、运行所需要的算力极其庞大，使得深度学习网络难以在存储资源或计算资源受限的平台上部署运行，只能部署在GPU等硬件设备上进行加速计算。这样的特点大大限制了其应用场景，要求我们对深度学习网络模型进行优化和压缩，减少其对资源的需求，以便灵活部署到低资源的硬件平台中。&lt;/p&gt;
 &lt;h3 id=&#34;应用场景&#34;&gt;应用场景&lt;/h3&gt;
@@ -370,9 +410,9 @@
     
     <item>
       <title>基于GAN的图片属性编辑</title>
-      <link>http://localhost:1313/project/gan-editing/</link>
+      <link>https://sjtu-icat.github.io/project/gan-editing/</link>
       <pubDate>Mon, 21 Jun 2021 10:35:00 +0800</pubDate>
-      <guid>http://localhost:1313/project/gan-editing/</guid>
+      <guid>https://sjtu-icat.github.io/project/gan-editing/</guid>
       <description>&lt;h3 id=&#34;背景介绍&#34;&gt;背景介绍&lt;/h3&gt;
 &lt;p&gt;生成对抗网络（Generative Adversarial Networks， GAN）由两个基础神经网络即生成器（Generator）和判别器（Discriminator）所组成，其中一个用于生成内容，另一个则用于判别生成的内容。GAN能够学习数据集内的特征，进而生成逼近真实数据的高质量的图片。&lt;/p&gt;
 &lt;p&gt;GAN在图像合成领域的应用已经十分广泛。近期的一些研究表明，在学习合成图像时，GAN 会自发地在隐空间（latent space）中表示出多种可解释属性，如用于人脸合成的性别特征、用于场景合成的光照条件。通过正确识别这些语义，我们可以将 GAN 学习到的知识重新利用，合理地控制图像生成过程，从而实现图像编辑功能的更广泛应用，如人脸操纵和场景编辑。&lt;/p&gt;
@@ -467,9 +507,9 @@
     
     <item>
       <title>行人重识别</title>
-      <link>http://localhost:1313/project/reid/</link>
+      <link>https://sjtu-icat.github.io/project/reid/</link>
       <pubDate>Mon, 21 Jun 2021 10:30:00 +0800</pubDate>
-      <guid>http://localhost:1313/project/reid/</guid>
+      <guid>https://sjtu-icat.github.io/project/reid/</guid>
       <description>&lt;h3 id=&#34;背景介绍&#34;&gt;背景介绍&lt;/h3&gt;
 &lt;p&gt;行人重识别（Person re-identification, Re-ID)，也称为行人再识别或跨镜追踪；主要实现从一个摄像头捕获的目标行人，到其他不同摄像头检索是否存在相同行人，即进行跨摄像头检索。&lt;/p&gt;
 &lt;h3 id=&#34;应用场景&#34;&gt;应用场景&lt;/h3&gt;
@@ -521,17 +561,17 @@
     
     <item>
       <title>Attention Based Facial Expression Manipulation</title>
-      <link>http://localhost:1313/publication/wang2021attention/</link>
+      <link>https://sjtu-icat.github.io/publication/wang2021attention/</link>
       <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/wang2021attention/</guid>
+      <guid>https://sjtu-icat.github.io/publication/wang2021attention/</guid>
       <description></description>
     </item>
     
     <item>
       <title>招收2022级硕士研究生</title>
-      <link>http://localhost:1313/post/21-06-21-recruit/</link>
+      <link>https://sjtu-icat.github.io/post/21-06-21-recruit/</link>
       <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/21-06-21-recruit/</guid>
+      <guid>https://sjtu-icat.github.io/post/21-06-21-recruit/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://mp.weixin.qq.com/s/9EzRluUhheKG1JvmhEBZ4A&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;上海交通大学微纳电子学系2022级 直硕/直博 研究生优才夏令营通知&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;报名时间：即日起至2021年6月28日&lt;/p&gt;
 &lt;p&gt;欢迎广大学子报考iCAT实验室！&lt;/p&gt;</description>
@@ -539,18 +579,18 @@
     
     <item>
       <title>iCAT主页启动</title>
-      <link>http://localhost:1313/post/21-03-18-homepage-start/</link>
+      <link>https://sjtu-icat.github.io/post/21-03-18-homepage-start/</link>
       <pubDate>Thu, 18 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/21-03-18-homepage-start/</guid>
+      <guid>https://sjtu-icat.github.io/post/21-03-18-homepage-start/</guid>
       <description>&lt;p&gt;庆祝iCAT主页重新启动！
 请实验室各位成员及时补充个人相关信息！&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>博士组会汇报</title>
-      <link>http://localhost:1313/event/21-03-09-phd-pre/</link>
+      <link>https://sjtu-icat.github.io/event/21-03-09-phd-pre/</link>
       <pubDate>Tue, 09 Mar 2021 13:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/21-03-09-phd-pre/</guid>
+      <guid>https://sjtu-icat.github.io/event/21-03-09-phd-pre/</guid>
       <description>&lt;p&gt;生成器：利用随机采样的隐空间编码生成真实度极高的合成图片，例如StyleGAN等&lt;/p&gt;
 &lt;p&gt;编码器：将真实图片转换为隐空间编码，以便于后续的编辑和生成&lt;/p&gt;
 &lt;p&gt;预测器：判断生成图片的语义信息，例如人物的性别、是否微笑等&lt;/p&gt;
@@ -560,9 +600,9 @@
     
     <item>
       <title>2021年上半年论文列表</title>
-      <link>http://localhost:1313/post/21-03-01-confence-list/</link>
+      <link>https://sjtu-icat.github.io/post/21-03-01-confence-list/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/21-03-01-confence-list/</guid>
+      <guid>https://sjtu-icat.github.io/post/21-03-01-confence-list/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;International Conference on Multimodla Interaction (ICMI)&lt;/p&gt;
@@ -591,26 +631,26 @@
     
     <item>
       <title>祝贺向孙程同学的论文被ICASSP&#39;21录用</title>
-      <link>http://localhost:1313/post/20-12-02-paper-accepted/</link>
+      <link>https://sjtu-icat.github.io/post/20-12-02-paper-accepted/</link>
       <pubDate>Thu, 28 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/20-12-02-paper-accepted/</guid>
+      <guid>https://sjtu-icat.github.io/post/20-12-02-paper-accepted/</guid>
       <description>&lt;p&gt;祝贺向孙程同学的论文&amp;quot;Taking a Closer Look at Synthesis: Fine-grained Attribute Analysis for Person Re-Identification&amp;quot;被ICASSP&#39;21所录用！&lt;/p&gt;
 &lt;p&gt;该会议属于CCF B类会议。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Taking A Closer Look at Synthesis: Fine-Grained Attribute Analysis for Person Re-Identification</title>
-      <link>http://localhost:1313/publication/xiang-2021-taking/</link>
+      <link>https://sjtu-icat.github.io/publication/xiang-2021-taking/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/xiang-2021-taking/</guid>
+      <guid>https://sjtu-icat.github.io/publication/xiang-2021-taking/</guid>
       <description></description>
     </item>
     
     <item>
       <title>实验室服务器使用说明</title>
-      <link>http://localhost:1313/post/21-01-01-server-usage/</link>
+      <link>https://sjtu-icat.github.io/post/21-01-01-server-usage/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/21-01-01-server-usage/</guid>
+      <guid>https://sjtu-icat.github.io/post/21-01-01-server-usage/</guid>
       <description>&lt;p&gt;使用服务器时请自觉遵守使用说明！&lt;/p&gt;
 &lt;h3 id=&#34;服务器种类&#34;&gt;服务器种类&lt;/h3&gt;
 &lt;ul&gt;
@@ -663,57 +703,57 @@ Tensorflow&amp;gt;=2.4.0
     
     <item>
       <title>Attribute analysis with synthetic dataset for person re-identification</title>
-      <link>http://localhost:1313/publication/xiang-2020-attribute/</link>
+      <link>https://sjtu-icat.github.io/publication/xiang-2020-attribute/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/xiang-2020-attribute/</guid>
+      <guid>https://sjtu-icat.github.io/publication/xiang-2020-attribute/</guid>
       <description></description>
     </item>
     
     <item>
       <title>基于Intel FPGA技术的合作项目开发</title>
-      <link>http://localhost:1313/project/intel/</link>
+      <link>https://sjtu-icat.github.io/project/intel/</link>
       <pubDate>Mon, 21 Jan 2019 11:00:00 +0800</pubDate>
-      <guid>http://localhost:1313/project/intel/</guid>
+      <guid>https://sjtu-icat.github.io/project/intel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep unsupervised progressive learning for distant domain adaptation</title>
-      <link>http://localhost:1313/publication/xiang-2019-deep/</link>
+      <link>https://sjtu-icat.github.io/publication/xiang-2019-deep/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/xiang-2019-deep/</guid>
+      <guid>https://sjtu-icat.github.io/publication/xiang-2019-deep/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:1313/admin/config.yml</link>
+      <link>https://sjtu-icat.github.io/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/admin/config.yml</guid>
+      <guid>https://sjtu-icat.github.io/admin/config.yml</guid>
       <description></description>
     </item>
     
     <item>
       <title>关于我们</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://sjtu-icat.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://sjtu-icat.github.io/about/</guid>
       <description></description>
     </item>
     
     <item>
       <title>实验室项目</title>
-      <link>http://localhost:1313/projects/</link>
+      <link>https://sjtu-icat.github.io/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/</guid>
+      <guid>https://sjtu-icat.github.io/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>团队成员</title>
-      <link>http://localhost:1313/people/</link>
+      <link>https://sjtu-icat.github.io/people/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/people/</guid>
+      <guid>https://sjtu-icat.github.io/people/</guid>
       <description></description>
     </item>
     

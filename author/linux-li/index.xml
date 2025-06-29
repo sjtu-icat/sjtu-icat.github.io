@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linux Li | 智能计算机体系结构实验室</title>
+    <link>https://sjtu-icat.github.io/author/linux-li/</link>
+      <atom:link href="https://sjtu-icat.github.io/author/linux-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Linux Li</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2025 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Sun, 06 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sjtu-icat.github.io/media/logo.png</url>
+      <title>Linux Li</title>
+      <link>https://sjtu-icat.github.io/author/linux-li/</link>
+    </image>
+    
+    <item>
+      <title>SmartRAG: Jointly Learn RAG-Related Tasks From the Environment Feedback</title>
+      <link>https://sjtu-icat.github.io/publication/gao2025smartrag/</link>
+      <pubDate>Sun, 06 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://sjtu-icat.github.io/publication/gao2025smartrag/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>胡燕萍 | 智能计算机体系结构实验室</title>
-    <link>http://localhost:1313/author/%E8%83%A1%E7%87%95%E8%90%8D/</link>
-      <atom:link href="http://localhost:1313/author/%E8%83%A1%E7%87%95%E8%90%8D/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sjtu-icat.github.io/author/%E8%83%A1%E7%87%95%E8%90%8D/</link>
+      <atom:link href="https://sjtu-icat.github.io/author/%E8%83%A1%E7%87%95%E8%90%8D/index.xml" rel="self" type="application/rss+xml" />
     <description>胡燕萍</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2024 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Wed, 15 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2025 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Wed, 15 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/author/%E8%83%A1%E7%87%95%E8%90%8D/avatar_hu15f8d2ed18d02645d394e76351147b31_1342767_270x270_fill_lanczos_center_3.png</url>
+      <url>https://sjtu-icat.github.io/author/%E8%83%A1%E7%87%95%E8%90%8D/avatar_hu15f8d2ed18d02645d394e76351147b31_1342767_270x270_fill_lanczos_center_3.png</url>
       <title>胡燕萍</title>
-      <link>http://localhost:1313/author/%E8%83%A1%E7%87%95%E8%90%8D/</link>
+      <link>https://sjtu-icat.github.io/author/%E8%83%A1%E7%87%95%E8%90%8D/</link>
     </image>
     
     <item>
       <title>CC-PoseNet: Towards human pose estimation in crowded classrooms</title>
-      <link>http://localhost:1313/publication/yu2023ccposenet/</link>
+      <link>https://sjtu-icat.github.io/publication/yu2023ccposenet/</link>
       <pubDate>Wed, 15 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/yu2023ccposenet/</guid>
+      <guid>https://sjtu-icat.github.io/publication/yu2023ccposenet/</guid>
       <description></description>
     </item>
     
     <item>
       <title>胡燕萍</title>
-      <link>http://localhost:1313/author/%E8%83%A1%E7%87%95%E8%90%8D/</link>
+      <link>https://sjtu-icat.github.io/author/%E8%83%A1%E7%87%95%E8%90%8D/</link>
       <pubDate>Wed, 15 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/author/%E8%83%A1%E7%87%95%E8%90%8D/</guid>
+      <guid>https://sjtu-icat.github.io/author/%E8%83%A1%E7%87%95%E8%90%8D/</guid>
       <description>&lt;p&gt;Need to fill the bio&amp;hellip;&lt;/p&gt;
 </description>
     </item>

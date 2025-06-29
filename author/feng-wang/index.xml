@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Feng Wang | 智能计算机体系结构实验室</title>
-    <link>http://localhost:1313/author/feng-wang/</link>
-      <atom:link href="http://localhost:1313/author/feng-wang/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sjtu-icat.github.io/author/feng-wang/</link>
+      <atom:link href="https://sjtu-icat.github.io/author/feng-wang/index.xml" rel="self" type="application/rss+xml" />
     <description>Feng Wang</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2024 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Sun, 06 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2025 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Sun, 06 Mar 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/logo.png</url>
+      <url>https://sjtu-icat.github.io/media/logo.png</url>
       <title>Feng Wang</title>
-      <link>http://localhost:1313/author/feng-wang/</link>
+      <link>https://sjtu-icat.github.io/author/feng-wang/</link>
     </image>
     
     <item>
       <title>Spatial Attention Guided Local Facial Attribute Editing</title>
-      <link>http://localhost:1313/publication/xie2022spatial/</link>
+      <link>https://sjtu-icat.github.io/publication/xie2022spatial/</link>
       <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/xie2022spatial/</guid>
+      <guid>https://sjtu-icat.github.io/publication/xie2022spatial/</guid>
       <description></description>
     </item>
     
     <item>
       <title>基于GAN的图片属性编辑</title>
-      <link>http://localhost:1313/project/gan-editing/</link>
+      <link>https://sjtu-icat.github.io/project/gan-editing/</link>
       <pubDate>Mon, 21 Jun 2021 10:35:00 +0800</pubDate>
-      <guid>http://localhost:1313/project/gan-editing/</guid>
+      <guid>https://sjtu-icat.github.io/project/gan-editing/</guid>
       <description>&lt;h3 id=&#34;背景介绍&#34;&gt;背景介绍&lt;/h3&gt;
 &lt;p&gt;生成对抗网络（Generative Adversarial Networks， GAN）由两个基础神经网络即生成器（Generator）和判别器（Discriminator）所组成，其中一个用于生成内容，另一个则用于判别生成的内容。GAN能够学习数据集内的特征，进而生成逼近真实数据的高质量的图片。&lt;/p&gt;
 &lt;p&gt;GAN在图像合成领域的应用已经十分广泛。近期的一些研究表明，在学习合成图像时，GAN 会自发地在隐空间（latent space）中表示出多种可解释属性，如用于人脸合成的性别特征、用于场景合成的光照条件。通过正确识别这些语义，我们可以将 GAN 学习到的知识重新利用，合理地控制图像生成过程，从而实现图像编辑功能的更广泛应用，如人脸操纵和场景编辑。&lt;/p&gt;
@@ -119,9 +119,9 @@
     
     <item>
       <title>Attention Based Facial Expression Manipulation</title>
-      <link>http://localhost:1313/publication/wang2021attention/</link>
+      <link>https://sjtu-icat.github.io/publication/wang2021attention/</link>
       <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/wang2021attention/</guid>
+      <guid>https://sjtu-icat.github.io/publication/wang2021attention/</guid>
       <description></description>
     </item>
     

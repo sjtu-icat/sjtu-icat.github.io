@@ -2,21 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yixin Lian | 智能计算机体系结构实验室</title>
-    <link>http://localhost:1313/author/yixin-lian/</link>
-      <atom:link href="http://localhost:1313/author/yixin-lian/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sjtu-icat.github.io/author/yixin-lian/</link>
+      <atom:link href="https://sjtu-icat.github.io/author/yixin-lian/index.xml" rel="self" type="application/rss+xml" />
     <description>Yixin Lian</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2024 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Mon, 05 Jun 2023 14:00:05 +0800</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2025 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Sun, 06 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/logo.png</url>
+      <url>https://sjtu-icat.github.io/media/logo.png</url>
       <title>Yixin Lian</title>
-      <link>http://localhost:1313/author/yixin-lian/</link>
+      <link>https://sjtu-icat.github.io/author/yixin-lian/</link>
     </image>
     
     <item>
+      <title>SmartRAG: Jointly Learn RAG-Related Tasks From the Environment Feedback</title>
+      <link>https://sjtu-icat.github.io/publication/gao2025smartrag/</link>
+      <pubDate>Sun, 06 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://sjtu-icat.github.io/publication/gao2025smartrag/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>LiveChat: A Large-Scale Personalized Dialogue Dataset Automatically Constructed from Live Streaming</title>
-      <link>http://localhost:1313/publication/gao2023livechat/</link>
+      <link>https://sjtu-icat.github.io/publication/gao2023livechat/</link>
       <pubDate>Mon, 05 Jun 2023 14:00:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/gao2023livechat/</guid>
+      <guid>https://sjtu-icat.github.io/publication/gao2023livechat/</guid>
       <description></description>
     </item>
     

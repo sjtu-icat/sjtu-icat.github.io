@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zirui Zhang | 智能计算机体系结构实验室</title>
-    <link>http://localhost:1313/author/zirui-zhang/</link>
-      <atom:link href="http://localhost:1313/author/zirui-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sjtu-icat.github.io/author/zirui-zhang/</link>
+      <atom:link href="https://sjtu-icat.github.io/author/zirui-zhang/index.xml" rel="self" type="application/rss+xml" />
     <description>Zirui Zhang</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2024 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2025 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/logo.png</url>
+      <url>https://sjtu-icat.github.io/media/logo.png</url>
       <title>Zirui Zhang</title>
-      <link>http://localhost:1313/author/zirui-zhang/</link>
+      <link>https://sjtu-icat.github.io/author/zirui-zhang/</link>
     </image>
     
     <item>
       <title>Rethinking person re-identification via semantic-based pretraining</title>
-      <link>http://localhost:1313/publication/xiang-2024-rethink/</link>
+      <link>https://sjtu-icat.github.io/publication/xiang-2024-rethink/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/xiang-2024-rethink/</guid>
+      <guid>https://sjtu-icat.github.io/publication/xiang-2024-rethink/</guid>
       <description></description>
     </item>
     

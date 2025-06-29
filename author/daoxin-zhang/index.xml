@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daoxin Zhang | 智能计算机体系结构实验室</title>
+    <link>https://sjtu-icat.github.io/author/daoxin-zhang/</link>
+      <atom:link href="https://sjtu-icat.github.io/author/daoxin-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Daoxin Zhang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2025 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Sun, 29 Jun 2025 14:00:05 +0800</lastBuildDate>
+    <image>
+      <url>https://sjtu-icat.github.io/media/logo.png</url>
+      <title>Daoxin Zhang</title>
+      <link>https://sjtu-icat.github.io/author/daoxin-zhang/</link>
+    </image>
+    
+    <item>
+      <title>VLRMBench: A Comprehensive and Challenging Benchmark for Vision-Language Reward Models</title>
+      <link>https://sjtu-icat.github.io/publication/ruan2025vlrmbench/</link>
+      <pubDate>Sun, 29 Jun 2025 14:00:05 +0800</pubDate>
+      <guid>https://sjtu-icat.github.io/publication/ruan2025vlrmbench/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
