@@ -5,7 +5,7 @@
     <link>https://sjtu-icat.github.io/author/%E8%B0%A2%E9%93%AD%E7%83%A8/</link>
       <atom:link href="https://sjtu-icat.github.io/author/%E8%B0%A2%E9%93%AD%E7%83%A8/index.xml" rel="self" type="application/rss+xml" />
     <description>谢铭烨</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2025 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Thu, 05 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2025 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Thu, 22 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sjtu-icat.github.io/author/%E8%B0%A2%E9%93%AD%E7%83%A8/avatar_hu81c498ad0f00739897f18148bb43495e_128360_270x270_fill_q75_lanczos_center.jpg</url>
       <title>谢铭烨</title>
@@ -15,13 +15,21 @@
     <item>
       <title>谢铭烨</title>
       <link>https://sjtu-icat.github.io/author/%E8%B0%A2%E9%93%AD%E7%83%A8/</link>
-      <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate>
       <guid>https://sjtu-icat.github.io/author/%E8%B0%A2%E9%93%AD%E7%83%A8/</guid>
       <description>&lt;p&gt;I have received the B. Sc. degree from East China Normal University, China, in 2016, the M. Eng. Degree in electronics and communications engineering from East China Normal University, China, in 2019.&lt;/p&gt;
 &lt;p&gt;I am currently pursing Ph. D. degree in computer science and technology from Shanghai Jiao Tong University, China.&lt;/p&gt;
 &lt;p&gt;My research interests include Generative Adversial Network (GAN) and model compressing.&lt;/p&gt;
 &lt;p&gt;Further information can check my Homepage.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Unnoticed Yet Effective: A Hybrid Physical Camouflage Framework Against DNNs and Human Perception</title>
+      <link>https://sjtu-icat.github.io/publication/xie2025unn/</link>
+      <pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://sjtu-icat.github.io/publication/xie2025unn/</guid>
+      <description></description>
     </item>
     
     <item>

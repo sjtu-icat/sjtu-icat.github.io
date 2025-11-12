@@ -5,7 +5,7 @@
     <link>https://sjtu-icat.github.io/author/%E9%AB%98%E6%99%AF%E7%9B%9B/</link>
       <atom:link href="https://sjtu-icat.github.io/author/%E9%AB%98%E6%99%AF%E7%9B%9B/index.xml" rel="self" type="application/rss+xml" />
     <description>高景盛</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2025 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Sun, 06 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2025 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Mon, 06 Oct 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sjtu-icat.github.io/author/%E9%AB%98%E6%99%AF%E7%9B%9B/avatar_hucbd1ba237f0ac81ad9631b84775018a8_165167_270x270_fill_q75_lanczos_center.jpg</url>
       <title>高景盛</title>
@@ -15,12 +15,20 @@
     <item>
       <title>高景盛</title>
       <link>https://sjtu-icat.github.io/author/%E9%AB%98%E6%99%AF%E7%9B%9B/</link>
-      <pubDate>Sun, 06 Apr 2025 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
       <guid>https://sjtu-icat.github.io/author/%E9%AB%98%E6%99%AF%E7%9B%9B/</guid>
       <description>&lt;p&gt;​ I am a first-year PhD student at SJTU EECS, advised by Prof. Yuzhuo Fu. Previously, I obtained my bachelor&amp;rsquo;s degree from school of Physics and Astromony, Shanghai Jiaotong University.&lt;/p&gt;
 &lt;p&gt;​ I completed my undergraduate graduation project using different kinds of  U-nets, which is a astronomical task called extracting weak gravitational lens in CMB. Also, I have ever practiced in a medical company which is established by Fosun. During my first year, I have tried some projects on document understanding, like seal extraction and tabel detection.&lt;/p&gt;
 &lt;p&gt;​ In the future, I will mainly put my attention on computer version and try to catch the future development of machine learning.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>DiverSeed: Integrating Active Learning for Target Domain Data Generation in Instruction Tuning</title>
+      <link>https://sjtu-icat.github.io/publication/gao2025diverseed/</link>
+      <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://sjtu-icat.github.io/publication/gao2025diverseed/</guid>
+      <description></description>
     </item>
     
     <item>

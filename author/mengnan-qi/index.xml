@@ -5,12 +5,20 @@
     <link>https://sjtu-icat.github.io/author/mengnan-qi/</link>
       <atom:link href="https://sjtu-icat.github.io/author/mengnan-qi/index.xml" rel="self" type="application/rss+xml" />
     <description>Mengnan Qi</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2025 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Tue, 30 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2025 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Mon, 06 Oct 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sjtu-icat.github.io/media/logo.png</url>
       <title>Mengnan Qi</title>
       <link>https://sjtu-icat.github.io/author/mengnan-qi/</link>
     </image>
+    
+    <item>
+      <title>DiverSeed: Integrating Active Learning for Target Domain Data Generation in Instruction Tuning</title>
+      <link>https://sjtu-icat.github.io/publication/gao2025diverseed/</link>
+      <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://sjtu-icat.github.io/publication/gao2025diverseed/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Improving Abstractive Dialogue Summarization with Hierarchical Pretraining and Topic Segment</title>

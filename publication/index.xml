@@ -5,12 +5,36 @@
     <link>https://sjtu-icat.github.io/publication/</link>
       <atom:link href="https://sjtu-icat.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>论文与期刊</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2025 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Sun, 29 Jun 2025 14:00:05 +0800</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2025 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Thu, 22 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sjtu-icat.github.io/media/logo.png</url>
       <title>论文与期刊</title>
       <link>https://sjtu-icat.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Unnoticed Yet Effective: A Hybrid Physical Camouflage Framework Against DNNs and Human Perception</title>
+      <link>https://sjtu-icat.github.io/publication/xie2025unn/</link>
+      <pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://sjtu-icat.github.io/publication/xie2025unn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MME-SCI: A Comprehensive and Challenging Science Benchmark for Multimodal Large Language Models</title>
+      <link>https://sjtu-icat.github.io/publication/ruan2025mmesci/</link>
+      <pubDate>Tue, 11 Nov 2025 14:00:05 +0800</pubDate>
+      <guid>https://sjtu-icat.github.io/publication/ruan2025mmesci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DiverSeed: Integrating Active Learning for Target Domain Data Generation in Instruction Tuning</title>
+      <link>https://sjtu-icat.github.io/publication/gao2025diverseed/</link>
+      <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://sjtu-icat.github.io/publication/gao2025diverseed/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>VLRMBench: A Comprehensive and Challenging Benchmark for Vision-Language Reward Models</title>

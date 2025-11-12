@@ -5,7 +5,7 @@
     <link>https://sjtu-icat.github.io/publication-type/2/</link>
       <atom:link href="https://sjtu-icat.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2025 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2025 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Mon, 06 Oct 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sjtu-icat.github.io/media/logo.png</url>
       <title>2</title>
@@ -13,10 +13,10 @@
     </image>
     
     <item>
-      <title>Toward an end-to-end implicit addressee modeling for dialogue disentanglement</title>
-      <link>https://sjtu-icat.github.io/publication/li2024clapp/</link>
-      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://sjtu-icat.github.io/publication/li2024clapp/</guid>
+      <title>DiverSeed: Integrating Active Learning for Target Domain Data Generation in Instruction Tuning</title>
+      <link>https://sjtu-icat.github.io/publication/gao2025diverseed/</link>
+      <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://sjtu-icat.github.io/publication/gao2025diverseed/</guid>
       <description></description>
     </item>
     

@@ -5,12 +5,28 @@
     <link>https://sjtu-icat.github.io/publication-type/1/</link>
       <atom:link href="https://sjtu-icat.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2025 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Sun, 29 Jun 2025 14:00:05 +0800</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2025 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Thu, 22 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sjtu-icat.github.io/media/logo.png</url>
       <title>1</title>
       <link>https://sjtu-icat.github.io/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>Unnoticed Yet Effective: A Hybrid Physical Camouflage Framework Against DNNs and Human Perception</title>
+      <link>https://sjtu-icat.github.io/publication/xie2025unn/</link>
+      <pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://sjtu-icat.github.io/publication/xie2025unn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MME-SCI: A Comprehensive and Challenging Science Benchmark for Multimodal Large Language Models</title>
+      <link>https://sjtu-icat.github.io/publication/ruan2025mmesci/</link>
+      <pubDate>Tue, 11 Nov 2025 14:00:05 +0800</pubDate>
+      <guid>https://sjtu-icat.github.io/publication/ruan2025mmesci/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>VLRMBench: A Comprehensive and Challenging Benchmark for Vision-Language Reward Models</title>
@@ -89,6 +105,14 @@
       <link>https://sjtu-icat.github.io/publication/ruan2024idat/</link>
       <pubDate>Wed, 03 Apr 2024 14:00:05 +0800</pubDate>
       <guid>https://sjtu-icat.github.io/publication/ruan2024idat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward an end-to-end implicit addressee modeling for dialogue disentanglement</title>
+      <link>https://sjtu-icat.github.io/publication/li2024clapp/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://sjtu-icat.github.io/publication/li2024clapp/</guid>
       <description></description>
     </item>
     

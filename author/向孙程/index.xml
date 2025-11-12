@@ -5,7 +5,7 @@
     <link>https://sjtu-icat.github.io/author/%E5%90%91%E5%AD%99%E7%A8%8B/</link>
       <atom:link href="https://sjtu-icat.github.io/author/%E5%90%91%E5%AD%99%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" />
     <description>向孙程</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2025 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Thu, 05 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2025 智能计算机体系结构实验室 · 上海交通大学</copyright><lastBuildDate>Mon, 06 Oct 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sjtu-icat.github.io/author/%E5%90%91%E5%AD%99%E7%A8%8B/avatar_hu81a8336cf6d4727ff05be7837d64edb3_977725_270x270_fill_q75_lanczos_center.jpg</url>
       <title>向孙程</title>
@@ -15,13 +15,21 @@
     <item>
       <title>向孙程</title>
       <link>https://sjtu-icat.github.io/author/%E5%90%91%E5%AD%99%E7%A8%8B/</link>
-      <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
       <guid>https://sjtu-icat.github.io/author/%E5%90%91%E5%AD%99%E7%A8%8B/</guid>
       <description>&lt;p&gt;Hi, I am Suncheng Xiang, a final-year PhD student at Shanghai Jiao Tong University.&lt;/p&gt;
 &lt;p&gt;Before this, I graduated from Changsha University of Science &amp;amp; Technology (CSUST) for B.Eng in Electrical Engineering and Automation in 2014, then obtained the M.Eng from National University of Defense Technology (NUDT) in 2017.&lt;/p&gt;
 &lt;p&gt;My main research topics are computer vision and machine learning. Specifically, I am currently doing research works on person re-identification, domain adaptation, transfer learning and related applications. I am also interested in some image generation and image retrieval tasks, e.g. vehicle re-identification and fine-grained image retrieval tasks.&lt;/p&gt;
 &lt;p&gt;This is my &lt;a href=&#34;https://JeremyXSC.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Homepage&lt;/a&gt;.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>DiverSeed: Integrating Active Learning for Target Domain Data Generation in Instruction Tuning</title>
+      <link>https://sjtu-icat.github.io/publication/gao2025diverseed/</link>
+      <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://sjtu-icat.github.io/publication/gao2025diverseed/</guid>
+      <description></description>
     </item>
     
     <item>
